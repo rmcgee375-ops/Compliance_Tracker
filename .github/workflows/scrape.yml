@@ -2,8 +2,8 @@ name: Compliance Updates Scraper
 
 on:
   schedule:
-    # Run daily at 9 AM UTC (adjust to your timezone)
-    - cron: '0 9 * * *'
+    # Runs Every Monday at 4 PM EST (9 PM UTC)
+    - cron: '0 21 * * 1'  # Every Monday at 4 PM EST (9 PM UTC)
   workflow_dispatch:  # Allow manual triggers
   push:
     branches:

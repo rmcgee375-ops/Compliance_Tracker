@@ -1,0 +1,37 @@
+# Compliance Sources Configuration
+# Add new sources here without modifying the main scraper code
+
+sources:
+  - name: "NIST"
+    url: "https://csrc.nist.gov/news"
+    enabled: true
+    description: "NIST Cybersecurity Resource Center updates"
+    
+  - name: "GDPR/EDPB"
+    url: "https://edpb.europa.eu/news/news_en"
+    enabled: true
+    description: "European Data Protection Board news"
+
+# Additional sources you can enable:
+  
+  # - name: "CISA"
+  #   url: "https://www.cisa.gov/news-events/cybersecurity-advisories"
+  #   enabled: false
+  #   description: "CISA Cybersecurity Advisories"
+  
+  # - name: "ISO"
+  #   url: "https://www.iso.org/news"
+  #   enabled: false
+  #   description: "ISO Standards News"
+  
+  # - name: "ENISA"
+  #   url: "https://www.enisa.europa.eu/news"
+  #   enabled: false
+  #   description: "European Network and Information Security Agency"
+
+# Scraper settings
+settings:
+  timeout: 15  # Request timeout in seconds
+  max_results_per_source: 10  # Maximum updates to track per source
+  retry_attempts: 3  # Number of retry attempts on failure
+  user_agent: "ComplianceBot/1.0 (Compliance Monitoring)"

@@ -1,0 +1,453 @@
+{
+  "metadata": {
+    "last_checked": "2026-02-14T15:51:21.900931",
+    "agencies": [
+      "labor-department",
+      "animal-and-plant-health-inspection-service"
+    ],
+    "total_updates": 16,
+    "new_updates": 16,
+    "lookback_days": 7
+  },
+  "updates": [
+    {
+      "title": "Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs",
+      "type": "Proposed Rule",
+      "abstract": "The Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture is soliciting comments regarding appropriate standards for the care of breeding female dogs at dog breeding facilities and exercise and socialization of dogs subject to the Animal Welfare Act. Information obtained from public comments will help identify outdated standards, new science, and stakeholder interest.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03077/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs",
+      "publication_date": "2026-02-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "936827fba1f7986561d9a30c5c3bad1d"
+    },
+    {
+      "title": "Hazard Communication Standard; Corrections",
+      "type": "Rule",
+      "abstract": null,
+      "html_url": "https://www.federalregister.gov/documents/2026/02/13/C1-2026-00147/hazard-communication-standard-corrections",
+      "publication_date": "2026-02-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "49318aaf332f0bc9f5c24299e84a36af"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Annual Information Return/Report of Employee Benefit Plan",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Employee Benefits Security Administration (EBSA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02785/agency-information-collection-activities-submission-for-omb-review-comment-request-annual",
+      "publication_date": "2026-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "47e73e9709b58949e840a043fe1f2412"
+    },
+    {
+      "title": "Ball Horticultural Company: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for Red Flower Petals African Marigold (Tagetes erecta) Event pBALL123-022-BE113.",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from Ball Horticultural Company seeking a determination of nonregulated status for African marigold (Tagetes erecta) event pBALL123-022-BE113 which has been developed using genetic engineering to produce red flower petals. We are making the petition and draft plant pest risk assessment available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02746/ball-horticultural-company-availability-of-a-petition-for-a-determination-of-nonregulated-status-and",
+      "publication_date": "2026-02-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "80f41375829585fe777c931ea93bc544"
+    },
+    {
+      "title": "U.S. Department of Agriculture, Agricultural Research Service: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for Early and Near-Continuous Flowering T1190 Apple (Malus x Domestica)",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from the U.S. Department of Agriculture, Agricultural Research Service seeking a determination of nonregulated status for T1190 apple (Malus x domestica), which has been developed using genetic engineering to promote early and near- continuous flowering. We are making the petition and draft plant pest risk assessment available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02745/us-department-of-agriculture-agricultural-research-service-availability-of-a-petition-for-a",
+      "publication_date": "2026-02-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "ab31120cb845073ae72a60eed677fe42"
+    },
+    {
+      "title": "Soil Culture Solutions, LLC: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for HLB-Resistant Carrizo Citrange Rootstock (CarriCea)",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from Soil Culture Solutions, LLC seeking a determination of nonregulated status for CarriCea Carrizo citrange rootstock which has been developed using genetic engineering for improved resistance to citrus greening disease (also known as Huanglongbing or HLB). We are making the petition and draft plant pest risk assessment available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02741/soil-culture-solutions-llc-availability-of-a-petition-for-a-determination-of-nonregulated-status-and",
+      "publication_date": "2026-02-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "9cb5a963d0e70d0cbd023ef922664081"
+    },
+    {
+      "title": "Request for Revision to and Extension of Approval of an Information Collection; Importation of Gypsy Moth Host Materials From Canada",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations to prevent the introduction of gypsy moth from Canada into noninfested areas of the United States.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02714/request-for-revision-to-and-extension-of-approval-of-an-information-collection-importation-of-gypsy",
+      "publication_date": "2026-02-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "6aea703aeef0f36a1cf9611caa263c5f"
+    },
+    {
+      "title": "Agency Information Collection Activities; Comment Request; Job Corps Enrollee Allotment Determination",
+      "type": "Notice",
+      "abstract": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Job Corps Enrollee Allotment Determination.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02644/agency-information-collection-activities-comment-request-job-corps-enrollee-allotment-determination",
+      "publication_date": "2026-02-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
+        }
+      ],
+      "hash": "78fd629fb367feaaf5eeb65da6ababe7"
+    },
+    {
+      "title": "Proposed Revision of Information Collection; Contingent Work Supplement to the Current Population Survey",
+      "type": "Notice",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Bureau of Labor Statistics (BLS) is soliciting comments concerning the proposed revision of the \"Contingent Work Supplement (CWS) to the Current Population Survey (CPS).\" A copy of the proposed information collection request can be obtained by contacting the individual listed below in the Addresses section of this notice.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02629/proposed-revision-of-information-collection-contingent-work-supplement-to-the-current-population",
+      "publication_date": "2026-02-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Bureau of Labor Statistics",
+          "name": "Labor Statistics Bureau",
+          "id": 272,
+          "url": "https://www.federalregister.gov/agencies/labor-statistics-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/272",
+          "parent_id": 271,
+          "slug": "labor-statistics-bureau"
+        }
+      ],
+      "hash": "62e198a689c69ff5371b98cce53a79b9"
+    },
+    {
+      "title": "Access to Employee Exposure and Medical Records; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements",
+      "type": "Notice",
+      "abstract": "OSHA solicits public comments concerning the proposal to extend the Office of Management and Budget's (OMB) approval of the information collection requirements contained in the Access to Employee Exposure and Medical Records Standard.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02628/access-to-employee-exposure-and-medical-records-extension-of-the-office-of-management-and-budgets",
+      "publication_date": "2026-02-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "6eb84fe2612641abb13405ab531c32be"
+    },
+    {
+      "title": "TUV Rheinland of North America, Inc.: Application for Expansion of Recognition",
+      "type": "Notice",
+      "abstract": "In this notice, OSHA announces the application of TUV Rheinland of North America, Inc. for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02565/tuv-rheinland-of-north-america-inc-application-for-expansion-of-recognition",
+      "publication_date": "2026-02-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "5f3875c6c31d9e0e262e8a852b7acf84"
+    },
+    {
+      "title": "Aerial Lifts Standard; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements",
+      "type": "Notice",
+      "abstract": "OSHA solicits public comments concerning the proposal to extend the Office of Management and Budget's (OMB) approval of the information collection requirements specified in the Aerial Lifts Standard.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02546/aerial-lifts-standard-extension-of-the-office-of-management-and-budgets-omb-approval-of-information",
+      "publication_date": "2026-02-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "a28522d27ad7e7787f9d7c848aa8e877"
+    },
+    {
+      "title": "FM Approvals LLC: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards",
+      "type": "Notice",
+      "abstract": "In this notice, OSHA announces the application of FM Approvals LLC for expansion of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application. Additionally, OSHA proposes to add one test standard to the NRTL Program's list of appropriate test standards.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02541/fm-approvals-llc-application-for-expansion-of-recognition-and-proposed-modification-to-the-nrtl",
+      "publication_date": "2026-02-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "d8d40eeef9d598b7a0b91efb648491de"
+    },
+    {
+      "title": "Division of Longshore and Harbor Workers' Compensation Guidance for Insurance Carrier Security Deposit Requirements",
+      "type": "Proposed Rule",
+      "abstract": "The Office of Workers' Compensation Program is issuing this guidance to clarify the securitization requirements for insurance carriers authorized under the Longshore and Harbor Workers' Compensation Act (LHWCA) and its extensions. This guidance establishes a rubric which allows OWCP to adjust the insurance carriers' obligations based on their fiscal stability and performance within the Longshore industry and serves to establish a clear and standardized process for determining the amount of collateral an authorized insurance carrier must deposit to cover its potential liabilities. This clarification benefits insurance carriers by providing predictability which aids in capital planning and avoids arbitrary or unexpected security adjustments. This also helps to standardize compliance across the industry and ensures authorized carriers secure their critical obligations. This sub-regulatory guidance does not supersede existing regulations and is intended to provide insurance carriers (carriers) with clarification on the posting of security deposits to collateralize liabilities.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/09/2026-02537/division-of-longshore-and-harbor-workers-compensation-guidance-for-insurance-carrier-security",
+      "publication_date": "2026-02-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "bfe601e6fd0cc536c1656113583f6003"
+    },
+    {
+      "title": "Proposed Revision of Information Collection; Workforce Recruitment Program (WRP)",
+      "type": "Notice",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of Disability Employment Policy, Department of Labor, (ODEP) is soliciting comments on the information collection for the WRP.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/09/2026-02471/proposed-revision-of-information-collection-workforce-recruitment-program-wrp",
+      "publication_date": "2026-02-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Disability Employment Policy",
+          "name": "Disability Employment Policy Office",
+          "id": 115,
+          "url": "https://www.federalregister.gov/agencies/disability-employment-policy-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/115",
+          "parent_id": 271,
+          "slug": "disability-employment-policy-office"
+        }
+      ],
+      "hash": "3d6f880b1049e740d6228bd13c479602"
+    },
+    {
+      "title": "Minimum Wage for Federal Contracts Covered by Executive Order 13658, Notice of Rate Change in Effect",
+      "type": "Notice",
+      "abstract": "The Wage and Hour Division (WHD) of the U.S. Department of Labor (the Department) is issuing this notice to announce the applicable minimum wage rate for workers performing work on or in connection with federal contracts covered by Executive Order 13658, Establishing a Minimum Wage for Contractors (the Executive Order or the order), beginning May 11, 2026. The rates announced in this notice apply to certain types of federal contracts entered into between January 1, 2015, and January 29, 2022, that were not renewed or extended (pursuant to an exercised option or otherwise) on or after January 30, 2022. Beginning on May 11, 2026, the Executive Order 13658 minimum wage rate that generally must be paid to workers performing work on or in connection with contracts covered by Executive Order 13658 will increase to $13.65 per hour, while the required minimum cash wage that generally must be paid to tipped employees performing work on or in connection with covered contracts will increase to $9.55 per hour.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/09/2026-02466/minimum-wage-for-federal-contracts-covered-by-executive-order-13658-notice-of-rate-change-in-effect",
+      "publication_date": "2026-02-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Wage and Hour Division",
+          "name": "Wage and Hour Division",
+          "id": 524,
+          "url": "https://www.federalregister.gov/agencies/wage-and-hour-division",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/524",
+          "parent_id": 271,
+          "slug": "wage-and-hour-division"
+        }
+      ],
+      "hash": "c0e1e7179ed243df29f67eaac81c8520"
+    }
+  ]
+}

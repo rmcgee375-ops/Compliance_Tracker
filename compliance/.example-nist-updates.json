@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "source": "https://csrc.nist.gov/news",
+    "source_name": "NIST",
+    "last_checked": "2025-02-14T09:00:00",
+    "scraper_version": "1.0.0",
+    "total_updates": 10,
+    "new_updates": 2
+  },
+  "updates": [
+    {
+      "title": "NIST Releases Updated Cybersecurity Framework 2.0",
+      "link": "https://csrc.nist.gov/news/2025/cybersecurity-framework-2-0",
+      "published_date": "2025-02-10",
+      "scraped_date": "2025-02-14",
+      "hash": "a1b2c3d4e5f6"
+    },
+    {
+      "title": "New Guidelines for Post-Quantum Cryptography",
+      "link": "https://csrc.nist.gov/news/2025/post-quantum-crypto-guidelines",
+      "published_date": "2025-02-08",
+      "scraped_date": "2025-02-14",
+      "hash": "f6e5d4c3b2a1"
+    }
+  ]
+}

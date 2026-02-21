@@ -1,4 +1,4 @@
-name: Compliance Updates Scraper
+name: Compliance Updates Tool
 
 on:
   schedule:

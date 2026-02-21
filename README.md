@@ -19,6 +19,9 @@ Currently tracking:
 
 1. **NIST** - https://csrc.nist.gov/news
 2. **GDPR/EDPB** - https://edpb.europa.eu/news/news_en
+3. **DOL and USDA/APHIS** https://www.federalregister.gov/agencies
+    "labor-department",
+    "animal-and-plant-health-inspection-service"
 
 ## Setup
 

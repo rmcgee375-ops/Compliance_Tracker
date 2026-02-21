@@ -1,15 +1,34 @@
 {
   "metadata": {
-    "last_checked": "2026-02-21T04:06:56.604113",
+    "last_checked": "2026-02-21T16:38:44.217501",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 12,
-    "new_updates": 11,
+    "total_updates": 13,
+    "new_updates": 1,
     "lookback_days": 7
   },
   "updates": [
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Job Corps Application Data",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Employment and Training Administration (ETA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03490/agency-information-collection-activities-submission-for-omb-review-comment-request-job-corps",
+      "publication_date": "2026-02-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "1974d6924fab563c68f9141369858db8"
+    },
     {
       "title": "Notice of Request for Extension of Approval of an Information Collection; Emergency Management Response System",
       "type": "Notice",

@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-02-21T04:06:56.288274",
-  "total_new_updates": 1,
+  "run_date": "2026-02-21T16:38:43.849254",
+  "total_new_updates": 0,
   "sources": [
     {
       "source": "NIST",
@@ -12,17 +12,9 @@
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 1,
+      "new_count": 0,
       "total_count": 10,
-      "new_updates": [
-        {
-          "title": "EDPB identifies challenges hindering the full implementation of the right to erasure",
-          "link": "https://edpb.europa.eu/news/news/2026/edpb-identifies-challenges-hindering-full-implementation-right-erasure_en",
-          "published_date": null,
-          "scraped_date": "2026-02-21",
-          "hash": "e404df879362694eb4bdd0a0fc2bd46c"
-        }
-      ]
+      "new_updates": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Compliance_Tracker
 Flat data scraping for privacy reg updates
-# Compliance Updates Scraper
+# Compliance Updates Tool
 
 Automated tool to monitor information security and privacy regulation websites for updates. Runs on GitHub Actions and creates issues when new updates are found.
 

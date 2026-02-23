@@ -2,7 +2,7 @@
   "metadata": {
     "source": "https://csrc.nist.gov/news",
     "source_name": "NIST",
-    "last_checked": "2026-02-21T16:38:42.325634",
+    "last_checked": "2026-02-23T23:09:24.012338",
     "scraper_version": "1.2.0",
     "total_updates": 15,
     "new_updates": 0
@@ -12,105 +12,105 @@
       "title": "Data Classification Practices: SP 1800-39 ipd",
       "link": "https://csrc.nist.gov/News/2026/sp-1800-39-ipd-data-classification-practices",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "fccaa15914aa50663bce756ead2a5ecc"
     },
     {
       "title": "NIST releases IR 8446",
       "link": "https://csrc.nist.gov/News/2026/nist-releases-ir-8446",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "4274d2ad757725867020e1d25652362f"
     },
     {
       "title": "Transit Agencies: Draft CSF Community Profile",
       "link": "https://csrc.nist.gov/News/2026/transit-agencies-draft-csf-profile",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "772735d747d5ddcb9ff63891e7b812e8"
     },
     {
       "title": "Comment on NIST SP 800-82",
       "link": "https://csrc.nist.gov/News/2026/comment-on-nist-sp-800-82",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "7096a193852a32dd550bb59fae53104d"
     },
     {
       "title": "NIST and Multi-Party Threshold Schemes",
       "link": "https://csrc.nist.gov/News/2026/nist-and-multi-party-threshold-schemes",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "1fd6bf2d51a06cf0aebbdff1697d8337"
     },
     {
       "title": "NIST to Revise Key Establishment Recommendations",
       "link": "https://csrc.nist.gov/News/2026/nist-to-revise-key-establishment-recommendations",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "f2b930b6a70ff9800fb20f40139bc516"
     },
     {
       "title": "Comment on NIST IR 8587 initial public draft",
       "link": "https://csrc.nist.gov/News/2025/comment-on-nist-ir-8587-initial-public-draft",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "3a4a7a8c96cc368a5fd9a939f06058fb"
     },
     {
       "title": "Considerations for Achieving Crypto Agility",
       "link": "https://csrc.nist.gov/News/2025/considerations-for-achieving-crypto-agility",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "8fbe4cabadcc2526aa337dca028be9d3"
     },
     {
       "title": "NIST Revises IR 8286 Suite of Reports",
       "link": "https://csrc.nist.gov/News/2025/nist-revises-ir-8286-suite-of-reports",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "0db391ec22354e1a8045d52c8dba63eb"
     },
     {
       "title": "NIST Cybersecurity White Paper CSWP 34",
       "link": "https://csrc.nist.gov/News/2025/nist-cybersecurity-white-paper-cswp-34",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "be9ed73007389a2357facdd676662ba8"
     },
     {
       "title": "Draft SSDF 1.2 Available for Comment",
       "link": "https://csrc.nist.gov/News/2025/draft-ssdf-version-1-2",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "b7628aec1dc86f62d2acb48467cff63f"
     },
     {
       "title": "NIST releases prelim draft of Cyber AI profile",
       "link": "https://csrc.nist.gov/News/2025/nist-releases-prelim-draft-cyber-ai-profile",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "f69fd19775b24e0e7c49f2aca5dd3afc"
     },
     {
       "title": "NIST Releases SP 800-126 & SP 800-126A",
       "link": "https://csrc.nist.gov/News/2025/nist-releases-sp-800-126-sp-800-126a",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "e2e4b02e8380dfa6c2da7453923bd8a1"
     },
     {
       "title": "Draft SP 800-70 Rev 5 is available for comment",
       "link": "https://csrc.nist.gov/News/2025/draft-sp-800-70-rev-5-is-available-for-comment",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "cd2d3b0db361e7f0cb7739d73f1bbb96"
     },
     {
       "title": "Comment on SP 800-57pt1r6 Initial Public Draft",
       "link": "https://csrc.nist.gov/News/2025/comment-on-sp-800-57pt1r6-initial-public-draft",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "b03703b32f45712a9f333210d1e635e0"
     }
   ]

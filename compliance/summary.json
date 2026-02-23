@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-02-21T16:38:43.849254",
-  "total_new_updates": 0,
+  "run_date": "2026-02-23T23:09:25.220162",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
@@ -12,9 +12,17 @@
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 0,
+      "new_count": 1,
       "total_count": 10,
-      "new_updates": []
+      "new_updates": [
+        {
+          "title": "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly\u2019s statement",
+          "link": "https://edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
+          "published_date": null,
+          "scraped_date": "2026-02-23",
+          "hash": "7de761fdc7b2b91d84ded94cf1a95f59"
+        }
+      ]
     }
   ]
 }

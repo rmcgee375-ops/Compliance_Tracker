@@ -2,81 +2,81 @@
   "metadata": {
     "source": "https://edpb.europa.eu/news/news_en",
     "source_name": "GDPR/EDPB",
-    "last_checked": "2026-02-21T16:38:43.848869",
+    "last_checked": "2026-02-23T23:09:25.219858",
     "scraper_version": "1.2.0",
     "total_updates": 10,
-    "new_updates": 0
+    "new_updates": 1
   },
   "updates": [
+    {
+      "title": "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly\u2019s statement",
+      "link": "https://edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
+      "published_date": null,
+      "scraped_date": "2026-02-23",
+      "hash": "7de761fdc7b2b91d84ded94cf1a95f59"
+    },
     {
       "title": "EDPB identifies challenges hindering the full implementation of the right to erasure",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-identifies-challenges-hindering-full-implementation-right-erasure_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "e404df879362694eb4bdd0a0fc2bd46c"
     },
     {
       "title": "Making GDPR compliance easier through new initiatives: a key focus of the EDPB work programme 2026-2027",
       "link": "https://edpb.europa.eu/news/news/2026/making-gdpr-compliance-easier-through-new-initiatives-key-focus-edpb-work-programme_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "7d1064f6ee7da2a6b4a429c7d2713ad3"
     },
     {
       "title": "EDPB work programme 2026-2027: easing compliance and strengthening cooperation across the evolving digital landscape",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-work-programme-2026-2027-easing-compliance-and-strengthening-cooperation-across_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "c4be85f4cfc855be15674dda9a24511c"
     },
     {
       "title": "Digital Omnibus: EDPB and EDPS support simplification and competitiveness while raising key concerns",
       "link": "https://edpb.europa.eu/news/news/2026/digital-omnibus-edpb-and-edps-support-simplification-and-competitiveness-while_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "f0e78860fa2b7e8a15f49d232da9dfc3"
     },
     {
       "title": "Register now for our conference on cross-regulatory cooperation in the EU (17 March)",
       "link": "https://edpb.europa.eu/news/news/2026/register-now-our-conference-cross-regulatory-cooperation-eu-17-march_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "af405dd2129c28ce55f8d9361e8a94fa"
     },
     {
       "title": "Stakeholder event on political advertising: express your interest",
       "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-express-your-interest_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "fb75e87046c437be0a07855ff7648d05"
     },
     {
       "title": "Data Protection Day 2026: keeping children\u2019s personal data safe online",
       "link": "https://edpb.europa.eu/news/news/2026/data-protection-day-2026-keeping-childrens-personal-data-safe-online_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "17f565ce95a55f23b72e515db632a72a"
     },
     {
       "title": "EDPB and EDPS support streamlining AI Act implementation but call for stronger safeguards to protect fundamental rights",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-and-edps-support-streamlining-ai-act-implementation-call-stronger-safeguards_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "5b8a6da1599251c7807cf45b09deb10e"
     },
     {
       "title": "EDPB contributes to the LED evaluation and adopts recommendations on the application for Processor BCR",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-contributes-led-evaluation-and-adopts-recommendations-application-processor-bcr_en",
       "published_date": null,
-      "scraped_date": "2026-02-21",
+      "scraped_date": "2026-02-23",
       "hash": "18b13e59e44ea72a138ec52680b6a7af"
-    },
-    {
-      "title": "EDPB gives recommendations to make online shopping more respectful of users\u2019 privacy, discusses the Digital Omnibus proposal and appoints new Deputy Chair",
-      "link": "https://edpb.europa.eu/news/news/2025/edpb-gives-recommendations-make-online-shopping-more-respectful-users-privacy_en",
-      "published_date": null,
-      "scraped_date": "2026-02-21",
-      "hash": "db00c2dd7957735f1a2e17e0415644d7"
     }
   ]
 }

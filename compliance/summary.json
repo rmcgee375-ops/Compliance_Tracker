@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-03-02T21:40:09.805426",
-  "total_new_updates": 0,
+  "run_date": "2026-03-09T21:39:07.238579",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
@@ -12,9 +12,24 @@
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 0,
+      "new_count": 2,
       "total_count": 10,
-      "new_updates": []
+      "new_updates": [
+        {
+          "title": "Stakeholder event on political advertising: agenda available now",
+          "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
+          "published_date": null,
+          "scraped_date": "2026-03-09",
+          "hash": "fcb66825225bb9822a51ab6cf7a47ca1"
+        },
+        {
+          "title": "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
+          "link": "https://edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
+          "published_date": null,
+          "scraped_date": "2026-03-09",
+          "hash": "dd4e93f2c7974c14d27c9a2873e98bc6"
+        }
+      ]
     }
   ]
 }

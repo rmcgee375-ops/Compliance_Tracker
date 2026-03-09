@@ -1,15 +1,250 @@
 {
   "metadata": {
-    "last_checked": "2026-03-02T21:40:10.142980",
+    "last_checked": "2026-03-09T21:39:07.549542",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 15,
-    "new_updates": 14,
+    "total_updates": 11,
+    "new_updates": 10,
     "lookback_days": 7
   },
   "updates": [
+    {
+      "title": "Pioneer Hi-Bred International, Inc.; Availability of a Request and Plant Pest Risk Similarity Assessment for an Extension of Determination of Nonregulated Status for Maize (Corn) Genetically Engineered for Insect Resistance and Herbicide Tolerance",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a request to extend our determination of nonregulated status of Pioneer Hi-Bred International, Inc.'s (Pioneer's) DP23211 insect-resistant and glufosinate-ammonium-tolerant maize (corn) to DP51291 maize (corn). Similar to DP23211 corn, DP51291 corn was genetically engineered to express the IPD072Aa protein for control of certain susceptible corn rootworm pests, the phosphinothricin acetyltransferase protein as a selectable marker and for tolerance to glufosinate herbicide, and the phosphomannose isomerase protein as a selectable marker. We are making the extension request, our draft plant pest risk similarity assessment, and preliminary determination of nonregulated status available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04459/pioneer-hi-bred-international-inc-availability-of-a-request-and-plant-pest-risk-similarity",
+      "publication_date": "2026-03-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "a7b535cc00d4ee88eb21d7c65a843437"
+    },
+    {
+      "title": "Proposed (Extension Without Change) of Information Collection; Securing Financial Obligations Under the Longshore and Harbor Workers' Compensation Act and Its Extensions",
+      "type": "Notice",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of Workers' Compensation Programs, Division of Longshore and Harbor Workers' Compensation, OWCP/ DLHWC is soliciting comments on the information collection for Securing Financial Obligations Under the Longshore and Harbor Workers' Compensation Act and its Extensions.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04409/proposed-extension-without-change-of-information-collection-securing-financial-obligations-under-the",
+      "publication_date": "2026-03-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "816e7c99614fbd1c5ebdfa215072e742"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Intervention, Longshore and Harbor Workers' Compensation Act",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04408/agency-information-collection-activities-submission-for-omb-review-comment-request-request-for",
+      "publication_date": "2026-03-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "40f89d0a4db18d173fb8ec192cb8e574"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Hexavalent Chromium Standards for General Industry",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Occupational Safety & Health Administration (OSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04364/agency-information-collection-activities-submission-for-omb-review-comment-request-hexavalent",
+      "publication_date": "2026-03-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "e9811288cdb68d225f3f7a7c0be0347a"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Federal-State Unemployment Insurance Program Data Exchange Standardization",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Employment and Training Administration (ETA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04363/agency-information-collection-activities-submission-for-omb-review-comment-request-federal-state",
+      "publication_date": "2026-03-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "ffbd7d2d4366df7efc8ec003d823e1ed"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Protections for Transit Workers Under Section 5333(b) Urban Program",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL of the Department) is submitting this Office of Labor-Management Standards, Department of Labor (OLMS)- sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04362/agency-information-collection-activities-submission-for-omb-review-comment-request-protections-for",
+      "publication_date": "2026-03-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "f435ecba7722928fd44d4e1d5e83a9d7"
+    },
+    {
+      "title": "Addition of Sri Lanka to the List of Regions Affected by African Swine Fever",
+      "type": "Notice",
+      "abstract": "We are advising the public that we have added Sri Lanka to the Animal and Plant Health Inspection Service (APHIS) list maintained on the APHIS website of regions considered to be affected by African swine fever (ASF). We have taken this action because of the confirmation of ASF in this country.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04316/addition-of-sri-lanka-to-the-list-of-regions-affected-by-african-swine-fever",
+      "publication_date": "2026-03-04",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "2e18eddff50df7a6c9c57afdec39a00e"
+    },
+    {
+      "title": "Notice of Proposed Revision to Requirements for the Importation of Pineapples From Taiwan Into the United States",
+      "type": "Notice",
+      "abstract": "We are advising the public that we have prepared a pest risk assessment (PRA) and a risk management document (RMD) relative to the importation into the United States of fresh pineapple (Ananas comosus (L.) Merr.) fruit from Taiwan. Currently, fresh pineapple fruit from Taiwan must be at least 50 percent Smooth Cayenne by lineage in order to be authorized importation into the United States, and may only be imported into Guam or the Commonwealth of the Northern Mariana Islands, among other import conditions. However, the national plant protection organization (NPPO) of Taiwan has asked APHIS for expanded authorization to import any variety of fresh pineapple fruit into any State or Territory of the United States. Based on the NPPO's request, APHIS has prepared a PRA that evaluates the plant pest and noxious weed risk associated with the importation of fresh pineapple fruit from Taiwan into the United States, and an RMD that proposes mitigations to address these risks. We are making the PRA and RMD available to the public for review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04206/notice-of-proposed-revision-to-requirements-for-the-importation-of-pineapples-from-taiwan-into-the",
+      "publication_date": "2026-03-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "1832f4641bd84fa7426fd0c792cda4d8"
+    },
+    {
+      "title": "Notice of Availability of a Pest Risk Analysis for the Importation of Globe Artichoke From Sardinia, Italy Into the United States",
+      "type": "Notice",
+      "abstract": "We are advising the public that we have prepared a pest risk analysis that evaluates the risks associated with the importation of fresh, immature flower buds of globe artichoke (Cynara cardunculus, also known as spiny artichoke) from Sardinia, Italy into the United States. Based on the analysis, we have determined that the application of one or more designated phytosanitary measures will be sufficient to mitigate the risks of introducing or disseminating plant pests or noxious weeds via the importation of globe artichoke from Sardinia, Italy into the United States. We are making the pest risk analysis available to the public for review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04205/notice-of-availability-of-a-pest-risk-analysis-for-the-importation-of-globe-artichoke-from-sardinia",
+      "publication_date": "2026-03-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "00914c6e909a317b3eb8d9cea9f6454b"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Components of the Jobs for Veterans State Grants State Plans",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Veterans' Employment and Training Service (VETS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04138/agency-information-collection-activities-submission-for-omb-review-comment-request-components-of-the",
+      "publication_date": "2026-03-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "f2da984c248030d962c5f77ff239a31a"
+    },
     {
       "title": "Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure; Extension of Comment Period",
       "type": "Proposed Rule",
@@ -37,416 +272,6 @@
         }
       ],
       "hash": "d6ede5f71d3d30cfa55f94ea22260eca"
-    },
-    {
-      "title": "Revision to and Extension of Approval of an Information Collection; Endangered Species Regulations and Forfeiture Procedures",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations for the protection of endangered species of terrestrial plants and for procedures related to the forfeiture of plants or other property.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03969/revision-to-and-extension-of-approval-of-an-information-collection-endangered-species-regulations",
-      "publication_date": "2026-02-27",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "0c684998c08f16023c96f041e3fb844d"
-    },
-    {
-      "title": "Intertek Testing Services NA, Inc.: Application for Expansion of Recognition",
-      "type": "Notice",
-      "abstract": "In this notice, OSHA announces the application of Intertek Testing Services NA, Inc., for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03964/intertek-testing-services-na-inc-application-for-expansion-of-recognition",
-      "publication_date": "2026-02-27",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "d95d2ee19397df15f91167cc8aa5472a"
-    },
-    {
-      "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
-      "type": "Proposed Rule",
-      "abstract": "The Department is proposing to rescind the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA) currently set forth in 29 CFR part 795 and replace it with the analysis that it published and adopted in a prior final rule dated January 7, 2021, with a few modifications. In addition, the Department proposes to apply this analysis to the Family and Medical Leave Act (FMLA) and Migrant and Seasonal Agricultural Worker Protection Act (MSPA), both of which incorporate the FLSA's scope of employment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
-      "publication_date": "2026-02-27",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Wage and Hour Division",
-          "name": "Wage and Hour Division",
-          "id": 524,
-          "url": "https://www.federalregister.gov/agencies/wage-and-hour-division",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/524",
-          "parent_id": 271,
-          "slug": "wage-and-hour-division"
-        }
-      ],
-      "hash": "082021480895cedd96585be584b47778"
-    },
-    {
-      "title": "Update to MSHA's Address; Technical Amendment",
-      "type": "Rule",
-      "abstract": "The Mine Safety and Health Administration (MSHA) is amending its published regulations to update the Agency's Headquarters address from Arlington, VA to its new location in Washington, DC.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03902/update-to-mshas-address-technical-amendment",
-      "publication_date": "2026-02-26",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Mine Safety and Health Administration",
-          "name": "Mine Safety and Health Administration",
-          "id": 288,
-          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
-          "parent_id": 271,
-          "slug": "mine-safety-and-health-administration"
-        }
-      ],
-      "hash": "64cb9034d87c8df0edcfa7336961098f"
-    },
-    {
-      "title": "Revision to and Extension of Approval of an Information Collection; 7 CFR Part 340; Introduction of Organisms and Products Altered or Produced Through Genetic Engineering",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations for the introduction of organisms and products altered or produced through genetic engineering.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03859/revision-to-and-extension-of-approval-of-an-information-collection-7-cfr-part-340-introduction-of",
-      "publication_date": "2026-02-26",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "b4d3429f2024413df91673f1d27a62f4"
-    },
-    {
-      "title": "Formaldehyde Standard; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements",
-      "type": "Notice",
-      "abstract": "OSHA solicits public comments concerning its proposal to extend the Office of Management and Budget (OMB) approval of the information collection requirements specified in its Formaldehyde Standard.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03834/formaldehyde-standard-extension-of-the-office-of-management-and-budgets-omb-approval-of-information",
-      "publication_date": "2026-02-26",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "cdcbcf6f4ff7305d6617032e2f53693e"
-    },
-    {
-      "title": "Exemption Involving the International Union of Operating Engineers Local Union 627 Training Fund of Oklahoma (the Plan or the Applicant) Located in Oklahoma City, OK",
-      "type": "Notice",
-      "abstract": "This document provides notice of an individual exemption from certain prohibited transaction restrictions of the Employee Retirement Income Security Act of 1974 (ERISA) and/or the Internal Revenue Code of 1986 (the Code). This exemption permits certain loans (the Loans) by the International Union of Operating Engineers Local Union 627 (Local 627) to the Plan, so the Plan can purchase heavy machinery.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03827/exemption-involving-the-international-union-of-operating-engineers-local-union-627-training-fund-of",
-      "publication_date": "2026-02-26",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employee Benefits Security Administration",
-          "name": "Employee Benefits Security Administration",
-          "id": 131,
-          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
-          "parent_id": 271,
-          "slug": "employee-benefits-security-administration"
-        }
-      ],
-      "hash": "b5802176ebababbcc64b7a3ff3c3864c"
-    },
-    {
-      "title": "Exemption Involving the Liberty Latin America 401(k) Savings Plan (the Plan or the Applicant) Located in Denver, CO",
-      "type": "Notice",
-      "abstract": "This document provides notice of an individual exemption from certain prohibited transaction restrictions of the Employee Retirement Income Security Act of 1974 (ERISA) and/or the Internal Revenue Code of 1986 (the Code). This exemption permits the Plan's acquisition, holding and sale of certain stock rights the Plan received from Liberty Latin America Ltd. in September 2020.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03826/exemption-involving-the-liberty-latin-america-401k-savings-plan-the-plan-or-the-applicant-located-in",
-      "publication_date": "2026-02-26",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employee Benefits Security Administration",
-          "name": "Employee Benefits Security Administration",
-          "id": 131,
-          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
-          "parent_id": 271,
-          "slug": "employee-benefits-security-administration"
-        }
-      ],
-      "hash": "e13248a368027be319393e4cac751360"
-    },
-    {
-      "title": "Proposed Exemption From Certain Prohibited Transaction Restrictions for Certain Asset Managers Related to UBS AG (UBS) Located in Zurich, Switzerland",
-      "type": "Notice",
-      "abstract": "If granted, this proposed exemption would allow certain current and future UBS-related asset managers to rely on Prohibited Transaction Exemption (PTE) 84-14 until May 4, 2031, if certain conditions are met, notwithstanding four judgments of conviction and one non-prosecution agreement involving entities within UBS' corporate umbrella.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03825/proposed-exemption-from-certain-prohibited-transaction-restrictions-for-certain-asset-managers",
-      "publication_date": "2026-02-26",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employee Benefits Security Administration",
-          "name": "Employee Benefits Security Administration",
-          "id": 131,
-          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
-          "parent_id": 271,
-          "slug": "employee-benefits-security-administration"
-        }
-      ],
-      "hash": "a4cf3c7275d1dc9775318672ecb3a559"
-    },
-    {
-      "title": "Private Health Insurance; Transparency in Coverage; Extension of Comment Period",
-      "type": "Proposed Rule",
-      "abstract": "This document extends the comment period for the proposed rule that appeared in the Federal Register on December 23, 2025, titled \"Transparency in Coverage\". The comment period for the proposed rule, which would end on February 23, 2026, is extended until March 2, 2026.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03798/private-health-insurance-transparency-in-coverage-extension-of-comment-period",
-      "publication_date": "2026-02-25",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Internal Revenue Service",
-          "name": "Internal Revenue Service",
-          "id": 254,
-          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
-          "parent_id": 497,
-          "slug": "internal-revenue-service"
-        },
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employee Benefits Security Administration",
-          "name": "Employee Benefits Security Administration",
-          "id": 131,
-          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
-          "parent_id": 271,
-          "slug": "employee-benefits-security-administration"
-        },
-        {
-          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-          "name": "Health and Human Services Department",
-          "id": 221,
-          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
-          "parent_id": null,
-          "slug": "health-and-human-services-department"
-        }
-      ],
-      "hash": "b434738f30c2cbd3a32110def89ba001"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Occupational Requirements Survey",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03739/agency-information-collection-activities-submission-for-omb-review-occupational-requirements-survey",
-      "publication_date": "2026-02-25",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Bureau of Labor Statistics",
-          "name": "Labor Statistics Bureau",
-          "id": 272,
-          "url": "https://www.federalregister.gov/agencies/labor-statistics-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/272",
-          "parent_id": 271,
-          "slug": "labor-statistics-bureau"
-        }
-      ],
-      "hash": "3ce3a6149191f25c63c910362afc916f"
-    },
-    {
-      "title": "Requirement To Provide Paper Statements in Certain Cases-Amendments to Electronic Disclosure Safe Harbors",
-      "type": "Proposed Rule",
-      "abstract": "The Department of Labor (Department) is proposing narrow amendments to two separate electronic disclosure safe harbors for purposes of implementing section 338 of the SECURE 2.0 Act of 2022 (SECURE 2.0). Taken together, the two existing safe harbors permit the broad use of electronic disclosure under prescribed conditions for the furnishing of required disclosures under Title I of the Employee Retirement Income Security Act of 1974 (ERISA). Section 338 of SECURE 2.0 amended section 105(a)(2) of ERISA to require retirement plans to provide paper benefit statements in certain cases. Section 338 also instructed the Department to update its electronic disclosure safe harbors in connection with the statutory changes. The proposed amendments would implement these Congressional mandates.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03723/requirement-to-provide-paper-statements-in-certain-cases-amendments-to-electronic-disclosure-safe",
-      "publication_date": "2026-02-25",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employee Benefits Security Administration",
-          "name": "Employee Benefits Security Administration",
-          "id": 131,
-          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
-          "parent_id": 271,
-          "slug": "employee-benefits-security-administration"
-        }
-      ],
-      "hash": "1d003028ecd37ae2c1adb751ae10da46"
-    },
-    {
-      "title": "Agency Information Collection Activities; Comment Request; Report of Construction Contractor's Wage Rates",
-      "type": "Notice",
-      "abstract": "The Department of Labor (Department) is soliciting comments concerning a proposed extension of the information collection request (ICR) titled \"Report of Construction Contractor's Wage Rates.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA). The Department proposes to extend the approval of this existing information collection without change to existing requirements. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. A copy of the proposed information request can be obtained by contacting the office listed below in the FOR FURTHER INFORMATION CONTACT section of this Notice.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03701/agency-information-collection-activities-comment-request-report-of-construction-contractors-wage",
-      "publication_date": "2026-02-25",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Wage and Hour Division",
-          "name": "Wage and Hour Division",
-          "id": 524,
-          "url": "https://www.federalregister.gov/agencies/wage-and-hour-division",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/524",
-          "parent_id": 271,
-          "slug": "wage-and-hour-division"
-        }
-      ],
-      "hash": "dde998bf8e6e2655542df6b94d05f832"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Job Corps Application Data",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Employment and Training Administration (ETA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03490/agency-information-collection-activities-submission-for-omb-review-comment-request-job-corps",
-      "publication_date": "2026-02-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "1974d6924fab563c68f9141369858db8"
     }
   ]
 }

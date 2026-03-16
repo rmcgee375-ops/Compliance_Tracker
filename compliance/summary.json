@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-03-09T21:39:07.238579",
-  "total_new_updates": 2,
+  "run_date": "2026-03-16T21:47:34.394850",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
@@ -12,22 +12,15 @@
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 2,
+      "new_count": 1,
       "total_count": 10,
       "new_updates": [
         {
-          "title": "Stakeholder event on political advertising: agenda available now",
-          "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
+          "title": "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
+          "link": "https://edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
           "published_date": null,
-          "scraped_date": "2026-03-09",
-          "hash": "fcb66825225bb9822a51ab6cf7a47ca1"
-        },
-        {
-          "title": "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
-          "link": "https://edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
-          "published_date": null,
-          "scraped_date": "2026-03-09",
-          "hash": "dd4e93f2c7974c14d27c9a2873e98bc6"
+          "scraped_date": "2026-03-16",
+          "hash": "9ae5cc93e40805c0c0b8080407ed2d06"
         }
       ]
     }

@@ -1,62 +1,26 @@
 {
-  "run_date": "2026-03-23T21:43:03.278181",
-  "total_new_updates": 6,
+  "run_date": "2026-03-30T21:50:07.763028",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 4,
+      "new_count": 0,
       "total_count": 15,
-      "new_updates": [
-        {
-          "title": "NIST Releases Two New CSF 2.0 Quick-Start Guides",
-          "link": "https://csrc.nist.gov/News/2026/two-new-csf-2-0-quick-start-guides",
-          "published_date": null,
-          "scraped_date": "2026-03-23",
-          "hash": "15d7c25e182d931e25fcf07e85a61fdc"
-        },
-        {
-          "title": "NIST SP 800-81r3 Final Publication",
-          "link": "https://csrc.nist.gov/News/2026/nist-sp-800-81r3-final-publication",
-          "published_date": null,
-          "scraped_date": "2026-03-23",
-          "hash": "5e9f96a426ee2c9b44cdae5b39c9ac2e"
-        },
-        {
-          "title": "NIST releases CSWP 36 Final, Volumes A-E",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-cswp-36-final-volumes-a-e",
-          "published_date": null,
-          "scraped_date": "2026-03-23",
-          "hash": "c0e52c824bfafd9725cdec80c5bc547c"
-        },
-        {
-          "title": "mDL for Financial Institutions: Draft Guidelines",
-          "link": "https://csrc.nist.gov/News/2026/mdl-for-financial-institutions-draft-guidelines",
-          "published_date": null,
-          "scraped_date": "2026-03-23",
-          "hash": "64d22841f7a13bd312819314b43a6b85"
-        }
-      ]
+      "new_updates": []
     },
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 2,
+      "new_count": 1,
       "total_count": 10,
       "new_updates": [
         {
-          "title": "EDPB and EDPS support strengthening EU\u2019s cybersecurity and easing compliance while protecting individuals\u2019 personal data",
-          "link": "https://edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
+          "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+          "link": "https://edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
           "published_date": null,
-          "scraped_date": "2026-03-23",
-          "hash": "14b9c70216a24d47d8eea8bc21455a05"
-        },
-        {
-          "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
-          "link": "https://edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
-          "published_date": null,
-          "scraped_date": "2026-03-23",
-          "hash": "b24df3084ac79cd74fb7ac6892873a64"
+          "scraped_date": "2026-03-30",
+          "hash": "8f2e48ecfe653b4696e086850ca8ca4a"
         }
       ]
     }

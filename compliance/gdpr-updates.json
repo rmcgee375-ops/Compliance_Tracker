@@ -2,81 +2,81 @@
   "metadata": {
     "source": "https://edpb.europa.eu/news/news_en",
     "source_name": "GDPR/EDPB",
-    "last_checked": "2026-03-23T21:43:03.277890",
+    "last_checked": "2026-03-30T21:50:07.762729",
     "scraper_version": "1.2.0",
     "total_updates": 10,
-    "new_updates": 2
+    "new_updates": 1
   },
   "updates": [
+    {
+      "title": "EDPB conference on cross-regulatory cooperation: what we learned",
+      "link": "https://edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
+      "published_date": null,
+      "scraped_date": "2026-03-30",
+      "hash": "8f2e48ecfe653b4696e086850ca8ca4a"
+    },
     {
       "title": "EDPB and EDPS support strengthening EU\u2019s cybersecurity and easing compliance while protecting individuals\u2019 personal data",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "14b9c70216a24d47d8eea8bc21455a05"
     },
     {
       "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
       "link": "https://edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "b24df3084ac79cd74fb7ac6892873a64"
     },
     {
       "title": "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "9ae5cc93e40805c0c0b8080407ed2d06"
     },
     {
       "title": "Stakeholder event on political advertising: agenda available now",
       "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "fcb66825225bb9822a51ab6cf7a47ca1"
     },
     {
       "title": "Conference on cross-regulatory cooperation in the EU (17 March) - Programme available now",
       "link": "https://edpb.europa.eu/news/news/2026/conference-cross-regulatory-cooperation-eu-17-march-programme-available-now_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "dd4e93f2c7974c14d27c9a2873e98bc6"
     },
     {
       "title": "AI-generated imagery and protection of privacy: EDPB supports joint Global Privacy Assembly\u2019s statement",
       "link": "https://edpb.europa.eu/news/news/2026/ai-generated-imagery-and-protection-privacy-edpb-supports-joint-global-privacy_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "7de761fdc7b2b91d84ded94cf1a95f59"
     },
     {
       "title": "EDPB identifies challenges hindering the full implementation of the right to erasure",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-identifies-challenges-hindering-full-implementation-right-erasure_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "e404df879362694eb4bdd0a0fc2bd46c"
     },
     {
       "title": "Making GDPR compliance easier through new initiatives: a key focus of the EDPB work programme 2026-2027",
       "link": "https://edpb.europa.eu/news/news/2026/making-gdpr-compliance-easier-through-new-initiatives-key-focus-edpb-work-programme_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "7d1064f6ee7da2a6b4a429c7d2713ad3"
     },
     {
       "title": "EDPB work programme 2026-2027: easing compliance and strengthening cooperation across the evolving digital landscape",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-work-programme-2026-2027-easing-compliance-and-strengthening-cooperation-across_en",
       "published_date": null,
-      "scraped_date": "2026-03-23",
+      "scraped_date": "2026-03-30",
       "hash": "c4be85f4cfc855be15674dda9a24511c"
-    },
-    {
-      "title": "Digital Omnibus: EDPB and EDPS support simplification and competitiveness while raising key concerns",
-      "link": "https://edpb.europa.eu/news/news/2026/digital-omnibus-edpb-and-edps-support-simplification-and-competitiveness-while_en",
-      "published_date": null,
-      "scraped_date": "2026-03-23",
-      "hash": "f0e78860fa2b7e8a15f49d232da9dfc3"
     }
   ]
 }

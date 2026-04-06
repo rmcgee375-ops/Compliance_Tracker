@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-03-30T21:50:07.763028",
-  "total_new_updates": 1,
+  "run_date": "2026-04-06T21:42:46.679087",
+  "total_new_updates": 0,
   "sources": [
     {
       "source": "NIST",
@@ -12,17 +12,9 @@
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 1,
+      "new_count": 0,
       "total_count": 10,
-      "new_updates": [
-        {
-          "title": "EDPB conference on cross-regulatory cooperation: what we learned",
-          "link": "https://edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
-          "published_date": null,
-          "scraped_date": "2026-03-30",
-          "hash": "8f2e48ecfe653b4696e086850ca8ca4a"
-        }
-      ]
+      "new_updates": []
     }
   ]
 }

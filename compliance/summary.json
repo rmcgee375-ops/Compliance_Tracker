@@ -1,20 +1,36 @@
 {
-  "run_date": "2026-04-06T21:42:46.679087",
-  "total_new_updates": 0,
+  "run_date": "2026-04-13T21:54:47.710819",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 0,
+      "new_count": 1,
       "total_count": 15,
-      "new_updates": []
+      "new_updates": [
+        {
+          "title": "NIST Releases Draft SP 800-230",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-draft-sp-800-230",
+          "published_date": null,
+          "scraped_date": "2026-04-13",
+          "hash": "3619857970e85d92e186142dce43f704"
+        }
+      ]
     },
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 0,
+      "new_count": 1,
       "total_count": 10,
-      "new_updates": []
+      "new_updates": [
+        {
+          "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
+          "link": "https://edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
+          "published_date": null,
+          "scraped_date": "2026-04-13",
+          "hash": "d399622d5f41bc820302b8ec4e01fa3b"
+        }
+      ]
     }
   ]
 }

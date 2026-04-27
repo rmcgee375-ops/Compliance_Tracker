@@ -1,42 +1,13 @@
 {
-  "run_date": "2026-04-20T21:53:24.961499",
-  "total_new_updates": 6,
+  "run_date": "2026-04-27T21:58:22.809057",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 4,
+      "new_count": 0,
       "total_count": 15,
-      "new_updates": [
-        {
-          "title": "Foundational Cyber Activities for IoT Prod Mfrs.",
-          "link": "https://csrc.nist.gov/News/2026/foundational-cyber-activities-for-iot-prod-mfrs",
-          "published_date": null,
-          "scraped_date": "2026-04-20",
-          "hash": "765067ca6be578964fa697f770233ea7"
-        },
-        {
-          "title": "Recommendation for Cryptographic Key Generation",
-          "link": "https://csrc.nist.gov/News/2026/recommendation-for-cryptographic-key-generation",
-          "published_date": null,
-          "scraped_date": "2026-04-20",
-          "hash": "457b180c992f7ab36a6d1150334cb7b5"
-        },
-        {
-          "title": "NIST Publishes CSWP 52",
-          "link": "https://csrc.nist.gov/News/2026/nist-publishes-cswp-52",
-          "published_date": null,
-          "scraped_date": "2026-04-20",
-          "hash": "fb0fedc99e675b079a5eb6290cc391d2"
-        },
-        {
-          "title": "Small Business Cybersecurity: Non-Employer Firms",
-          "link": "https://csrc.nist.gov/News/2026/small-business-cybersecurity-non-employer-firms",
-          "published_date": null,
-          "scraped_date": "2026-04-20",
-          "hash": "8b21f712b174f6318826f3300eaf35d3"
-        }
-      ]
+      "new_updates": []
     },
     {
       "source": "GDPR/EDPB",
@@ -45,18 +16,18 @@
       "total_count": 10,
       "new_updates": [
         {
-          "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
-          "link": "https://edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+          "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+          "link": "https://edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
           "published_date": null,
-          "scraped_date": "2026-04-20",
-          "hash": "014cbe0ce70285c25824874b0c5d6be2"
+          "scraped_date": "2026-04-27",
+          "hash": "a244bf627da3c81134cacf518de83fdc"
         },
         {
-          "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
-          "link": "https://edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+          "title": "Stakeholder event on competition and data protection: save the date",
+          "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection-save-date_en",
           "published_date": null,
-          "scraped_date": "2026-04-20",
-          "hash": "50119f7e73fbf57cb0f5b2288f6e28ee"
+          "scraped_date": "2026-04-27",
+          "hash": "9987783b436a8201b147b26d21bc3810"
         }
       ]
     }

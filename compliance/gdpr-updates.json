@@ -2,80 +2,80 @@
   "metadata": {
     "source": "https://edpb.europa.eu/news/news_en",
     "source_name": "GDPR/EDPB",
-    "last_checked": "2026-04-27T21:58:22.808814",
+    "last_checked": "2026-05-04T22:07:38.353811",
     "scraper_version": "1.2.0",
     "total_updates": 10,
-    "new_updates": 2
+    "new_updates": 1
   },
   "updates": [
     {
       "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
       "link": "https://edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "a244bf627da3c81134cacf518de83fdc"
     },
     {
-      "title": "Stakeholder event on competition and data protection: save the date",
-      "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection-save-date_en",
+      "title": "Stakeholder event on competition and data protection",
+      "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
-      "hash": "9987783b436a8201b147b26d21bc3810"
+      "scraped_date": "2026-05-04",
+      "hash": "8c8e3cc02cd4c209741a171d44467084"
     },
     {
       "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "014cbe0ce70285c25824874b0c5d6be2"
     },
     {
       "title": "Enhancing compliance and consistency: EDPB adopts DPIA template",
       "link": "https://edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "50119f7e73fbf57cb0f5b2288f6e28ee"
     },
     {
       "title": "EDPB annual report 2025: supporting stakeholders through guidance and dialogue",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-annual-report-2025-supporting-stakeholders-through-guidance-and-dialogue_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "d399622d5f41bc820302b8ec4e01fa3b"
     },
     {
       "title": "EDPB conference on cross-regulatory cooperation: what we learned",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-conference-cross-regulatory-cooperation-what-we-learned_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "8f2e48ecfe653b4696e086850ca8ca4a"
     },
     {
       "title": "EDPB and EDPS support strengthening EU\u2019s cybersecurity and easing compliance while protecting individuals\u2019 personal data",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "14b9c70216a24d47d8eea8bc21455a05"
     },
     {
       "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
       "link": "https://edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "b24df3084ac79cd74fb7ac6892873a64"
     },
     {
       "title": "EDPB and EDPS support harmonisation of clinical trials under European Biotech Act, but call for specific safeguards for sensitive health data",
       "link": "https://edpb.europa.eu/news/news/2026/edpb-and-edps-support-harmonisation-clinical-trials-under-european-biotech-act-call_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "9ae5cc93e40805c0c0b8080407ed2d06"
     },
     {
       "title": "Stakeholder event on political advertising: agenda available now",
       "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-political-advertising-agenda-available-now_en",
       "published_date": null,
-      "scraped_date": "2026-04-27",
+      "scraped_date": "2026-05-04",
       "hash": "fcb66825225bb9822a51ab6cf7a47ca1"
     }
   ]

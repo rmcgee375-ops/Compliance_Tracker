@@ -1,33 +1,34 @@
 {
-  "run_date": "2026-04-27T21:58:22.809057",
+  "run_date": "2026-05-04T22:07:38.354082",
   "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 0,
+      "new_count": 1,
       "total_count": 15,
-      "new_updates": []
+      "new_updates": [
+        {
+          "title": "HPC Security Overlay | NIST Releases SP 800-234",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-234",
+          "published_date": null,
+          "scraped_date": "2026-05-04",
+          "hash": "28994306961882e35d320b1c04f725f8"
+        }
+      ]
     },
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 2,
+      "new_count": 1,
       "total_count": 10,
       "new_updates": [
         {
-          "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
-          "link": "https://edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+          "title": "Stakeholder event on competition and data protection",
+          "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
           "published_date": null,
-          "scraped_date": "2026-04-27",
-          "hash": "a244bf627da3c81134cacf518de83fdc"
-        },
-        {
-          "title": "Stakeholder event on competition and data protection: save the date",
-          "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection-save-date_en",
-          "published_date": null,
-          "scraped_date": "2026-04-27",
-          "hash": "9987783b436a8201b147b26d21bc3810"
+          "scraped_date": "2026-05-04",
+          "hash": "8c8e3cc02cd4c209741a171d44467084"
         }
       ]
     }

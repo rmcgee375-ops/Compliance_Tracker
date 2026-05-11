@@ -1,19 +1,40 @@
 {
-  "run_date": "2026-05-04T22:07:38.354082",
-  "total_new_updates": 2,
+  "run_date": "2026-05-11T22:12:15.062733",
+  "total_new_updates": 5,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 1,
+      "new_count": 4,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "HPC Security Overlay | NIST Releases SP 800-234",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-234",
+          "title": "Final NIST SP 800-70r5 is available",
+          "link": "https://csrc.nist.gov/News/2026/final-nist-sp-800-70r5-is-available",
           "published_date": null,
-          "scraped_date": "2026-05-04",
-          "hash": "28994306961882e35d320b1c04f725f8"
+          "scraped_date": "2026-05-11",
+          "hash": "0a8186d678f82f2f7872a1d659cc9516"
+        },
+        {
+          "title": "TLS | Comment on SP 800-52 Rev. 2",
+          "link": "https://csrc.nist.gov/News/2026/tls-comment-on-sp-800-52-rev-2",
+          "published_date": null,
+          "scraped_date": "2026-05-11",
+          "hash": "be262eb5e29a2cc9792064d2a3291fe3"
+        },
+        {
+          "title": "Foundational PNT Profile | Rev. 2 Initial Draft",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-nistir-8323-rev-2",
+          "published_date": null,
+          "scraped_date": "2026-05-11",
+          "hash": "2c23cc1df9e539730e9b6c0cb61bfdad"
+        },
+        {
+          "title": "Techniques for Key Wrapping",
+          "link": "https://csrc.nist.gov/News/2026/techniques-for-key-wrapping",
+          "published_date": null,
+          "scraped_date": "2026-05-11",
+          "hash": "6d47241709554b5cf57e30b250ff7dfa"
         }
       ]
     },
@@ -24,11 +45,11 @@
       "total_count": 10,
       "new_updates": [
         {
-          "title": "Stakeholder event on competition and data protection",
-          "link": "https://edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
+          "title": "Europe Day 2026: let\u2019s celebrate together",
+          "link": "https://edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
           "published_date": null,
-          "scraped_date": "2026-05-04",
-          "hash": "8c8e3cc02cd4c209741a171d44467084"
+          "scraped_date": "2026-05-11",
+          "hash": "2bea5ad1ee29b178390ef3d98ebf854c"
         }
       ]
     }

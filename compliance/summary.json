@@ -1,57 +1,42 @@
 {
-  "run_date": "2026-05-11T22:12:15.062733",
-  "total_new_updates": 5,
+  "run_date": "2026-05-18T22:06:59.914869",
+  "total_new_updates": 3,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 4,
+      "new_count": 3,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Final NIST SP 800-70r5 is available",
-          "link": "https://csrc.nist.gov/News/2026/final-nist-sp-800-70r5-is-available",
+          "title": "Secure Deployment of RESTful Web APIs",
+          "link": "https://csrc.nist.gov/News/2026/secure-deployment-of-restful-web-apis",
           "published_date": null,
-          "scraped_date": "2026-05-11",
-          "hash": "0a8186d678f82f2f7872a1d659cc9516"
+          "scraped_date": "2026-05-18",
+          "hash": "757088a00b3026699127e78e25cc77e8"
         },
         {
-          "title": "TLS | Comment on SP 800-52 Rev. 2",
-          "link": "https://csrc.nist.gov/News/2026/tls-comment-on-sp-800-52-rev-2",
+          "title": "NIST Advances 9 Candidates to the 3rd Round of PQC",
+          "link": "https://csrc.nist.gov/News/2026/nist-advances-9-candidates-to-the-3rd-round-of-pqc",
           "published_date": null,
-          "scraped_date": "2026-05-11",
-          "hash": "be262eb5e29a2cc9792064d2a3291fe3"
+          "scraped_date": "2026-05-18",
+          "hash": "24a77b2f300c208b87dd4bf1b08bdae3"
         },
         {
-          "title": "Foundational PNT Profile | Rev. 2 Initial Draft",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-nistir-8323-rev-2",
+          "title": "NIST Releases SP 800-172r3 and SP 800-172Ar3",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-172r3-and-sp-800-172ar3",
           "published_date": null,
-          "scraped_date": "2026-05-11",
-          "hash": "2c23cc1df9e539730e9b6c0cb61bfdad"
-        },
-        {
-          "title": "Techniques for Key Wrapping",
-          "link": "https://csrc.nist.gov/News/2026/techniques-for-key-wrapping",
-          "published_date": null,
-          "scraped_date": "2026-05-11",
-          "hash": "6d47241709554b5cf57e30b250ff7dfa"
+          "scraped_date": "2026-05-18",
+          "hash": "636906ba9eff0b610600216862e94aca"
         }
       ]
     },
     {
       "source": "GDPR/EDPB",
       "success": true,
-      "new_count": 1,
+      "new_count": 0,
       "total_count": 10,
-      "new_updates": [
-        {
-          "title": "Europe Day 2026: let\u2019s celebrate together",
-          "link": "https://edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en",
-          "published_date": null,
-          "scraped_date": "2026-05-11",
-          "hash": "2bea5ad1ee29b178390ef3d98ebf854c"
-        }
-      ]
+      "new_updates": []
     }
   ]
 }

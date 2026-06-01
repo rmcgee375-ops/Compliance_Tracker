@@ -1,22 +1,124 @@
 {
   "metadata": {
-    "last_checked": "2026-05-25T22:12:23.834272",
+    "last_checked": "2026-06-01T23:03:59.093197",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 6,
-    "new_updates": 5,
+    "total_updates": 12,
+    "new_updates": 12,
     "lookback_days": 7
   },
   "updates": [
     {
-      "title": "Notice of Request for Revision to and Extension of an Information Collection; Standards for Privately Owned Quarantine Facilities for Ruminants",
+      "title": "Proposed Extension of Information Collection: Representative of Miners, Notification of Legal Identity, and Notification of Commencement of Operations and Closing of Mines",
       "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of an information collection associated with regulations for privately owned quarantine facilities for ruminants.",
-      "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10294/notice-of-request-for-revision-to-and-extension-of-an-information-collection-standards-for-privately",
-      "publication_date": "2026-05-22",
+      "abstract": "The Department of Labor (DOL), as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre- clearance consultation program for all information collections, to provide the public and Federal agencies with an opportunity to comment on proposed collections of information, in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Mine Safety and Health Administration (MSHA) is soliciting comments on the information collection titled \"Representative of Miners, Notification of Legal Identity, and Notification of Commencement of Operations and Closing of Mines.\"",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10859/proposed-extension-of-information-collection-representative-of-miners-notification-of-legal-identity",
+      "publication_date": "2026-06-01",
       "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "213a8e5f3883af52d8d5061c53a66b3d"
+    },
+    {
+      "title": "Proposed Extension of Information Collection: Records of Tests and Examinations of Personnel Hoisting Equipment",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL), as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre- clearance consultation program for all information collections, to provide the public and Federal agencies with an opportunity to comment on proposed collections of information, in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Mine Safety and Health Administration (MSHA) is soliciting comments on the information collection titled \"Records of Tests and Examinations of Personnel Hoisting Equipment.\"",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10858/proposed-extension-of-information-collection-records-of-tests-and-examinations-of-personnel-hoisting",
+      "publication_date": "2026-06-01",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "be2127d593740fd03e9e27824ba8900a"
+    },
+    {
+      "title": "Labor Organization Annual Financial Reports",
+      "type": "Rule",
+      "abstract": "The Department of Labor (Department) publishes this combined final rule to its regulations to improve its LM Labor Organization Annual Financial Reports by establishing a longer LM form for the largest labor organizations (Form LM-2 Long Form), revising a slightly shorter form for most labor organizations at and above the $350,000 threshold (Form LM-2), making a parallel revision to Form LM-3, and updating reporting thresholds for Forms LM-3 and LM-4 to promote financial integrity and transparency. The final rule applies prospectively under section 208 of the Labor-Management Reporting and Disclosure Act of 1959 (LMRDA).",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10849/labor-organization-annual-financial-reports",
+      "publication_date": "2026-06-01",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Labor-Management Standards",
+          "name": "Labor-Management Standards Office",
+          "id": 274,
+          "url": "https://www.federalregister.gov/agencies/labor-management-standards-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/274",
+          "parent_id": 271,
+          "slug": "labor-management-standards-office"
+        }
+      ],
+      "hash": "18e3469e629357c21b0ca1dfe8dd94ba"
+    },
+    {
+      "title": "Regulation for Federal Financial Assistance",
+      "type": "Proposed Rule",
+      "abstract": "The Office of Management and Budget (OMB) proposes to revise the Guidance for Federal Financial Assistance to improve government- wide policies and requirements related to the management of grants, cooperative agreements, and other forms of assistance. OMB is proposing revisions that would improve transparency, accountability, and oversight for Federal awards across the Federal Government. This includes ensuring that American tax dollars are not wasted or misused, activities performed under Federal awards are consistent with law and policy, and recipients are held accountable when they fail to meet relevant standards. The revisions also aim to ensure that basic American principles of equality and equal opportunity are upheld throughout all stages of the award making process and that unlawful discrimination is no longer permitted. Proposed changes also include providing further clarification on the regulatory status of the OMB requirements and on the process for future updates to the government- wide requirements. Finally, OMB also proposes changes to reduce recipient burden. The listed Federal grant-making agencies propose conforming changes to their respective adopting regulations, or, in the case of some agencies and other entities, establishing new adopting regulations or policies. The proposed changes reflect the administration's commitment to transparency, accountability, and proper oversight for the Federal grantmaking process. The proposed regulations seek to ensure that American tax dollars are ultimately used to serve the needs of the American public.",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance",
+      "publication_date": "2026-05-29",
+      "agencies": [
+        {
+          "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
+          "name": "Management and Budget Office",
+          "id": 280,
+          "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
+          "parent_id": null,
+          "slug": "management-and-budget-office"
+        },
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
         {
           "raw_name": "DEPARTMENT OF AGRICULTURE",
           "name": "Agriculture Department",
@@ -27,23 +129,402 @@
           "slug": "agriculture-department"
         },
         {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
+          "raw_name": "DEPARTMENT OF STATE",
+          "name": "State Department",
+          "id": 476,
+          "url": "https://www.federalregister.gov/agencies/state-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/476",
+          "parent_id": null,
+          "slug": "state-department"
+        },
+        {
+          "raw_name": "Agency for International Development",
+          "name": "Agency for International Development",
+          "id": 6,
+          "url": "https://www.federalregister.gov/agencies/agency-for-international-development",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/6",
+          "parent_id": null,
+          "slug": "agency-for-international-development"
+        },
+        {
+          "raw_name": "DEPARTMENT OF VETERANS AFFAIRS",
+          "name": "Veterans Affairs Department",
+          "id": 520,
+          "url": "https://www.federalregister.gov/agencies/veterans-affairs-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/520",
+          "parent_id": null,
+          "slug": "veterans-affairs-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF DEFENSE",
+          "name": "Defense Department",
+          "id": 103,
+          "url": "https://www.federalregister.gov/agencies/defense-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
+          "parent_id": null,
+          "slug": "defense-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        },
+        {
+          "raw_name": "U.S. INTERNATIONAL DEVELOPMENT FINANCE CORPORATION",
+          "name": "U.S. International Development Finance Corporation",
+          "id": 606,
+          "url": "https://www.federalregister.gov/agencies/u-s-international-development-finance-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/606",
+          "parent_id": null,
+          "slug": "u-s-international-development-finance-corporation"
+        },
+        {
+          "raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+          "name": "National Aeronautics and Space Administration",
+          "id": 301,
+          "url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/301",
+          "parent_id": null,
+          "slug": "national-aeronautics-and-space-administration"
+        },
+        {
+          "raw_name": "U.S. Agency for Global Media",
+          "name": "United States Agency for Global Media",
+          "id": 608,
+          "url": "https://www.federalregister.gov/agencies/united-states-agency-for-global-media",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/608",
+          "parent_id": null,
+          "slug": "united-states-agency-for-global-media"
+        },
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        },
+        {
+          "raw_name": "CORPORATION FOR NATIONAL AND COMMUNITY SERVICE",
+          "name": "Corporation for National and Community Service",
+          "id": 91,
+          "url": "https://www.federalregister.gov/agencies/corporation-for-national-and-community-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/91",
+          "parent_id": null,
+          "slug": "corporation-for-national-and-community-service"
+        },
+        {
+          "raw_name": "Social Security Administration",
+          "name": "Social Security Administration",
+          "id": 470,
+          "url": "https://www.federalregister.gov/agencies/social-security-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/470",
+          "parent_id": null,
+          "slug": "social-security-administration"
+        },
+        {
+          "raw_name": "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT",
+          "name": "Housing and Urban Development Department",
+          "id": 228,
+          "url": "https://www.federalregister.gov/agencies/housing-and-urban-development-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/228",
+          "parent_id": null,
+          "slug": "housing-and-urban-development-department"
+        },
+        {
+          "raw_name": "NATIONAL SCIENCE FOUNDATION",
+          "name": "National Science Foundation",
+          "id": 366,
+          "url": "https://www.federalregister.gov/agencies/national-science-foundation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/366",
+          "parent_id": null,
+          "slug": "national-science-foundation"
+        },
+        {
+          "raw_name": "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION",
+          "name": "National Archives and Records Administration",
+          "id": 304,
+          "url": "https://www.federalregister.gov/agencies/national-archives-and-records-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/304",
+          "parent_id": null,
+          "slug": "national-archives-and-records-administration"
+        },
+        {
+          "raw_name": "SMALL BUSINESS ADMINISTRATION",
+          "name": "Small Business Administration",
+          "id": 468,
+          "url": "https://www.federalregister.gov/agencies/small-business-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/468",
+          "parent_id": null,
+          "slug": "small-business-administration"
+        },
+        {
+          "raw_name": "DEPARTMENT OF JUSTICE",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "parent_id": null,
+          "slug": "justice-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES",
+          "name": "National Foundation on the Arts and the Humanities",
+          "id": 342,
+          "url": "https://www.federalregister.gov/agencies/national-foundation-on-the-arts-and-the-humanities",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/342",
+          "parent_id": null,
+          "slug": "national-foundation-on-the-arts-and-the-humanities"
+        },
+        {
+          "raw_name": "Institute of Museum and Library Services",
+          "name": "Institute of Museum and Library Services",
+          "id": 591,
+          "url": "https://www.federalregister.gov/agencies/institute-of-museum-and-library-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/591",
+          "parent_id": 342,
+          "slug": "institute-of-museum-and-library-services"
+        },
+        {
+          "raw_name": "NATIONAL ENDOWMENT FOR THE ARTS",
+          "name": "National Endowment for the Arts",
+          "id": 588,
+          "url": "https://www.federalregister.gov/agencies/national-endowment-for-the-arts",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/588",
+          "parent_id": 342,
+          "slug": "national-endowment-for-the-arts"
+        },
+        {
+          "raw_name": "National Endowment for the Humanities",
+          "name": "National Endowment for the Humanities",
+          "id": 589,
+          "url": "https://www.federalregister.gov/agencies/national-endowment-for-the-humanities",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/589",
+          "parent_id": 342,
+          "slug": "national-endowment-for-the-humanities"
+        },
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        },
+        {
+          "raw_name": "EXPORT IMPORT BANK",
+          "name": "Export-Import Bank",
+          "id": 151,
+          "url": "https://www.federalregister.gov/agencies/export-import-bank",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/151",
+          "parent_id": null,
+          "slug": "export-import-bank"
+        },
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        },
+        {
+          "raw_name": "OFFICE OF NATIONAL DRUG CONTROL POLICY",
+          "name": "Office of National Drug Control Policy",
+          "id": 390,
+          "url": "https://www.federalregister.gov/agencies/office-of-national-drug-control-policy",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/390",
+          "parent_id": 538,
+          "slug": "office-of-national-drug-control-policy"
+        },
+        {
+          "raw_name": "PEACE CORPS",
+          "name": "Peace Corps",
+          "id": 403,
+          "url": "https://www.federalregister.gov/agencies/peace-corps",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/403",
+          "parent_id": null,
+          "slug": "peace-corps"
+        },
+        {
+          "raw_name": "ELECTION ASSISTANCE COMMISSION",
+          "name": "Election Assistance Commission",
+          "id": 127,
+          "url": "https://www.federalregister.gov/agencies/election-assistance-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/127",
+          "parent_id": null,
+          "slug": "election-assistance-commission"
+        },
+        {
+          "raw_name": "GULF COAST ECOSYSTEM RESTORATION COUNCIL",
+          "name": "Gulf Coast Ecosystem Restoration Council",
+          "id": 583,
+          "url": "https://www.federalregister.gov/agencies/gulf-coast-ecosystem-restoration-council",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/583",
+          "parent_id": null,
+          "slug": "gulf-coast-ecosystem-restoration-council"
+        },
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        },
+        {
+          "raw_name": "CONSUMER PRODUCT SAFETY COMMISSION",
+          "name": "Consumer Product Safety Commission",
+          "id": 84,
+          "url": "https://www.federalregister.gov/agencies/consumer-product-safety-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/84",
+          "parent_id": null,
+          "slug": "consumer-product-safety-commission"
+        },
+        {
+          "raw_name": "Delta Regional Authority",
+          "name": "Delta Regional Authority",
+          "id": 624,
+          "url": "https://www.federalregister.gov/agencies/delta-regional-authority",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/624",
+          "parent_id": null,
+          "slug": "delta-regional-authority"
+        },
+        {
+          "raw_name": "Appraisal Subcommittee of the Federal Financial Institutions Examination Council",
+          "name": "Appraisal Subcommittee of the Federal Financial Institutions Examination Council",
+          "id": 621,
+          "url": "https://www.federalregister.gov/agencies/appraisal-subcommittee-of-the-federal-financial-institutions-examination-council",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/621",
+          "parent_id": null,
+          "slug": "appraisal-subcommittee-of-the-federal-financial-institutions-examination-council"
+        },
+        {
+          "raw_name": "MARINE MAMMAL COMMISSION",
+          "name": "Marine Mammal Commission",
+          "id": 281,
+          "url": "https://www.federalregister.gov/agencies/marine-mammal-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/281",
+          "parent_id": null,
+          "slug": "marine-mammal-commission"
+        },
+        {
+          "raw_name": "Millennium Challenge Corporation",
+          "name": "Millennium Challenge Corporation",
+          "id": 287,
+          "url": "https://www.federalregister.gov/agencies/millennium-challenge-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/287",
+          "parent_id": null,
+          "slug": "millennium-challenge-corporation"
+        },
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
         }
       ],
-      "hash": "76b5975a5568509ea2040016ac4c4dfe"
+      "hash": "06219ccb98c31856a2c13c2ba77fcedc"
     },
     {
-      "title": "UL LLC: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Walking-Working Surfaces Standard",
       "type": "Notice",
-      "abstract": "In this notice, OSHA announces the application of UL LLC for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application. Additionally, OSHA proposes to add one test standard to the NRTL Program's List of Appropriate Test Standards.",
-      "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10275/ul-llc-application-for-expansion-of-recognition-and-proposed-modification-to-the-nrtl-programs-list",
-      "publication_date": "2026-05-22",
+      "abstract": "The Department of Labor (DOL) is submitting this Occupational Safety & Health Administration (OSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10736/agency-information-collection-activities-submission-for-omb-review-comment-request-walking-working",
+      "publication_date": "2026-05-29",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "7ca77b78009b3d869832482465afd1b5"
+    },
+    {
+      "title": "Obayashi-Jay Dee Joint Venture; Application for Permanent Variance and Interim Order; Grant of Interim Order; Request for Comments",
+      "type": "Notice",
+      "abstract": "In this notice, OSHA announces the application of Obayashi-- Jay Dee Joint Venture (OJD) for a permanent variance and interim order from provisions of the OSHA standard that regulates work in compressed- air environments, presents the agency's preliminary finding on OJD's application, and announces the granting of an interim order. OSHA invites the public to submit comments on the variance application to assist the agency in determining whether to grant the applicant a permanent variance based on the conditions specified in this application.",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10735/obayashi-jay-dee-joint-venture-application-for-permanent-variance-and-interim-order-grant-of-interim",
+      "publication_date": "2026-05-29",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -64,14 +545,42 @@
           "slug": "occupational-safety-and-health-administration"
         }
       ],
-      "hash": "bc4408b9e1e9acafd0ffdc40c40a490f"
+      "hash": "22144ed7082e61052d742dfde56b35de"
     },
     {
-      "title": "UL LLC: Grant of Expansion of Recognition",
+      "title": "Notice Announcing American History and Civics Education National Activities Program Competition",
       "type": "Notice",
-      "abstract": "In this notice, OSHA announces the final decision to expand the scope of recognition for UL LLC as a Nationally Recognized Testing Laboratory (NRTL).",
-      "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10274/ul-llc-grant-of-expansion-of-recognition",
-      "publication_date": "2026-05-22",
+      "abstract": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fiscal Year (FY) 2026 American History and Civics Education National Activities (AHC-NA) program, Assistance Listing Number (ALN) 84.422B, on behalf of the U.S. Department of Education (ED).",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10719/notice-announcing-american-history-and-civics-education-national-activities-program-competition",
+      "publication_date": "2026-05-29",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "ca40b65925d440db72b97264b867b912"
+    },
+    {
+      "title": "Department of Labor Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2026",
+      "type": "Rule",
+      "abstract": "As required by statute, the Department of Labor annually publishes a final rule updating the civil monetary penalties it assesses. The Bureau of Labor Statistics (BLS) did not publish its October 2025 Consumer Price Index for All Urban Consumers (CPI-U) data due to a lapse in funding. Because the relevant law requires that annual penalty adjustments be based specifically on October CPI-U data--with no alternative calculation allowed--the 2026 adjustment is cancelled entirely.",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10456/department-of-labor-federal-civil-penalties-inflation-adjustment-act-annual-adjustments-for-2026",
+      "publication_date": "2026-05-27",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -83,32 +592,34 @@
           "slug": "labor-department"
         },
         {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
           "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "6ea64decc2c6c3f4c272bc140d9ae4fe"
-    },
-    {
-      "title": "Intertek Testing Services NA, Inc.: Application for Expansion of Recognition",
-      "type": "Notice",
-      "abstract": "In this notice, OSHA announces the application of Intertek Testing Services NA, Inc. for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application.",
-      "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10273/intertek-testing-services-na-inc-application-for-expansion-of-recognition",
-      "publication_date": "2026-05-22",
-      "agencies": [
+          "slug": "employment-and-training-administration"
+        },
         {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        },
+        {
+          "raw_name": "Wage and Hour Division",
+          "name": "Wage and Hour Division",
+          "id": 524,
+          "url": "https://www.federalregister.gov/agencies/wage-and-hour-division",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/524",
+          "parent_id": 271,
+          "slug": "wage-and-hour-division"
         },
         {
           "raw_name": "Occupational Safety and Health Administration",
@@ -118,16 +629,25 @@
           "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
           "parent_id": 271,
           "slug": "occupational-safety-and-health-administration"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
         }
       ],
-      "hash": "d10be74e4e3a9c3771c3bc8bb070a230"
+      "hash": "29e310fc0a7003f668e9662cd80e90c8"
     },
     {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Job Corps Enrollee Allotment Determination",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Inflation Reduction Act Wage Rates and Wage Determinations",
       "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Employment and Training Administration (ETA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10044/agency-information-collection-activities-submission-for-omb-review-comment-request-job-corps",
-      "publication_date": "2026-05-20",
+      "abstract": "The Department of Labor (DOL) is submitting this Wage and Hour Division (WHD)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10455/agency-information-collection-activities-submission-for-omb-review-comment-request-inflation",
+      "publication_date": "2026-05-27",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -139,14 +659,14 @@
           "slug": "labor-department"
         }
       ],
-      "hash": "a2782af9a958ad471174a7107b8c8a93"
+      "hash": "1aae82ba305ae2b0dcd015f8475b94d7"
     },
     {
-      "title": "Proposed Revision of Information Collection: Request for Information on Earnings, Dual Benefits, Dependents and Third Party Settlement",
+      "title": "Proposed Extension of Information Collection; Request for Notice of Issuance of Insurance Policy (CM-921)",
       "type": "Notice",
-      "abstract": "The Department of Labor (DOL)is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled \"Request for Information on Earnings, Dual Benefits, Dependents and Third Party Settlement\". This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
-      "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09835/proposed-revision-of-information-collection-request-for-information-on-earnings-dual-benefits",
-      "publication_date": "2026-05-18",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, OWCP is soliciting comments on the information collection for Notice of Issuance of Insurance Policy.",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10386/proposed-extension-of-information-collection-request-for-notice-of-issuance-of-insurance-policy",
+      "publication_date": "2026-05-26",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -167,7 +687,63 @@
           "slug": "workers-compensation-programs-office"
         }
       ],
-      "hash": "92bbc0fb9cabd5fbe74f0beeb2da4ad4"
+      "hash": "80b4210eb3e21de969ccd16840bbe7be"
+    },
+    {
+      "title": "Proposed Revision of Information Collection; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, \"Roentgenographic Interpretation\" (Form CM-933), \"Roentgenographic Quality Rereading\" (Form CM-933a), \"Medical History and Examination for Coal Mine Workers' Pneumoconiosis\" (Form CM-988), \"Report of Arterial Blood Gas Study\" (Form CM-1159), and \"Pulmonary Function Tests\" (Form CM- 2907). This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10385/proposed-revision-of-information-collection-claim-adjudication-process-for-the-alleged-presence-of",
+      "publication_date": "2026-05-26",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "c013393ed3262ac6ec2c4f466cddf3f7"
+    },
+    {
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Highly Pathogenic Avian Influenza, All Subtypes, and Newcastle Disease; Additional Restrictions (Pet, Performing, and Research Birds; Bird Carcasses)",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations to prevent the introduction of highly pathogenic avian influenza, all subtypes, and Newcastle disease into the United States through the importation of pet, performing, and research birds and poultry, and unprocessed bird and poultry products, mainly bird carcasses.",
+      "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10349/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-highly",
+      "publication_date": "2026-05-26",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "5b0e0db127e302c9e41db0aa2e01fe78"
     }
   ]
 }

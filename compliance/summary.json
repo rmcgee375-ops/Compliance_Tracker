@@ -1,33 +1,26 @@
 {
-  "run_date": "2026-05-25T22:12:23.456553",
-  "total_new_updates": 3,
+  "run_date": "2026-06-01T23:03:58.626595",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 3,
+      "new_count": 2,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "FY 2025 Cybersecurity Annual Report",
-          "link": "https://csrc.nist.gov/News/2026/fy-2025-cybersecurity-annual-report",
+          "title": "GCM and GMAC Block Cipher Modes of Operation",
+          "link": "https://csrc.nist.gov/News/2026/gcm-and-gmac-block-cipher-modes-of-operation",
           "published_date": null,
-          "scraped_date": "2026-05-25",
-          "hash": "15b8167aea22740bbcdab8b0c36b1d63"
+          "scraped_date": "2026-06-01",
+          "hash": "7e036c38bc74d21fb46f1b8ab791648e"
         },
         {
-          "title": "NIST SP 1800-41 Released for Public Comment",
-          "link": "https://csrc.nist.gov/News/2026/nist-sp-1800-41-released-for-public-comment",
+          "title": "Draft NIST IR Hardware-Enabled Security",
+          "link": "https://csrc.nist.gov/News/2026/draft-nist-ir-hardware-enabled-security",
           "published_date": null,
-          "scraped_date": "2026-05-25",
-          "hash": "92deb2a9c5c86c97870ae52b446feda8"
-        },
-        {
-          "title": "NIST IR 8500A ipd Available for Public Comment",
-          "link": "https://csrc.nist.gov/News/2026/nist-ir-8500a-ipd-available-for-public-comment",
-          "published_date": null,
-          "scraped_date": "2026-05-25",
-          "hash": "d61d505f420dc69e8d77fafcdf12b056"
+          "scraped_date": "2026-06-01",
+          "hash": "659e5a20bb293582e4b3b7a7e7663070"
         }
       ]
     },

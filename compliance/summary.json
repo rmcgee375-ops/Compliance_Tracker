@@ -1,26 +1,19 @@
 {
-  "run_date": "2026-06-01T23:03:58.626595",
-  "total_new_updates": 2,
+  "run_date": "2026-06-08T22:42:31.747758",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 2,
+      "new_count": 1,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "GCM and GMAC Block Cipher Modes of Operation",
-          "link": "https://csrc.nist.gov/News/2026/gcm-and-gmac-block-cipher-modes-of-operation",
+          "title": "NIST Releases Two Updated SCAP Publications",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-two-updated-scap-publications",
           "published_date": null,
-          "scraped_date": "2026-06-01",
-          "hash": "7e036c38bc74d21fb46f1b8ab791648e"
-        },
-        {
-          "title": "Draft NIST IR Hardware-Enabled Security",
-          "link": "https://csrc.nist.gov/News/2026/draft-nist-ir-hardware-enabled-security",
-          "published_date": null,
-          "scraped_date": "2026-06-01",
-          "hash": "659e5a20bb293582e4b3b7a7e7663070"
+          "scraped_date": "2026-06-08",
+          "hash": "ec963df6d4dfb5a9ff33a6b8eb1be11e"
         }
       ]
     },

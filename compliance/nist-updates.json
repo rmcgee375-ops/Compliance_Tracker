@@ -2,116 +2,116 @@
   "metadata": {
     "source": "https://csrc.nist.gov/news",
     "source_name": "NIST",
-    "last_checked": "2026-06-15T23:05:05.493577",
+    "last_checked": "2026-06-22T22:50:04.603724",
     "scraper_version": "1.2.0",
     "total_updates": 15,
-    "new_updates": 2
+    "new_updates": 4
   },
   "updates": [
     {
-      "title": "PQC Updates to the PIV Standards | Working Drafts",
-      "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-73-part-1-and-2-and-sp-800-78",
+      "title": "Draft of SP 800-219r2 Available for Public Comment",
+      "link": "https://csrc.nist.gov/News/2026/draft-sp-800-219r2-available-for-public-comment",
       "published_date": null,
-      "scraped_date": "2026-06-15",
-      "hash": "6cd30b61e803bd84220e0797b5260831"
+      "scraped_date": "2026-06-22",
+      "hash": "3c168f4c3184973c3877e885f4a965b7"
+    },
+    {
+      "title": "OT Backup Quick Start Guide",
+      "link": "https://csrc.nist.gov/News/2026/now-available-ot-backup-qsg",
+      "published_date": null,
+      "scraped_date": "2026-06-22",
+      "hash": "ca8799e5f3fad3abe7a48c368c1eeb03"
+    },
+    {
+      "title": "Cybersecurity for IoT Workshop: Future Directions",
+      "link": "https://csrc.nist.gov/News/2026/cybersecurity-for-iot-workshop-future-directions",
+      "published_date": null,
+      "scraped_date": "2026-06-22",
+      "hash": "ff0dd8c1e1970fc60f39a88647f8e8a4"
+    },
+    {
+      "title": "PQC Updates to the PIV Standards | Working Drafts",
+      "link": "https://csrc.nist.gov/News/2026/pqc-updates-to-piv-standards-working-drafts",
+      "published_date": null,
+      "scraped_date": "2026-06-22",
+      "hash": "e67b79c19306f31151d741b2ad8e481a"
     },
     {
       "title": "Ransomware Risk Management | IR 8374r1",
       "link": "https://csrc.nist.gov/News/2026/ransomware-risk-management-ir-8374r1",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "0148ea873d0c0c07e3cc31df21d649b7"
     },
     {
       "title": "NIST Releases Two Updated SCAP Publications",
       "link": "https://csrc.nist.gov/News/2026/nist-releases-two-updated-scap-publications",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "ec963df6d4dfb5a9ff33a6b8eb1be11e"
     },
     {
       "title": "GCM and GMAC Block Cipher Modes of Operation",
       "link": "https://csrc.nist.gov/News/2026/gcm-and-gmac-block-cipher-modes-of-operation",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "7e036c38bc74d21fb46f1b8ab791648e"
     },
     {
       "title": "Draft NIST IR Hardware-Enabled Security",
       "link": "https://csrc.nist.gov/News/2026/draft-nist-ir-hardware-enabled-security",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "659e5a20bb293582e4b3b7a7e7663070"
     },
     {
       "title": "FY 2025 Cybersecurity Annual Report",
       "link": "https://csrc.nist.gov/News/2026/fy-2025-cybersecurity-annual-report",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "15b8167aea22740bbcdab8b0c36b1d63"
     },
     {
       "title": "NIST SP 1800-41 Released for Public Comment",
       "link": "https://csrc.nist.gov/News/2026/nist-sp-1800-41-released-for-public-comment",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "92deb2a9c5c86c97870ae52b446feda8"
     },
     {
       "title": "NIST IR 8500A ipd Available for Public Comment",
       "link": "https://csrc.nist.gov/News/2026/nist-ir-8500a-ipd-available-for-public-comment",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "d61d505f420dc69e8d77fafcdf12b056"
     },
     {
       "title": "Secure Deployment of RESTful Web APIs",
       "link": "https://csrc.nist.gov/News/2026/secure-deployment-of-restful-web-apis",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "757088a00b3026699127e78e25cc77e8"
     },
     {
       "title": "NIST Advances 9 Candidates to the 3rd Round of PQC",
       "link": "https://csrc.nist.gov/News/2026/nist-advances-9-candidates-to-the-3rd-round-of-pqc",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "24a77b2f300c208b87dd4bf1b08bdae3"
     },
     {
       "title": "NIST Releases SP 800-172r3 and SP 800-172Ar3",
       "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-172r3-and-sp-800-172ar3",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "636906ba9eff0b610600216862e94aca"
     },
     {
       "title": "Final NIST SP 800-70r5 is available",
       "link": "https://csrc.nist.gov/News/2026/final-nist-sp-800-70r5-is-available",
       "published_date": null,
-      "scraped_date": "2026-06-15",
+      "scraped_date": "2026-06-22",
       "hash": "0a8186d678f82f2f7872a1d659cc9516"
-    },
-    {
-      "title": "TLS | Comment on SP 800-52 Rev. 2",
-      "link": "https://csrc.nist.gov/News/2026/tls-comment-on-sp-800-52-rev-2",
-      "published_date": null,
-      "scraped_date": "2026-06-15",
-      "hash": "be262eb5e29a2cc9792064d2a3291fe3"
-    },
-    {
-      "title": "Foundational PNT Profile | Rev. 2 Initial Draft",
-      "link": "https://csrc.nist.gov/News/2026/nist-releases-nistir-8323-rev-2",
-      "published_date": null,
-      "scraped_date": "2026-06-15",
-      "hash": "2c23cc1df9e539730e9b6c0cb61bfdad"
-    },
-    {
-      "title": "Techniques for Key Wrapping",
-      "link": "https://csrc.nist.gov/News/2026/techniques-for-key-wrapping",
-      "published_date": null,
-      "scraped_date": "2026-06-15",
-      "hash": "6d47241709554b5cf57e30b250ff7dfa"
     }
   ]
 }

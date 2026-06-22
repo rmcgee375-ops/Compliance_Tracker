@@ -1,50 +1,49 @@
 {
-  "run_date": "2026-06-15T23:05:06.621038",
+  "run_date": "2026-06-22T22:50:06.473601",
   "total_new_updates": 4,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 2,
+      "new_count": 4,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "PQC Updates to the PIV Standards | Working Drafts",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-73-part-1-and-2-and-sp-800-78",
+          "title": "Draft of SP 800-219r2 Available for Public Comment",
+          "link": "https://csrc.nist.gov/News/2026/draft-sp-800-219r2-available-for-public-comment",
           "published_date": null,
-          "scraped_date": "2026-06-15",
-          "hash": "6cd30b61e803bd84220e0797b5260831"
+          "scraped_date": "2026-06-22",
+          "hash": "3c168f4c3184973c3877e885f4a965b7"
         },
         {
-          "title": "Ransomware Risk Management | IR 8374r1",
-          "link": "https://csrc.nist.gov/News/2026/ransomware-risk-management-ir-8374r1",
+          "title": "OT Backup Quick Start Guide",
+          "link": "https://csrc.nist.gov/News/2026/now-available-ot-backup-qsg",
           "published_date": null,
-          "scraped_date": "2026-06-15",
-          "hash": "0148ea873d0c0c07e3cc31df21d649b7"
+          "scraped_date": "2026-06-22",
+          "hash": "ca8799e5f3fad3abe7a48c368c1eeb03"
+        },
+        {
+          "title": "Cybersecurity for IoT Workshop: Future Directions",
+          "link": "https://csrc.nist.gov/News/2026/cybersecurity-for-iot-workshop-future-directions",
+          "published_date": null,
+          "scraped_date": "2026-06-22",
+          "hash": "ff0dd8c1e1970fc60f39a88647f8e8a4"
+        },
+        {
+          "title": "PQC Updates to the PIV Standards | Working Drafts",
+          "link": "https://csrc.nist.gov/News/2026/pqc-updates-to-piv-standards-working-drafts",
+          "published_date": null,
+          "scraped_date": "2026-06-22",
+          "hash": "e67b79c19306f31151d741b2ad8e481a"
         }
       ]
     },
     {
       "source": "GDPR/EDPB",
-      "success": true,
-      "new_count": 2,
-      "total_count": 10,
-      "new_updates": [
-        {
-          "title": "Coordinated Supervision Committee extends scope to include Eurodac",
-          "link": "https://edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
-          "published_date": null,
-          "scraped_date": "2026-06-15",
-          "hash": "e9fc26d9ea93dba2b34c4a967287189b"
-        },
-        {
-          "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
-          "link": "https://edpb.europa.eu/news/news/2026/edpb-meets-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification_en",
-          "published_date": null,
-          "scraped_date": "2026-06-15",
-          "hash": "0319891415de0eb8cf222d116ce7f9c9"
-        }
-      ]
+      "success": false,
+      "new_count": 0,
+      "total_count": 0,
+      "error": "No updates parsed"
     }
   ]
 }

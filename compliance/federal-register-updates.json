@@ -1,15 +1,230 @@
 {
   "metadata": {
-    "last_checked": "2026-06-15T23:05:06.854505",
+    "last_checked": "2026-06-22T22:50:06.906174",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 14,
-    "new_updates": 13,
+    "total_updates": 9,
+    "new_updates": 8,
     "lookback_days": 7
   },
   "updates": [
+    {
+      "title": "Proposed Extension Without Change of Existing Collection; Comment Request; Application for Continuation of Death Benefit for Student (LS-266); Correction",
+      "type": "Notice",
+      "abstract": "This is a correction of a notice published June 9, 2026, which in error referenced Administration of the Longshore and Harbor Workers' Compensation Act. The collection of information is for the Application of Continuation of Death Benefit for Student (LS-266).",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12439/proposed-extension-without-change-of-existing-collection-comment-request-application-for",
+      "publication_date": "2026-06-22",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "69927112a8852c6a4d6c983e9cefc800"
+    },
+    {
+      "title": "Proposed Extension of a Currently Approved Collection: Certification of Funeral Expenses Under the Longshore and Harbor Workers' Compensation Act; Correction",
+      "type": "Notice",
+      "abstract": "This is a correction of a notice published June 9, 2026 which in error referenced Administration of the Longshore and Harbor Workers' Compensation Act. The collection of information is for Certification of Funeral Expenses (LS-265).",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12433/proposed-extension-of-a-currently-approved-collection-certification-of-funeral-expenses-under-the",
+      "publication_date": "2026-06-22",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "9286826b4c9304822502576db340b7fb"
+    },
+    {
+      "title": "Notice of Availability of a Final Supplemental Environmental Assessment and Finding of No Significant Impact for the Field Release of Aphalara itadori (Hemiptera: Psyllidae) From Murakami, Japan, for Classical Biological Control of Japanese, Giant, and Bohemian Knotweeds Fallopia japonica, F. sachalinedsis, and F. x bohemica (Polygonaceae), in the Contiguous United States",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has prepared a final supplemental environmental assessment (EA) and finding of no significant impact relative to a 2020 EA for the field release of the knotweed psyllid Aphalara itadori (Hemiptera: Psyllidae) from Murakami, Japan, for the classical biological control of Japanese, giant, and Bohemian knotweeds (Fallopia japonica, F. sachalinensis, and F. x bohemica (Polygonaceae)), significant invasive weeds, within the contiguous United States. Based on our finding of no significant impact, we have determined that an environmental impact statement need not be prepared.",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12429/notice-of-availability-of-a-final-supplemental-environmental-assessment-and-finding-of-no",
+      "publication_date": "2026-06-22",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "70306c2bc841b46c4ddc02f65a74840c"
+    },
+    {
+      "title": "Proposed Revision of Information Collection; BLS Data Sharing Program",
+      "type": "Notice",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Bureau of Labor Statistics (BLS) is soliciting comments concerning the proposed revision of the \"BLS Data Sharing Program.\" A copy of the proposed information collection request can be obtained by contacting the individual listed below in the ADDRESSES section of this notice.",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12428/proposed-revision-of-information-collection-bls-data-sharing-program",
+      "publication_date": "2026-06-22",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Bureau of Labor Statistics",
+          "name": "Labor Statistics Bureau",
+          "id": 272,
+          "url": "https://www.federalregister.gov/agencies/labor-statistics-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/272",
+          "parent_id": 271,
+          "slug": "labor-statistics-bureau"
+        }
+      ],
+      "hash": "11a69b68ed14c06336fe015ec105b6c9"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Prohibited Transaction Class Exemption 1985-68 To Permit Employee Benefit Plans To Invest in Customer Notes of Employers",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Employee Benefits Security Administration (EBSA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12289/agency-information-collection-activities-submission-for-omb-review-comment-request-prohibited",
+      "publication_date": "2026-06-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "00451c3ef3fb4b1a60fd717f719eb282"
+    },
+    {
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; African Swine Fever; Importation of Live Dogs for Resale From Regions Where ASF Exists or Is Reasonably Believed To Exist",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and an extension of approval of an information collection associated with the import of live dogs for resale from regions where African swine fever exists or is reasonably believed to exist.",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12243/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-african",
+      "publication_date": "2026-06-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "f9bd7a07e587c7b9ebf6189af8b05171"
+    },
+    {
+      "title": "Notice of Intent To Prepare a Programmatic Environmental Impact Statement; Grasshopper and Mormon Cricket Suppression Program",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, plans to prepare a programmatic environmental impact statement (PEIS) to analyze the effects of a program to suppress populations of grasshoppers and Mormon crickets from rangeland in seventeen states of the western United States (Arizona, California, Colorado, Idaho, Kansas, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, and Wyoming). This notice of intent (NOI) identifies potential issues and reasonable action alternatives that will be evaluated in the PEIS. This NOI invites public comments that further define the scope of the alternatives, potential impacts on the human environment, consistent with the National Environmental Policy Act, and issues for APHIS to consider, relevant information, studies, or analyses with respect to APHIS' proposed action. The proposed PEIS would replace the previous PEIS published in 2019. APHIS expects to publish the final PEIS by August 2027.",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12242/notice-of-intent-to-prepare-a-programmatic-environmental-impact-statement-grasshopper-and-mormon",
+      "publication_date": "2026-06-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "267db59cdd354c2e3e44e58174a57158"
+    },
+    {
+      "title": "Proposed Extension of Information Collection; Medical Travel Refund Request-Mileage (OWCP-957A), Medical Travel Refund Request-Expenses (OWCP-957B)",
+      "type": "Notice",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of Workers' Compensation Programs is soliciting comments on the information collection for the OWCP Medical Travel Refund Request--Mileage (OWCP-957A) and OWCP Medical Travel Request-- Expenses (OWCP-957B).",
+      "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12053/proposed-extension-of-information-collection-medical-travel-refund-request-mileage-owcp-957a-medical",
+      "publication_date": "2026-06-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "998fd5e0b6be6d3f368b482357358cfc"
+    },
     {
       "title": "Agency Information Collection Activities; Comment Request; Information Collections: Requests To Approve Conformed Wage Classifications and Unconventional Fringe Benefit Plans Under the Davis-Bacon and Related Acts and Contract Work Hours and Safety Standards Act",
       "type": "Notice",
@@ -37,361 +252,6 @@
         }
       ],
       "hash": "5df6c7e7963e3a1580c00dd374f585c0"
-    },
-    {
-      "title": "T\u00dcV S\u00dcD America, Inc.: Grant of Expansion of Recognition",
-      "type": "Notice",
-      "abstract": "In this notice, OSHA announces the final decision to expand the scope of recognition for T[Uuml]V S[Uuml]D America, Inc. (TUVAM) as a Nationally Recognized Testing Laboratory (NRTL).",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11801/tv-sd-america-inc-grant-of-expansion-of-recognition",
-      "publication_date": "2026-06-11",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "a6895ae8432e6e42c49e087d62f82415"
-    },
-    {
-      "title": "Labor Organization Annual Financial Reports",
-      "type": "Rule",
-      "abstract": "The Department of Labor (Department) is correcting a final rule that appeared in the Federal Register on June 1, 2026. The Department is correcting an error to the published Form LM-2 Long Form Instructions, specifically, a page missing in the instructions. Additionally, the June 1, 2026, published final rule contained formatting errors in the Form LM-2 Long Form and Form LM-2 forms, and the Department recommends that the public refer to the OLMS website (www.dol.gov/olms) for the correctly formatted Forms and Instructions. See: https://www.dol.gov/agencies/olms/notice-lm-2-longform-rule.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11799/labor-organization-annual-financial-reports",
-      "publication_date": "2026-06-11",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of Labor-Management Standards",
-          "name": "Labor-Management Standards Office",
-          "id": 274,
-          "url": "https://www.federalregister.gov/agencies/labor-management-standards-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/274",
-          "parent_id": 271,
-          "slug": "labor-management-standards-office"
-        }
-      ],
-      "hash": "1e510fb73aa7b866f5af82b2e92590d8"
-    },
-    {
-      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Importation of Table Eggs From Regions Where Newcastle Disease or Highly Pathogenic Avian Influenza Is Considered to Exist and Exportation of Poultry and Hatching Eggs",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations for the importation of table eggs from regions where Newcastle disease or highly pathogenic avian influenza is considered to exist and exportation of poultry and hatching eggs from the United States.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11644/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-importation",
-      "publication_date": "2026-06-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "247e4290d01158d73cd422dc3f7c665a"
-    },
-    {
-      "title": "Notice of Proposed Revision to Requirements for the Importation of Fresh Pineapple (Ananas comosus (L.)) From the Philippines and Thailand Into the United States",
-      "type": "Notice",
-      "abstract": "We are advising the public we have prepared risk assessments (PRAs) and risk management documents (RMDs) relative to the importation of fresh pineapple (Ananas comosus (L.)) fruit from the Philippines and Thailand into the United States for consumption. Currently, fresh pineapple fruit from the Philippines is permitted into Guam, the Commonwealth of the Northern Mariana Islands, and the North Atlantic region of the United States. Pineapple fruit from Thailand is allowed importation into all of the United States (except Hawaii) ports of entry with an irradiation treatment. However, the national plant protection organizations of the Philippines and Thailand have asked APHIS for expanded authorization to import all varieties of fresh pineapple into all United States ports. Additionally, Thailand has requested authorization regarding the importation of fresh pineapple fruit without the irradiation treatment. APHIS has prepared PRAs that evaluate the plant pest and noxious weed risk associated with the importation of fresh pineapple fruit from the Philippines and Thailand into the United States, and RMDs that propose mitigations to address these risks. We are making the PRAs and RMDs available to the public for review and comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11636/notice-of-proposed-revision-to-requirements-for-the-importation-of-fresh-pineapple-ananas-comosus-l",
-      "publication_date": "2026-06-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "7b62f51b12d836608844d39a522c305b"
-    },
-    {
-      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Foreign Quarantine Notices",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations to prevent the introduction or spread of foreign plant pests and diseases into or within the United States.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11562/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-foreign",
-      "publication_date": "2026-06-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "92cc7518f6f3257adf728139aef1146d"
-    },
-    {
-      "title": "Proposed Extension of Information Collection; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements can be properly assessed. Currently, the Office of Workers' Compensation, Division of Longshore and Harbor Workers' Compensation Programs is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, \"Administration of the Longshore and Harbor Workers' Compensation Act.\"",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11554/proposed-extension-of-information-collection-comment-request-administration-of-the-longshore-and",
-      "publication_date": "2026-06-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of Workers' Compensation Programs",
-          "name": "Workers' Compensation Programs Office",
-          "id": 530,
-          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
-          "parent_id": 271,
-          "slug": "workers-compensation-programs-office"
-        }
-      ],
-      "hash": "675e71e9e7b1842a6f72eaa5214811b3"
-    },
-    {
-      "title": "OSHA Outreach Training Program and the OSHA Training Institute Education Centers Program Forms; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements",
-      "type": "Notice",
-      "abstract": "OSHA solicits public comments concerning the proposal to extend the Office of Management and Budget's (OMB) approval of the information collection requirements specified in the OSHA Outreach Training Program and the OSHA Training Institute Education Centers Program Forms.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11553/osha-outreach-training-program-and-the-osha-training-institute-education-centers-program-forms",
-      "publication_date": "2026-06-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "78f4b468036817fc25989edb8fedfa73"
-    },
-    {
-      "title": "Modernizing Federal Workforce Information Tools: Request for Information (RFI) on Online Career Tools and the Occupational Information Network (O*NET) Program",
-      "type": "Notice",
-      "abstract": "The U.S. Department of Labor (DOL or the Department), Employment and Training Administration (ETA) seeks public input to inform two related modernization efforts that together aim to strengthen the nation's public workforce information infrastructure. First, ETA is soliciting input to inform the design and implementation of a modernized online career site, currently delivered through CareerOneStop.org--a public-facing workforce information website that helps job seekers explore occupations, locate training programs, identify local services, and connect to job listings. Second, ETA is soliciting input to inform a modernization of the Occupational Information Network (O*NET) Program, which publishes detailed descriptions of occupational employment and serves as a foundational data resource for workforce tools and services across the country. These two efforts are closely linked: a modernized career site is only as good as the occupational and skills data that powers it. O*NET data informs how CareerOneStop presents occupations, skills, and pathways to users--and improvements to O*NET's timeliness, granularity, and interoperability will directly expand what a modernized site can offer. DOL is therefore seeking input on both efforts together, and respondents are encouraged to consider how improvements in one area could strengthen the other. Please note that this RFI is issued for information-gathering purposes only; it is not a solicitation or an offer for procurement. DOL will not award contracts or grants based on responses to this notice and will not respond individually to commenters. Comments may inform program and policy planning, including potential future notices and procurement activities. DOL expects that any possible procurement activity will be posted on the GSA Multiple Award Schedule.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11542/modernizing-federal-workforce-information-tools-request-for-information-rfi-on-online-career-tools",
-      "publication_date": "2026-06-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        }
-      ],
-      "hash": "3627acb1b3a3bcb575aeca6c3ae84c44"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Actuarial Attestation Regarding War Risk Hazard Provisions in Defense Base Act Premiums",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11498/agency-information-collection-activities-submission-for-omb-review-comment-request-actuarial",
-      "publication_date": "2026-06-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "d0e3dfb75f1b64bf476398ce8f60bacd"
-    },
-    {
-      "title": "Proposed Extension of Existing Collection; Request for Examination and/or Treatment (LS-1)",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled \"Request for Examination and/or Treatment\" (LS-1). This comment request is part of a continuing effort to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11497/proposed-extension-of-existing-collection-request-for-examination-andor-treatment-ls-1",
-      "publication_date": "2026-06-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of the Workers' Compensation Programs",
-          "name": "Workers' Compensation Programs Office",
-          "id": 530,
-          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
-          "parent_id": 271,
-          "slug": "workers-compensation-programs-office"
-        }
-      ],
-      "hash": "11d4234b20ea5cd5041e12fc5eebe844"
-    },
-    {
-      "title": "Proposed Extension of a Currently Approved Collection: Certification of Funeral Expenses Under the Longshore and Harbor Workers' Compensation Act",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, \"Administration of the Longshore and Harbor Workers' Compensation Act.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11496/proposed-extension-of-a-currently-approved-collection-certification-of-funeral-expenses-under-the",
-      "publication_date": "2026-06-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of Workers' Compensation Programs",
-          "name": "Workers' Compensation Programs Office",
-          "id": 530,
-          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
-          "parent_id": 271,
-          "slug": "workers-compensation-programs-office"
-        }
-      ],
-      "hash": "7aa1909f0be1f0ac24d855f9ef7b09e2"
-    },
-    {
-      "title": "Proposed Extension Without Change of Existing Collection; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is soliciting comments concerning an proposed extension for the authority to conduct the information collection request (ICR) titled, \"Application for Continuation of Death Benefits for Student\" (LS-266). This comment request is part of a continuing effort to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of the collection requirements on respondents can be properly assessed.",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11495/proposed-extension-without-change-of-existing-collection-comment-request-administration-of-the",
-      "publication_date": "2026-06-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of Workers' Compensation Programs",
-          "name": "Workers' Compensation Programs Office",
-          "id": 530,
-          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
-          "parent_id": 271,
-          "slug": "workers-compensation-programs-office"
-        }
-      ],
-      "hash": "13fc98b77e006d8c6917a5ccb42cb0a9"
-    },
-    {
-      "title": "Proposed Revision of Information Collection; Operator Response to Schedule for the Submission of Additional Evidence and Operator Response to Notice of Claim",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Operator Response to Schedule for the Submission of Additional Evidence and Operator Response to Notice of Claim.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/08/2026-11427/proposed-revision-of-information-collection-operator-response-to-schedule-for-the-submission-of",
-      "publication_date": "2026-06-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of Workers' Compensation Programs",
-          "name": "Workers' Compensation Programs Office",
-          "id": 530,
-          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
-          "parent_id": 271,
-          "slug": "workers-compensation-programs-office"
-        }
-      ],
-      "hash": "d36465e07cf0f33f6af58125d90b44a9"
     }
   ]
 }

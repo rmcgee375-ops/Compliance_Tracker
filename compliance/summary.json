@@ -1,33 +1,19 @@
 {
-  "run_date": "2026-06-29T22:12:53.522837",
-  "total_new_updates": 3,
+  "run_date": "2026-07-06T22:18:37.369373",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 3,
+      "new_count": 1,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Comment on NCCoE's Draft OT Cybersecurity Project",
-          "link": "https://csrc.nist.gov/News/2026/comment-on-nccoe-s-draft-ot-cybersecurity-project",
+          "title": "NIST Releases SP 800-18r2",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-18r2",
           "published_date": null,
-          "scraped_date": "2026-06-29",
-          "hash": "3f045d455438d024a595f01579b688eb"
-        },
-        {
-          "title": "Cybersecurity for the Water and Wastewater Sector",
-          "link": "https://csrc.nist.gov/News/2026/cyber-for-water-wastewater-sector",
-          "published_date": null,
-          "scraped_date": "2026-06-29",
-          "hash": "850f69a70ace8a63a975fb65bf18cc57"
-        },
-        {
-          "title": "NIST Releases SP 800-213r1 ipd",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-213r1-ipd",
-          "published_date": null,
-          "scraped_date": "2026-06-29",
-          "hash": "27693a66c44b51a8a7f164258ebf1301"
+          "scraped_date": "2026-07-06",
+          "hash": "727ab19cb4e3b90c4207b18853dbe823"
         }
       ]
     },

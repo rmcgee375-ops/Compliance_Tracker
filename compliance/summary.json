@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-07-06T22:18:37.369373",
+  "run_date": "2026-07-13T22:00:31.935235",
   "total_new_updates": 1,
   "sources": [
     {
@@ -9,11 +9,11 @@
       "total_count": 15,
       "new_updates": [
         {
-          "title": "NIST Releases SP 800-18r2",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-18r2",
+          "title": "NIST releases SP 1326",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-1326",
           "published_date": null,
-          "scraped_date": "2026-07-06",
-          "hash": "727ab19cb4e3b90c4207b18853dbe823"
+          "scraped_date": "2026-07-13",
+          "hash": "5566113c51a574248f937b53fc26bee2"
         }
       ]
     },

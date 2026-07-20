@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "last_checked": "2026-07-13T22:00:32.287665",
+    "last_checked": "2026-07-20T22:04:35.914161",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 5,
-    "new_updates": 5,
+    "total_updates": 4,
+    "new_updates": 4,
     "lookback_days": 7
   },
   "updates": [
     {
-      "title": "Notice of Request for Extension of Approval of an Information Collection; APHIS Pest Reporting and Asian Longhorn Beetle Program",
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Citrus Canker, Citrus Greening, and Asian Citrus Psyllid; Quarantine and Interstate Movement Regulations",
       "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's (APHIS') intention to request an extension of approval of an information collection associated with the reporting of plant pests and diseases, and APHIS conducting Asian Longhorn Beetle Program activities.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/10/2026-13940/notice-of-request-for-extension-of-approval-of-an-information-collection-aphis-pest-reporting-and",
-      "publication_date": "2026-07-10",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations to prevent the spread of citrus canker, citrus greening, and citrus greening's vector, the Asian citrus psyllid, to noninfested areas of the United States.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14323/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-citrus",
+      "publication_date": "2026-07-16",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF AGRICULTURE",
@@ -36,98 +36,14 @@
           "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "cf47fbcd259bce67735909d447a26449"
+      "hash": "6f97c0ac8af6bcde10d6614ee6a872ee"
     },
     {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Generic Clearance for Collection of Qualitative Feedback on Agency Service Delivery",
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Horse Protection Regulations",
       "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/10/2026-13929/agency-information-collection-activities-submission-for-omb-review-generic-clearance-for-collection",
-      "publication_date": "2026-07-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Bureau of Labor Statistics",
-          "name": "Labor Statistics Bureau",
-          "id": 272,
-          "url": "https://www.federalregister.gov/agencies/labor-statistics-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/272",
-          "parent_id": 271,
-          "slug": "labor-statistics-bureau"
-        }
-      ],
-      "hash": "65891e1b04c1cb724816127cfc3b712b"
-    },
-    {
-      "title": "Proposed Information Collection; ATUS Artificial Intelligence (AI) Questions",
-      "type": "Notice",
-      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Bureau of Labor Statistics (BLS) is soliciting comments concerning the proposed new collection, the \"American Time Use Survey (ATUS) Artificial Intelligence (AI) Questions.\" A copy of the proposed information collection request can be obtained by contacting the individual listed below in the Addresses section of this notice.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/10/2026-13928/proposed-information-collection-atus-artificial-intelligence-ai-questions",
-      "publication_date": "2026-07-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Bureau of Labor Statistics",
-          "name": "Labor Statistics Bureau",
-          "id": 272,
-          "url": "https://www.federalregister.gov/agencies/labor-statistics-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/272",
-          "parent_id": 271,
-          "slug": "labor-statistics-bureau"
-        }
-      ],
-      "hash": "a3089da08c7eb6c153f7980a2034f584"
-    },
-    {
-      "title": "Hydrostatic Testing Provision of the Portable Fire Extinguishers Standard; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements",
-      "type": "Notice",
-      "abstract": "OSHA solicits public comments concerning the proposal to extend the Office of Management and Budget's (OMB) approval of the information collection requirements specified in the Hydrostatic Testing Provision of the Portable Fire Extinguishers Standard.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/10/2026-13927/hydrostatic-testing-provision-of-the-portable-fire-extinguishers-standard-extension-of-the-office-of",
-      "publication_date": "2026-07-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "9a60ed6a66e0412f09805cb3ca503703"
-    },
-    {
-      "title": "General Conference Committee of the National Poultry Improvement Plan and 47th Biennial Conference",
-      "type": "Notice",
-      "abstract": "We are giving notice, pursuant to the provisions of the rules and regulations of the Department of Agriculture and the Federal Advisory Committee Act (FACA), of a meeting of the General Conference Committee (GCC or the Committee) of the National Poultry Improvement Plan (NPIP) and the NPIP's 47th Biennial Conference.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/07/2026-13717/general-conference-committee-of-the-national-poultry-improvement-plan-and-47th-biennial-conference",
-      "publication_date": "2026-07-07",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the Horse Protection Program and enforcement of the Horse Protection Act.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14321/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-horse",
+      "publication_date": "2026-07-16",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF AGRICULTURE",
@@ -148,7 +64,63 @@
           "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "aafb03ed75b3deaf97f30d7fe6f6a6ff"
+      "hash": "8d2fc31c7793564180172269c046fe5f"
+    },
+    {
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Importation of Live Swine (From Certain Regions), Pork, and Pork Products",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations for the importation of live swine (from certain regions), pork, and pork products free of classical swine fever, particularly from Brazil, Chile, and Mexico.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14122/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-importation",
+      "publication_date": "2026-07-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "e0fc63fc6f69d278d3a41807b7127055"
+    },
+    {
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; National Animal Health Reporting System and Handling Swine With Potential Vesicular Disease",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's (APHIS') intention to request a revision to and extension of approval of an information collection associated with APHIS' National List of Reportable Animal Diseases National Animal Health Reporting System.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14121/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-national",
+      "publication_date": "2026-07-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "99f197771a1aaa27dcc9e37e3f53b546"
     }
   ]
 }

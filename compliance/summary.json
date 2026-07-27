@@ -1,13 +1,28 @@
 {
-  "run_date": "2026-07-20T22:04:35.527882",
-  "total_new_updates": 0,
+  "run_date": "2026-07-27T22:11:19.585775",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 0,
+      "new_count": 2,
       "total_count": 15,
-      "new_updates": []
+      "new_updates": [
+        {
+          "title": "AI Data Center Security Analysis: Draft SP 800-239",
+          "link": "https://csrc.nist.gov/News/2026/ai-data-center-security-analysis-draft-sp-800-239",
+          "published_date": null,
+          "scraped_date": "2026-07-27",
+          "hash": "feb27a1f2755d7f2a61849de5072867e"
+        },
+        {
+          "title": "Security Guidelines for Storage Infrastructure",
+          "link": "https://csrc.nist.gov/News/2026/security-guidelines-storage-infrastructure-draft",
+          "published_date": null,
+          "scraped_date": "2026-07-27",
+          "hash": "3ad732372e23486f7a918874642c02e2"
+        }
+      ]
     },
     {
       "source": "GDPR/EDPB",

@@ -1,15 +1,324 @@
 {
   "metadata": {
-    "last_checked": "2026-07-27T22:11:19.873530",
+    "last_checked": "2026-08-03T22:11:32.523130",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 35,
-    "new_updates": 35,
+    "total_updates": 27,
+    "new_updates": 12,
     "lookback_days": 7
   },
   "updates": [
+    {
+      "title": "Ventilation Plan Approval Criteria",
+      "type": "Proposed Rule",
+      "abstract": "In response to a public request, the Mine Safety and Health Administration (MSHA) is reopening the rulemaking record and is scheduling a virtual public hearing on the Agency's proposed rule published on July 1, 2025, titled, \"Ventilation Plan Approval Criteria.\"",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15717/ventilation-plan-approval-criteria",
+      "publication_date": "2026-08-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "186c61ddc921f855437b16f272c5a035"
+    },
+    {
+      "title": "Labor Certification Process for the Temporary Employment of Foreign Workers in Agriculture in the United States: Adverse Effect Wage Rate Updates for Non-Range Occupations",
+      "type": "Notice",
+      "abstract": "The Employment and Training Administration (ETA) of the Department of Labor (DOL) is issuing this notice to announce updates to the Adverse Effect Wage Rates (AEWR) for the employment of temporary or seasonal nonimmigrant foreign workers (H-2A workers) to perform agricultural labor or services in non-range occupations. AEWRs are the minimum wage rates that must be offered, advertised in recruitment, and paid by employers to H-2A workers and workers in corresponding employment to ensure that the wages and working conditions of workers in the United States similarly employed are not adversely affected.",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15673/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the",
+      "publication_date": "2026-08-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
+        }
+      ],
+      "hash": "726efca34ee36a644ce224d435c46962"
+    },
+    {
+      "title": "Powered Platforms for Building Maintenance Standard; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements",
+      "type": "Notice",
+      "abstract": "OSHA solicits public comments concerning the proposal to extend the Office of Management and Budget's (OMB) approval of the information collection requirements specified in the Powered Platforms for Building Maintenance standard.",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15672/powered-platforms-for-building-maintenance-standard-extension-of-the-office-of-management-and",
+      "publication_date": "2026-08-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "405cf69639b4e545dd8232b60a090411"
+    },
+    {
+      "title": "Roof Control Plan Approval Criteria",
+      "type": "Proposed Rule",
+      "abstract": "In response to a public request, the Mine Safety and Health Administration (MSHA) is reopening the rulemaking record and is scheduling a virtual public hearing on the Agency's proposed rule published on July 1, 2025, titled, \"Roof Control Plan Approval Criteria.\"",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15670/roof-control-plan-approval-criteria",
+      "publication_date": "2026-08-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "c77fcf9fbf39978dc479b9f228ab47e9"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Application for Use of Public Space by Non-DOL Agencies in the Frances Perkins Building",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this the Office of the Assistant Secretary for Administration and Management (OASAM)- sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15669/agency-information-collection-activities-submission-for-omb-review-application-for-use-of-public",
+      "publication_date": "2026-08-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "220ac2c6e54badef3fa05a9bb3c81c49"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Disclosures for Participant Directed Individual Account Plans",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Employee Benefits Security Administration (EBSA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15668/agency-information-collection-activities-submission-for-omb-review-comment-request-disclosures-for",
+      "publication_date": "2026-08-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "7ad3b8f49cd2e2e1e067d607d49c33a9"
+    },
+    {
+      "title": "Amendment to Exemption for Certain Prohibited Transactions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas",
+      "type": "Notice",
+      "abstract": "Prohibited Transaction Exemption (PTE) 2014-06 provided an exemption for AT&T to contribute approximately $9.21 billion of employer securities (the Preferred Interests) and other assets to the AT&T Pension Benefit Plan (the Plan). This notice amends PTE 2014-06 to permit certain modifications (the Modifications) that were made with respect to the terms and provisions governing the Plan's holding and disposition of the Preferred Interests. Absent this amendment to PTE 2014-06 (Exemption Amendment), the Modifications would have resulted in violations of the prohibited transaction provisions of the Employee Retirement Income Security Act of 1974 (ERISA) and/or the Internal Revenue Code of 1986 (the Code).",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15620/amendment-to-exemption-for-certain-prohibited-transactions-involving-atandt-inc-together-with-atandt",
+      "publication_date": "2026-08-03",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employee Benefits Security Administration",
+          "name": "Employee Benefits Security Administration",
+          "id": 131,
+          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
+          "parent_id": 271,
+          "slug": "employee-benefits-security-administration"
+        }
+      ],
+      "hash": "fb552a3975858576adc67aeaf72a0ba6"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Attestation for Employers Seeking To Employ H-2B Nonimmigrant Workers Under Section 105 of Division G, Title I of the Further Consolidated Appropriations Act, 2024, Public Law 118-47, as Extended by Public Law 119-37",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Employment and Training Administration (ETA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/30/2026-15424/agency-information-collection-activities-submission-for-omb-review-comment-request-attestation-for",
+      "publication_date": "2026-07-30",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "6430521b1c9e6ee97591611e2a161641"
+    },
+    {
+      "title": "Black Lung Benefits Act: Authorization of Self-Insurers",
+      "type": "Proposed Rule",
+      "abstract": "The Department is proposing revisions to regulations under the Black Lung Benefits Act (BLBA or the Act) governing authorization of self-insurers. These rules will determine the process for coal mine operators to apply for authorization to self-insure, the requirements operators must meet to qualify to self-insure, the amount of security self-insured operators must provide, and the types of security accepted for operators to self-insure.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/30/2026-15325/black-lung-benefits-act-authorization-of-self-insurers",
+      "publication_date": "2026-07-30",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "60546be555aa3f633d1b6b5e45e53d38"
+    },
+    {
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Importation of Beef and Ovine Meat From Uruguay and Beef From Argentina, Brazil, and Paraguay",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request revision to and extension of approval of an information collection associated with regulations for the importation of beef and ovine meat from Uruguay and beef from Argentina, Brazil, and Paraguay.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/29/2026-15276/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-importation",
+      "publication_date": "2026-07-29",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "67f8f7240563196208c60b80549d3f90"
+    },
+    {
+      "title": "Benzene",
+      "type": "Proposed Rule",
+      "abstract": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the Benzene standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/28/2026-15227/benzene",
+      "publication_date": "2026-07-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "106e86e6b7cbba5c5728d505e0a4557b"
+    },
+    {
+      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Volunteer Service Agreements and Volunteer Service Time and Attendance Record",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with volunteer service agreements and volunteer service time and attendance record.",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/28/2026-15156/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-volunteer",
+      "publication_date": "2026-07-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "180857bce706f53c754912c576035677"
+    },
     {
       "title": "Agency Information Collection Activities; Comment Request; Information Collections: Employee Polygraph Protection Act",
       "type": "Notice",
@@ -411,548 +720,6 @@
         }
       ],
       "hash": "dd8bf7996c2df60566680c41bcaf3104"
-    },
-    {
-      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; National Veterinary Accreditation Program",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the National Veterinary Accreditation Program application form.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/24/2026-15023/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-national",
-      "publication_date": "2026-07-24",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "27bf5dc523d7915e351f6f672d0fbb6d"
-    },
-    {
-      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Permanent, Privately Owned Horse Quarantine Facilities",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with regulations for permanent, privately owned horse quarantine facilities.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/24/2026-15012/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-permanent",
-      "publication_date": "2026-07-24",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "2fc153ba32b2cac22c58355ed1549474"
-    },
-    {
-      "title": "Labor Advisory Committee for Trade Negotiations and Trade Policy",
-      "type": "Notice",
-      "abstract": "The Labor Advisory Committee for Trade Negotiations and Trade Policy will meet from 3:00 p.m. to 5:00 p.m. Eastern Standard Time on July 27, 2026.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/24/2026-14996/labor-advisory-committee-for-trade-negotiations-and-trade-policy",
-      "publication_date": "2026-07-24",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "14ee92700402eb06d6c1fcf453dbf499"
-    },
-    {
-      "title": "Electronic Disclosure by Group Health Plans Under ERISA",
-      "type": "Proposed Rule",
-      "abstract": "This proposed rule sets forth a new, additional safe harbor for group health plan administrators to use electronic media (e.g., email or web portal) to furnish documents and information to participants and beneficiaries of plans subject to the Employee Retirement Income Security Act of 1974 (ERISA). This proposal, if finalized, would allow plan administrators who satisfy specified conditions to provide participants and beneficiaries with a notice that certain disclosures will be made available electronically on a website. Individuals who prefer to receive these disclosures on paper will be able to request paper copies and to opt out of electronic delivery entirely. The Department expects that the proposal, if finalized, would improve the effectiveness of the disclosures and significantly reduce the costs and burden to group health plans associated with furnishing many of the recurring disclosures.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14917/electronic-disclosure-by-group-health-plans-under-erisa",
-      "publication_date": "2026-07-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employee Benefits Security Administration",
-          "name": "Employee Benefits Security Administration",
-          "id": 131,
-          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
-          "parent_id": 271,
-          "slug": "employee-benefits-security-administration"
-        }
-      ],
-      "hash": "e3e6f59238938de80fc2d16e43a63235"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Prevailing Wage Determination",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Employment and Training Administration (ETA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14827/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for",
-      "publication_date": "2026-07-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "139d514fc7e593afc5f0e233b97f3b99"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Current Population Survey-Basic Labor Force",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14826/agency-information-collection-activities-submission-for-omb-review-current-population-survey-basic",
-      "publication_date": "2026-07-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Bureau of Labor Statistics",
-          "name": "Labor Statistics Bureau",
-          "id": 272,
-          "url": "https://www.federalregister.gov/agencies/labor-statistics-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/272",
-          "parent_id": 271,
-          "slug": "labor-statistics-bureau"
-        }
-      ],
-      "hash": "e111c4007e580665030867c8f3095d7c"
-    },
-    {
-      "title": "Methylene Chloride",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Methylene Chloride standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14854/methylene-chloride",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "a8f5c7831571b4103b72ea9d0692467d"
-    },
-    {
-      "title": "Vinyl Chloride",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Vinyl Chloride standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14853/vinyl-chloride",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "7abf2b4ebbcb03bdde787e99f1cdac9b"
-    },
-    {
-      "title": "Methylenedianiline",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Methylenedianiline standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14852/methylenedianiline",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "cb87b6fba563cd1013f935551942a734"
-    },
-    {
-      "title": "Lead",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Lead standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14851/lead",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "2e05aaadcbebbf34f5591306a44454d3"
-    },
-    {
-      "title": "Inorganic Arsenic",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Inorganic Arsenic standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14850/inorganic-arsenic",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "ca6cae1e3f10ed10de3a19a168e70669"
-    },
-    {
-      "title": "Formaldehyde",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Formaldehyde standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14849/formaldehyde",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "9da05e40a8078850f15ee56708dfb5d6"
-    },
-    {
-      "title": "1,2-Dibromo-3-Chloropropane",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the 1,2- dibromo-3-chloropropane standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14847/12-dibromo-3-chloropropane",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "36d797b2db2e0865931f9fa8e4412797"
-    },
-    {
-      "title": "Inorganic Arsenic",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Inorganic Arsenic standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14846/inorganic-arsenic",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "8160ae80f6f06bb740f3ad0994ff9431"
-    },
-    {
-      "title": "Acrylonitrile",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the Acrylonitrile standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14845/acrylonitrile",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "37368a5f4a43848f074fdc9a575d69de"
-    },
-    {
-      "title": "13 Carcinogens (4-Nitrobiphenyl, etc.)",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the 13 Carcinogens (4-Nitrobiphenyl, etc.) standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14844/13-carcinogens-4-nitrobiphenyl-etc",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "506b462e363a6931764ea5d22b31d5a8"
-    },
-    {
-      "title": "Ethylene Oxide",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Ethylene Oxide standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14843/ethylene-oxide",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "01d60a656decf298fbf94f5e7ff48e94"
-    },
-    {
-      "title": "Cadmium",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the Cadmium standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14842/cadmium",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "37018ce078124a8ff153f4c49e81acde"
-    },
-    {
-      "title": "Asbestos",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Asbestos standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14840/asbestos",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "185ed2c5b8272623489d8093c5c02b05"
-    },
-    {
-      "title": "1, 3-Butadiene",
-      "type": "Proposed Rule",
-      "abstract": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the 1,3- Butadiene standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is reopening the record for this rulemaking to provide an additional 30 days for public comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14839/1-3-butadiene",
-      "publication_date": "2026-07-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "ea4913d1693856c181ad5876c5cbdb9c"
     }
   ]
 }

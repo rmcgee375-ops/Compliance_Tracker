@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "last_checked": "2026-08-10T21:48:04.820750",
+    "last_checked": "2026-08-17T21:30:00.846036",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 13,
-    "new_updates": 6,
+    "total_updates": 2,
+    "new_updates": 2,
     "lookback_days": 7
   },
   "updates": [
     {
-      "title": "Bayer/Monsanto: Determination of Nonregulated Status for MON 87429 Maize Genetically Engineered for Dicamba, Glufosinate, Quizalofop, and 2,4-Dichlorophenoxyacetic Acid (2,4-D) Resistance With Tissue-Specific Glyphosate Resistance Facilitating the Production of Hybrid Maize Seed",
+      "title": "U.S. Department of Agriculture, Agricultural Research Service: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for Early and Near-Continuous Blooming European Plum (Prunus domestica) Lines (34 plum and 157 plum)",
       "type": "Notice",
-      "abstract": "We are advising the public of our determination that MON 87429 maize, which was developed using genetic engineering for dicamba, glufosinate, quizalofop, and 2,4-dichlorophenoxyacetic acid resistance with tissue-specific glyphosate resistance facilitating the production of hybrid maize seed, is no longer considered regulated. Our determination is based on our evaluation of information and data Bayer/ Monsanto submitted in its petition for a determination of nonregulated status, available scientific data, the plant pest risk assessment, and public comments received in response to a previous notice announcing the availability of the petition for nonregulated status and a draft plant pest risk assessment. This notice announces the availability of our written determination and supporting documents.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15876/bayermonsanto-determination-of-nonregulated-status-for-mon-87429-maize-genetically-engineered-for",
-      "publication_date": "2026-08-05",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from the U.S. Department of Agriculture, Agricultural Research Service seeking a determination of nonregulated status for two European plum (Prunus domestica) lines (34 plum and 157 plum) which have been developed using genetic engineering to promote early and near-continuous blooming. We are making the petition and draft plant pest risk assessment available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16623/us-department-of-agriculture-agricultural-research-service-availability-of-a-petition-for-a",
+      "publication_date": "2026-08-14",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF AGRICULTURE",
@@ -36,98 +36,14 @@
           "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "846d00897c66fdba41298fd693e6fc3c"
+      "hash": "0b70986ac9ad7b0ecef530dc4be5fe0b"
     },
     {
-      "title": "Importation of Coffee Into Hawaii and Puerto Rico",
-      "type": "Proposed Rule",
-      "abstract": "We are proposing to amend the regulations regarding the importation of unroasted coffee and related articles into Hawaii and Puerto Rico by establishing a notice-based process for changes to the prohibitions on importing such articles. We would also broaden language regarding coffee pests. We are proposing these amendments because they would allow the Agency to more efficiently respond to market access requests as well as to emerging pest situations. These amendments would allow us to use a streamlined approach to update the importation conditions for unroasted coffee and related articles while continuing to protect plant health.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15857/importation-of-coffee-into-hawaii-and-puerto-rico",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "d03a8bda48aeba37471f1306462a0b7a"
-    },
-    {
-      "title": "Notice of Request for Approval of a New Information Collection; National Animal Health Monitoring System; Poultry 2027 Upland Gamebird and Duck Study",
+      "title": "Agenda of Regulations",
       "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request approval of a new information collection associated with the conduct of the National Animal Health Monitoring System's Upland Gamebird and Duck study in 2027.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15856/notice-of-request-for-approval-of-a-new-information-collection-national-animal-health-monitoring",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "b65596663a63a9bc5d6c6e4b5b478e29"
-    },
-    {
-      "title": "National Poultry Improvement Plan and Auxiliary Provisions",
-      "type": "Proposed Rule",
-      "abstract": "We are proposing to amend the regulations governing the National Poultry Improvement Plan (NPIP). These amendments would, among other things, clarify existing provisions of the regulations, fix editorial errors, and align the regulations more closely with current producer practices. These proposed changes were voted on and approved by the voting delegates at the NPIP's 2024 National Plan Conference.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15845/national-poultry-improvement-plan-and-auxiliary-provisions",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "6d183fac5cd76f4cd1ee93cfe4f8c3a3"
-    },
-    {
-      "title": "All Items Consumer Price Index for All Urban Consumers; United States City Average",
-      "type": "Notice",
-      "abstract": null,
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15807/all-items-consumer-price-index-for-all-urban-consumers-united-states-city-average",
-      "publication_date": "2026-08-05",
+      "abstract": "The internet has become the means for disseminating the entirety of the Department of Labor's regulatory agenda. However, the Regulatory Flexibility Act requires publication of a regulatory flexibility agenda in the Federal Register. This Federal Register Notice contains the regulatory flexibility agenda.",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16599/agenda-of-regulations",
+      "publication_date": "2026-08-14",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -139,210 +55,10 @@
           "slug": "labor-department"
         },
         {
-          "raw_name": "Office of the Acting Secretary"
+          "raw_name": "Office of the Secretary"
         }
       ],
-      "hash": "b234680964a7001b3daa82aef217b51e"
-    },
-    {
-      "title": "All Items Consumer Price Index for All Urban Consumers; United States City Average",
-      "type": "Notice",
-      "abstract": null,
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15806/all-items-consumer-price-index-for-all-urban-consumers-united-states-city-average",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of the Acting Secretary"
-        }
-      ],
-      "hash": "535dc98acf99d8cfaeaa6358e9de226f"
-    },
-    {
-      "title": "Ventilation Plan Approval Criteria",
-      "type": "Proposed Rule",
-      "abstract": "In response to a public request, the Mine Safety and Health Administration (MSHA) is reopening the rulemaking record and is scheduling a virtual public hearing on the Agency's proposed rule published on July 1, 2025, titled, \"Ventilation Plan Approval Criteria.\"",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15717/ventilation-plan-approval-criteria",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Mine Safety and Health Administration",
-          "name": "Mine Safety and Health Administration",
-          "id": 288,
-          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
-          "parent_id": 271,
-          "slug": "mine-safety-and-health-administration"
-        }
-      ],
-      "hash": "186c61ddc921f855437b16f272c5a035"
-    },
-    {
-      "title": "Labor Certification Process for the Temporary Employment of Foreign Workers in Agriculture in the United States: Adverse Effect Wage Rate Updates for Non-Range Occupations",
-      "type": "Notice",
-      "abstract": "The Employment and Training Administration (ETA) of the Department of Labor (DOL) is issuing this notice to announce updates to the Adverse Effect Wage Rates (AEWR) for the employment of temporary or seasonal nonimmigrant foreign workers (H-2A workers) to perform agricultural labor or services in non-range occupations. AEWRs are the minimum wage rates that must be offered, advertised in recruitment, and paid by employers to H-2A workers and workers in corresponding employment to ensure that the wages and working conditions of workers in the United States similarly employed are not adversely affected.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15673/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        }
-      ],
-      "hash": "726efca34ee36a644ce224d435c46962"
-    },
-    {
-      "title": "Powered Platforms for Building Maintenance Standard; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements",
-      "type": "Notice",
-      "abstract": "OSHA solicits public comments concerning the proposal to extend the Office of Management and Budget's (OMB) approval of the information collection requirements specified in the Powered Platforms for Building Maintenance standard.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15672/powered-platforms-for-building-maintenance-standard-extension-of-the-office-of-management-and",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "405cf69639b4e545dd8232b60a090411"
-    },
-    {
-      "title": "Roof Control Plan Approval Criteria",
-      "type": "Proposed Rule",
-      "abstract": "In response to a public request, the Mine Safety and Health Administration (MSHA) is reopening the rulemaking record and is scheduling a virtual public hearing on the Agency's proposed rule published on July 1, 2025, titled, \"Roof Control Plan Approval Criteria.\"",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15670/roof-control-plan-approval-criteria",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Mine Safety and Health Administration",
-          "name": "Mine Safety and Health Administration",
-          "id": 288,
-          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
-          "parent_id": 271,
-          "slug": "mine-safety-and-health-administration"
-        }
-      ],
-      "hash": "c77fcf9fbf39978dc479b9f228ab47e9"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Application for Use of Public Space by Non-DOL Agencies in the Frances Perkins Building",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this the Office of the Assistant Secretary for Administration and Management (OASAM)- sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15669/agency-information-collection-activities-submission-for-omb-review-application-for-use-of-public",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "220ac2c6e54badef3fa05a9bb3c81c49"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Disclosures for Participant Directed Individual Account Plans",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Employee Benefits Security Administration (EBSA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15668/agency-information-collection-activities-submission-for-omb-review-comment-request-disclosures-for",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "7ad3b8f49cd2e2e1e067d607d49c33a9"
-    },
-    {
-      "title": "Amendment to Exemption for Certain Prohibited Transactions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas",
-      "type": "Notice",
-      "abstract": "Prohibited Transaction Exemption (PTE) 2014-06 provided an exemption for AT&T to contribute approximately $9.21 billion of employer securities (the Preferred Interests) and other assets to the AT&T Pension Benefit Plan (the Plan). This notice amends PTE 2014-06 to permit certain modifications (the Modifications) that were made with respect to the terms and provisions governing the Plan's holding and disposition of the Preferred Interests. Absent this amendment to PTE 2014-06 (Exemption Amendment), the Modifications would have resulted in violations of the prohibited transaction provisions of the Employee Retirement Income Security Act of 1974 (ERISA) and/or the Internal Revenue Code of 1986 (the Code).",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15620/amendment-to-exemption-for-certain-prohibited-transactions-involving-atandt-inc-together-with-atandt",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employee Benefits Security Administration",
-          "name": "Employee Benefits Security Administration",
-          "id": 131,
-          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
-          "parent_id": 271,
-          "slug": "employee-benefits-security-administration"
-        }
-      ],
-      "hash": "fb552a3975858576adc67aeaf72a0ba6"
+      "hash": "1421664d8b7242533f31c29fdd9d4d48"
     }
   ]
 }

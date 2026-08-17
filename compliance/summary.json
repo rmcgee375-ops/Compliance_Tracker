@@ -1,28 +1,13 @@
 {
-  "run_date": "2026-08-10T21:48:04.384259",
-  "total_new_updates": 2,
+  "run_date": "2026-08-17T21:30:00.594252",
+  "total_new_updates": 0,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 2,
+      "new_count": 0,
       "total_count": 15,
-      "new_updates": [
-        {
-          "title": "Comment on NCCoE Initial Public Draft CSWP 36F",
-          "link": "https://csrc.nist.gov/News/2026/comment-on-nccoe-initial-public-draft-cswp-36f",
-          "published_date": null,
-          "scraped_date": "2026-08-10",
-          "hash": "4672040787c8b6945f8b653e6061a27f"
-        },
-        {
-          "title": "Transit Cybersecurity Framework Community Profile",
-          "link": "https://csrc.nist.gov/News/2026/transit-cybersecurity-framework-community-profile",
-          "published_date": null,
-          "scraped_date": "2026-08-10",
-          "hash": "6846425b00898c570505ad6646501d68"
-        }
-      ]
+      "new_updates": []
     },
     {
       "source": "GDPR/EDPB",

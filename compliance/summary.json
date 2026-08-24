@@ -1,13 +1,28 @@
 {
-  "run_date": "2026-08-17T21:30:00.594252",
-  "total_new_updates": 0,
+  "run_date": "2026-08-24T21:34:14.984585",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 0,
+      "new_count": 2,
       "total_count": 15,
-      "new_updates": []
+      "new_updates": [
+        {
+          "title": "NIST Releases IR-8613 ipd for Comments",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-ir-8613-ipd-for-comments",
+          "published_date": null,
+          "scraped_date": "2026-08-24",
+          "hash": "647438c0dcbf8d8bcf04cdd4496cf113"
+        },
+        {
+          "title": "Using AI for CSF 2 Analysis Reporting | Draft QSG",
+          "link": "https://csrc.nist.gov/News/2026/using-ai-for-csf-2-analysis-reporting-draft-qsg",
+          "published_date": null,
+          "scraped_date": "2026-08-24",
+          "hash": "b1471de82eef43dd720d92831d60b8b7"
+        }
+      ]
     },
     {
       "source": "GDPR/EDPB",

@@ -1,26 +1,33 @@
 {
-  "run_date": "2026-08-24T21:34:14.984585",
-  "total_new_updates": 2,
+  "run_date": "2026-09-01T00:29:27.804383",
+  "total_new_updates": 3,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 2,
+      "new_count": 3,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "NIST Releases IR-8613 ipd for Comments",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-ir-8613-ipd-for-comments",
+          "title": "Call for Comments on NIST SP 800-213A",
+          "link": "https://csrc.nist.gov/News/2026/nist-s-sp-800-213a-released-for-comments",
           "published_date": null,
-          "scraped_date": "2026-08-24",
-          "hash": "647438c0dcbf8d8bcf04cdd4496cf113"
+          "scraped_date": "2026-09-01",
+          "hash": "c644bdf195cbdbaad3a2730d0c3413f2"
         },
         {
-          "title": "Using AI for CSF 2 Analysis Reporting | Draft QSG",
-          "link": "https://csrc.nist.gov/News/2026/using-ai-for-csf-2-analysis-reporting-draft-qsg",
+          "title": "Transcending Traditional Database Security Models",
+          "link": "https://csrc.nist.gov/News/2026/transcending-traditional-database-security-models",
           "published_date": null,
-          "scraped_date": "2026-08-24",
-          "hash": "b1471de82eef43dd720d92831d60b8b7"
+          "scraped_date": "2026-09-01",
+          "hash": "d814f6f4a80070c55ccc5050b8f7789d"
+        },
+        {
+          "title": "CSF 2.0 Informative References QSG",
+          "link": "https://csrc.nist.gov/News/2026/csf-2-0-informative-references-qsg",
+          "published_date": null,
+          "scraped_date": "2026-09-01",
+          "hash": "99a0a3437593bb87b47b80628932e3a3"
         }
       ]
     },

@@ -1,33 +1,26 @@
 {
-  "run_date": "2026-09-01T00:29:27.804383",
-  "total_new_updates": 3,
+  "run_date": "2026-09-07T23:21:45.883558",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 3,
+      "new_count": 2,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Call for Comments on NIST SP 800-213A",
-          "link": "https://csrc.nist.gov/News/2026/nist-s-sp-800-213a-released-for-comments",
+          "title": "NIST Releases SP 800-38Er1 for Comments",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-38er1-for-comments",
           "published_date": null,
-          "scraped_date": "2026-09-01",
-          "hash": "c644bdf195cbdbaad3a2730d0c3413f2"
+          "scraped_date": "2026-09-07",
+          "hash": "30adc0373ac014509b251e28513a27d1"
         },
         {
-          "title": "Transcending Traditional Database Security Models",
-          "link": "https://csrc.nist.gov/News/2026/transcending-traditional-database-security-models",
+          "title": "Next-Generation Secure Hardware into Standards",
+          "link": "https://csrc.nist.gov/News/2026/next-generation-secure-hardware-into-standards",
           "published_date": null,
-          "scraped_date": "2026-09-01",
-          "hash": "d814f6f4a80070c55ccc5050b8f7789d"
-        },
-        {
-          "title": "CSF 2.0 Informative References QSG",
-          "link": "https://csrc.nist.gov/News/2026/csf-2-0-informative-references-qsg",
-          "published_date": null,
-          "scraped_date": "2026-09-01",
-          "hash": "99a0a3437593bb87b47b80628932e3a3"
+          "scraped_date": "2026-09-07",
+          "hash": "bd0f83ac938726e8d7620f5cc16fad09"
         }
       ]
     },

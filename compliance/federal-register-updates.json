@@ -1,21 +1,174 @@
 {
   "metadata": {
-    "last_checked": "2026-09-07T23:21:46.109031",
+    "last_checked": "2026-09-14T23:46:32.592692",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 19,
-    "new_updates": 17,
+    "total_updates": 7,
+    "new_updates": 7,
     "lookback_days": 7
   },
   "updates": [
     {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; OMB Control No. 1293-0014; Veterans' Employment and Training Service Competitive Grants Programs Reporting",
+      "title": "Domestic Quarantine: Quarantined Areas and Regulated Articles",
       "type": "Notice",
-      "abstract": "The Department of Labor (DOL) Veterans' Employment and Training Service (VETS) is soliciting comments on the information collection request (ICR) for OMB Control No. 1293-0014 Veterans' Employment and Training Service Competitive Grants Programs Reporting, for which VETS proposes to revise the title to the Homeless Veterans' Reintegration Program Grant Recipient Reporting. The Homeless Veterans' Reintegration Program (HVRP) is authorized under 38 U.S.C. 2021. HVRP funds over 150 discretionary grants that serve nearly 16,000 veterans experiencing homelessness, veterans at-risk of homelessness, and incarcerated veterans annually, along with nearly 40 Stand Down events. This collection will contain reports submitted by HVRP grant recipients.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18098/agency-information-collection-activities-submission-for-omb-review-comment-request-omb-control-no",
-      "publication_date": "2026-09-04",
+      "abstract": "We are advising the public of the changes made to our lists of domestic quarantined areas in 2025. These changes may be viewed on the relevant plant pest programs' websites.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/11/2026-18616/domestic-quarantine-quarantined-areas-and-regulated-articles",
+      "publication_date": "2026-09-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "fee3e7a523f3e060ad1e26845b1db657"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Requests To Approve Conformed Wage Classifications and Unconventional Fringe Benefit Plans Under the Davis-Bacon and Related Acts and Contract Work Hours and Safety Standards Act",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Wage and Hour Division (WHD)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18506/agency-information-collection-activities-submission-for-omb-review-comment-request-requests-to",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "3cd68c7e95ff0fe205a3cd53358fe097"
+    },
+    {
+      "title": "Proposed Revision of Information Collection: Rehabilitation Plan and Award.",
+      "type": "Notice",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of Workers' Compensation Programs (OWCP) is soliciting comments on the information collection for the OWCP-16, Rehabilitation Plan and Award.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18503/proposed-revision-of-information-collection-rehabilitation-plan-and-award",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
+        }
+      ],
+      "hash": "b144e0e44da9749bfea4752235305575"
+    },
+    {
+      "title": "Proposed Information Collection; NEON Provider Organization",
+      "type": "Notice",
+      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of Disability Employment Policy, Department of Labor, (ODEP) is soliciting comments on the information collection for the NEON Provider Organization Survey.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18502/proposed-information-collection-neon-provider-organization",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of Disability Employment Policy",
+          "name": "Disability Employment Policy Office",
+          "id": 115,
+          "url": "https://www.federalregister.gov/agencies/disability-employment-policy-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/115",
+          "parent_id": 271,
+          "slug": "disability-employment-policy-office"
+        }
+      ],
+      "hash": "7cf2fcc021a7bc0bb83c948d19fd2a38"
+    },
+    {
+      "title": "Senior Executive Service; Appointment of Members to the Performance Review Board",
+      "type": "Notice",
+      "abstract": "Title 5 U.S.C. 4314(c)(4) provides that Notice of the Appointment of the individual to serve as a member of the Performance Review Board of the Senior Executive Service shall be published in the Federal Register.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18500/senior-executive-service-appointment-of-members-to-the-performance-review-board",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "hash": "0397fb7041a9a80a480f55db7d4bbeb7"
+    },
+    {
+      "title": "Agency Information Collection Activities; Comment Request; Migrant and Seasonal Farmworker Monitoring Report and Complaint/Apparent Violation Form",
+      "type": "Notice",
+      "abstract": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18499/agency-information-collection-activities-comment-request-migrant-and-seasonal-farmworker-monitoring",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
+        }
+      ],
+      "hash": "fa1ce836709e1fb278836af2e7106dc2"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; OMB Control No. 1293-0018",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) Veterans' Employment and Training Service (VETS is soliciting comments on the information collection request (ICR) for OMB Control No. 1293-0018 Homeless Veterans' Reintegration Program Budget and Narrative, for which VETS proposes to revise the title to Homeless Veterans' Reintegration Program Applicant Forms. The Homeless Veterans' Reintegration Program (HVRP) is authorized under 38 U.S.C. 2021. HVRP funds over 150 discretionary grants that serve nearly 16,000 veterans experiencing homelessness, veterans at-risk of homelessness, and incarcerated veterans annually, and along with nearly 40 Stand Down events. This collection contains forms submitted by HVRP Funding Opportunity Announcement (FOA) applicants.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18498/agency-information-collection-activities-submission-for-omb-review-comment-request-omb-control-no",
+      "publication_date": "2026-09-10",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -36,448 +189,7 @@
           "slug": "veterans-employment-and-training-service"
         }
       ],
-      "hash": "30dc3cbc2d66cd7990bae191defab7e4"
-    },
-    {
-      "title": "Federal-State Unemployment Compensation Program: Notice of Federal Agency With Adequate Safeguards To Satisfy the Confidentiality Requirement of 20 CFR 603.9(d)",
-      "type": "Notice",
-      "abstract": "In this notice, the Department of Labor (Department) recognizes that, for purposes of digital identity verification services, Login.gov, a shared technology service within the United States General Services Administration (GSA), has in place safeguards adequate to satisfy the requirements of the Federal regulation on the confidentiality and disclosure of unemployment compensation (UC) information. As a result, the safeguards and security requirements enumerated in the regulation do not apply to disclosures of confidential UC information by state UC agencies to GSA's Login.gov for digital identity verification services.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18043/federal-state-unemployment-compensation-program-notice-of-federal-agency-with-adequate-safeguards-to",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        }
-      ],
-      "hash": "7de8e22d9ddc0c49f64138321707841b"
-    },
-    {
-      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection: Environmental Monitoring",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with environmental monitoring.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18022/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "b47118e2fcafe55b331971ed7c83e7bd"
-    },
-    {
-      "title": "Notice of Request for Revision to and Extension of Approval of an Information Collection; Irradiation Treatment; Location of Facilities in the Southern United States",
-      "type": "Notice",
-      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request a revision to and extension of approval of an information collection associated with the regulations for the location of irradiation treatment facilities in the United States.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18021/notice-of-request-for-revision-to-and-extension-of-approval-of-an-information-collection-irradiation",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "hash": "1fafc86fdf93502872d556ee0d1f800c"
-    },
-    {
-      "title": "Privacy Act of 1974; System of Records",
-      "type": "Notice",
-      "abstract": "In accordance with the Privacy Act of 1974, as amended, and Office of Management and Budget (OMB) guidance on computer matching, the Department of Labor (DOL) is providing notice of the establishment of a new matching program. Pursuant to the Payment Integrity Information Act of 2019 (PIIA), DOL is establishing a new matching program consisting of the computerized comparison of systems of records for benefits programs at DOL with the Do Not Pay (DNP) Working System, which is administered by the Department of Treasury's (Treasury) Bureau of the Fiscal Service. This matching program will enable the DOL programs listed in the appendix of this notice to compare records maintained in their respective systems of records with records maintained in the DNP Working System for the purposes of identifying and preventing improper payments and conducting any related recovery activities by verifying through DNP prepayment or pre-award eligibility.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17838/privacy-act-of-1974-system-of-records",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "d0f989232162ace5a4eea0d13aa6a78c"
-    },
-    {
-      "title": "Proposed Extension of Information Collection; Registration for Public API",
-      "type": "Notice",
-      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of the Assistant Secretary for Policy (OASP) is soliciting comments on the information collection for Registration for Public API.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17837/proposed-extension-of-information-collection-registration-for-public-api",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "26e4f74a49c85dc75e06eb854e41201f"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Presence Sensing Device Initiation (PSDI) Standard",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Occupational Safety & Health Administration (OSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17836/agency-information-collection-activities-submission-for-omb-review-comment-request-presence-sensing",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "450c6fcea02bf6eb2fb264703ad857ef"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Default Investment Alternatives Under Participant Directed Individual Account Plans",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Employee Benefits Security Administration (EBSA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17835/agency-information-collection-activities-submission-for-omb-review-comment-request-default",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "b63a0f912f1ba351e06c8f3071e7f50c"
-    },
-    {
-      "title": "Agency Information Collection Activities; Comment Request; Job Corps Placement and Assistance Record",
-      "type": "Notice",
-      "abstract": "The Department of Labor's (DOL or Department) Employment and Training Administration (ETA) is soliciting comments concerning a revision to the information collection request (ICR) titled \"Job Corps Placement and Assistance Record\". This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17834/agency-information-collection-activities-comment-request-job-corps-placement-and-assistance-record",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        }
-      ],
-      "hash": "e5092668dae7ae666f2dc2e6d8984c23"
-    },
-    {
-      "title": "Agency Information Collection Activities; Comment Request; Student Safety Assessment (SSA) of Job Corps Students",
-      "type": "Notice",
-      "abstract": "The Department of Labor's (DOL or Department) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Student Safety Assessment (SSA) of Job Corps students.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17833/agency-information-collection-activities-comment-request-student-safety-assessment-ssa-of-job-corps",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        }
-      ],
-      "hash": "8a3cbc874494afcc8859451829fb4190"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Overpayment Detection and Recovery Activities",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Employment and Training Administration (ETA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17832/agency-information-collection-activities-submission-for-omb-review-comment-request-overpayment",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "7973813a38cb231df2912ba690a47339"
-    },
-    {
-      "title": "Agency Information Collection Activities; Comment Request; Quick Turnaround Surveys and Site Visits",
-      "type": "Notice",
-      "abstract": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning an extension of a currently approved collection for the authority to conduct the information collection request (ICR) titled, \"Quick Turnaround Surveys and Site Visits.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17831/agency-information-collection-activities-comment-request-quick-turnaround-surveys-and-site-visits",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        }
-      ],
-      "hash": "ba4e1cf05af2dd6e07e5838197773988"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Voluntary Protection Program Information",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Occupational Safety & Health Administration (OSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17830/agency-information-collection-activities-submission-for-omb-review-comment-request-voluntary",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "465e599ed5be601fb792617a883eafa1"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Aerial Lifts Standard",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Occupational Safety & Health Administration (OSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17829/agency-information-collection-activities-submission-for-omb-review-comment-request-aerial-lifts",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "5f9a49dda4e9c26ce7a92a281b68181b"
-    },
-    {
-      "title": "Labor Surplus Area Classification",
-      "type": "Notice",
-      "abstract": "The purpose of this notice is to announce the annual Labor Surplus Area (LSA) list for Fiscal Year (FY) 2027.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17828/labor-surplus-area-classification",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        }
-      ],
-      "hash": "a00c82b4077271080821c24f5669ca11"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Occupational Safety and Health Administration Conflict of Interest and Disclosure",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Occupational Safety & Health Administration (OSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17827/agency-information-collection-activities-submission-for-omb-review-comment-request-occupational",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "a9c17f46d7cf38d8562f73fe3d1491bb"
-    },
-    {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Construction Fall Protection Systems Criteria, Practices, and Training Requirements",
-      "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Occupational Safety & Health Administration (OSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17826/agency-information-collection-activities-submission-for-omb-review-comment-request-construction-fall",
-      "publication_date": "2026-09-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        }
-      ],
-      "hash": "e67ca83cb519a3f96b6a86692f5ff8f9"
-    },
-    {
-      "title": "Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended; Correction",
-      "type": "Rule",
-      "abstract": "The U.S. Department of Labor published a final rule in the Federal Register on August 21, 2026, revising its implementing regulations for the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended (VEVRAA). This document corrects amendatory instructions included in the final rule.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/31/2026-17757/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act",
-      "publication_date": "2026-08-31",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of Federal Contract Compliance Programs",
-          "name": "Federal Contract Compliance Programs Office",
-          "id": 162,
-          "url": "https://www.federalregister.gov/agencies/federal-contract-compliance-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/162",
-          "parent_id": 271,
-          "slug": "federal-contract-compliance-programs-office"
-        }
-      ],
-      "hash": "b3806011d5ac6306f2d13132bee8ab9b"
-    },
-    {
-      "title": "Rescission of Coordinated Enforcement Regulations",
-      "type": "Rule",
-      "abstract": "The Department of Labor (Department) is rescinding the regulations that established formal procedures for coordination of enforcement activities among the Wage and Hour Division (WHD), Occupational Safety and Health Administration (OSHA), and Employment and Training Administration (ETA) with respect to migrant and seasonal farmworkers. The Department is rescinding these regulations because they are obsolete, no longer reflect the Department's organizational structure or operational practices, and are not needed for effective coordination among the relevant component agencies. This action will remove unnecessary regulatory burden and align the Department's enforcement strategy with modern, effective, and flexible coordination models already in use.",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/31/2026-17726/rescission-of-coordinated-enforcement-regulations",
-      "publication_date": "2026-08-31",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Employment and Training Administration",
-          "name": "Employment and Training Administration",
-          "id": 133,
-          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
-          "parent_id": 271,
-          "slug": "employment-and-training-administration"
-        },
-        {
-          "raw_name": "Wage and Hour Division",
-          "name": "Wage and Hour Division",
-          "id": 524,
-          "url": "https://www.federalregister.gov/agencies/wage-and-hour-division",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/524",
-          "parent_id": 271,
-          "slug": "wage-and-hour-division"
-        },
-        {
-          "raw_name": "Occupational Safety and Health Administration",
-          "name": "Occupational Safety and Health Administration",
-          "id": 386,
-          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
-          "parent_id": 271,
-          "slug": "occupational-safety-and-health-administration"
-        }
-      ],
-      "hash": "fcd64a2e8ea18413fb9e86bfedbbec76"
+      "hash": "101a8be535f93a05e4a1f3170626d27c"
     }
   ]
 }

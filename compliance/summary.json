@@ -1,26 +1,19 @@
 {
-  "run_date": "2026-09-07T23:21:45.883558",
-  "total_new_updates": 2,
+  "run_date": "2026-09-14T23:46:32.241082",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 2,
+      "new_count": 1,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "NIST Releases SP 800-38Er1 for Comments",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-38er1-for-comments",
+          "title": "NCCoE Releases NIST IR 8536",
+          "link": "https://csrc.nist.gov/News/2026/nccoe-releases-nist-ir-8536",
           "published_date": null,
-          "scraped_date": "2026-09-07",
-          "hash": "30adc0373ac014509b251e28513a27d1"
-        },
-        {
-          "title": "Next-Generation Secure Hardware into Standards",
-          "link": "https://csrc.nist.gov/News/2026/next-generation-secure-hardware-into-standards",
-          "published_date": null,
-          "scraped_date": "2026-09-07",
-          "hash": "bd0f83ac938726e8d7620f5cc16fad09"
+          "scraped_date": "2026-09-14",
+          "hash": "48e1b98496ed373cc269793ffe58c2b1"
         }
       ]
     },

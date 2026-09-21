@@ -2,116 +2,116 @@
   "metadata": {
     "source": "https://csrc.nist.gov/news",
     "source_name": "NIST",
-    "last_checked": "2026-09-14T23:46:28.792338",
+    "last_checked": "2026-09-21T23:58:00.242282",
     "scraper_version": "1.2.0",
     "total_updates": 15,
-    "new_updates": 1
+    "new_updates": 4
   },
   "updates": [
+    {
+      "title": "Draft Guide to OT Security",
+      "link": "https://csrc.nist.gov/News/2026/draft-guide-to-ot-security",
+      "published_date": null,
+      "scraped_date": "2026-09-21",
+      "hash": "5595772b7037b6ee0cb0599658dc1e26"
+    },
+    {
+      "title": "NIST O-RAN CSF Profile for Federal Agencies",
+      "link": "https://csrc.nist.gov/News/2026/nist-o-ran-csf-profile-for-federal-agencies",
+      "published_date": null,
+      "scraped_date": "2026-09-21",
+      "hash": "9502d2810e149426a7e57d9728c3b8e6"
+    },
+    {
+      "title": "Small Business Primer for SP 800-171Ar3",
+      "link": "https://csrc.nist.gov/News/2026/small-business-primer-for-sp-800-171ar3",
+      "published_date": null,
+      "scraped_date": "2026-09-21",
+      "hash": "5edc6b96113b83fa8b94bada091a0f4f"
+    },
+    {
+      "title": "Protecting Tokens and Assertions | NIST IR 8587",
+      "link": "https://csrc.nist.gov/News/2026/protecting-tokens-and-assertions-nist-ir-8587",
+      "published_date": null,
+      "scraped_date": "2026-09-21",
+      "hash": "6b239de118d50cb905a412aa8da2e89b"
+    },
     {
       "title": "NCCoE Releases NIST IR 8536",
       "link": "https://csrc.nist.gov/News/2026/nccoe-releases-nist-ir-8536",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "48e1b98496ed373cc269793ffe58c2b1"
     },
     {
       "title": "NIST Releases SP 800-38Er1 for Comments",
       "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-38er1-for-comments",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "30adc0373ac014509b251e28513a27d1"
     },
     {
       "title": "Next-Generation Secure Hardware into Standards",
       "link": "https://csrc.nist.gov/News/2026/next-generation-secure-hardware-into-standards",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "bd0f83ac938726e8d7620f5cc16fad09"
     },
     {
       "title": "Call for Comments on NIST SP 800-213A",
       "link": "https://csrc.nist.gov/News/2026/nist-s-sp-800-213a-released-for-comments",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "c644bdf195cbdbaad3a2730d0c3413f2"
     },
     {
       "title": "Transcending Traditional Database Security Models",
       "link": "https://csrc.nist.gov/News/2026/transcending-traditional-database-security-models",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "d814f6f4a80070c55ccc5050b8f7789d"
     },
     {
       "title": "CSF 2.0 Informative References QSG",
       "link": "https://csrc.nist.gov/News/2026/csf-2-0-informative-references-qsg",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "99a0a3437593bb87b47b80628932e3a3"
     },
     {
       "title": "NIST Releases IR-8613 ipd for Comments",
       "link": "https://csrc.nist.gov/News/2026/nist-releases-ir-8613-ipd-for-comments",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "647438c0dcbf8d8bcf04cdd4496cf113"
     },
     {
       "title": "Using AI for CSF 2 Analysis Reporting | Draft QSG",
       "link": "https://csrc.nist.gov/News/2026/using-ai-for-csf-2-analysis-reporting-draft-qsg",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "b1471de82eef43dd720d92831d60b8b7"
     },
     {
       "title": "Comment on NCCoE Initial Public Draft CSWP 36F",
       "link": "https://csrc.nist.gov/News/2026/comment-on-nccoe-initial-public-draft-cswp-36f",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "4672040787c8b6945f8b653e6061a27f"
     },
     {
       "title": "Transit Cybersecurity Framework Community Profile",
       "link": "https://csrc.nist.gov/News/2026/transit-cybersecurity-framework-community-profile",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "6846425b00898c570505ad6646501d68"
     },
     {
       "title": "AI Data Center Security Analysis: Draft SP 800-239",
       "link": "https://csrc.nist.gov/News/2026/ai-data-center-security-analysis-draft-sp-800-239",
       "published_date": null,
-      "scraped_date": "2026-09-14",
+      "scraped_date": "2026-09-21",
       "hash": "feb27a1f2755d7f2a61849de5072867e"
-    },
-    {
-      "title": "Security Guidelines for Storage Infrastructure",
-      "link": "https://csrc.nist.gov/News/2026/security-guidelines-storage-infrastructure-draft",
-      "published_date": null,
-      "scraped_date": "2026-09-14",
-      "hash": "3ad732372e23486f7a918874642c02e2"
-    },
-    {
-      "title": "NIST releases SP 1326",
-      "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-1326",
-      "published_date": null,
-      "scraped_date": "2026-09-14",
-      "hash": "5566113c51a574248f937b53fc26bee2"
-    },
-    {
-      "title": "NIST Releases SP 800-18r2",
-      "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-18r2",
-      "published_date": null,
-      "scraped_date": "2026-09-14",
-      "hash": "727ab19cb4e3b90c4207b18853dbe823"
-    },
-    {
-      "title": "Comment on NCCoE's Draft OT Cybersecurity Project",
-      "link": "https://csrc.nist.gov/News/2026/comment-on-nccoe-s-draft-ot-cybersecurity-project",
-      "published_date": null,
-      "scraped_date": "2026-09-14",
-      "hash": "3f045d455438d024a595f01579b688eb"
     }
   ]
 }

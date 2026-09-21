@@ -1,21 +1,180 @@
 {
   "metadata": {
-    "last_checked": "2026-09-14T23:46:32.592692",
+    "last_checked": "2026-09-21T23:58:02.222008",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 7,
-    "new_updates": 7,
+    "total_updates": 12,
+    "new_updates": 12,
     "lookback_days": 7
   },
   "updates": [
     {
-      "title": "Domestic Quarantine: Quarantined Areas and Regulated Articles",
+      "title": "National Advisory Committee on Occupational Safety and Health (NACOSH); Charter Renewal",
       "type": "Notice",
-      "abstract": "We are advising the public of the changes made to our lists of domestic quarantined areas in 2025. These changes may be viewed on the relevant plant pest programs' websites.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/11/2026-18616/domestic-quarantine-quarantined-areas-and-regulated-articles",
-      "publication_date": "2026-09-11",
+      "abstract": "The Acting Secretary of Labor (Secretary) has approved the renewal of the NACOSH charter. The renewed charter will expire two years from its filing date.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19269/national-advisory-committee-on-occupational-safety-and-health-nacosh-charter-renewal",
+      "publication_date": "2026-09-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "d344d17187d529a63c79f799d23b4c60"
+    },
+    {
+      "title": "TUV SUD America, Inc.: Application for Expansion of Recognition",
+      "type": "Notice",
+      "abstract": "In this notice, OSHA announces the application of TUV SUD America, Inc. (TUVAM), for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application. TUVAM requests the addition of two test standards to the NRTL scope of recognition.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19268/tuv-sud-america-inc-application-for-expansion-of-recognition",
+      "publication_date": "2026-09-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "46c8c8e36efc14e1961b0a77bea567c3"
+    },
+    {
+      "title": "RETC, LLC.: Application for Expansion of Recognition",
+      "type": "Notice",
+      "abstract": "In this notice, OSHA announces the application of RETC, LLC. for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19267/retc-llc-application-for-expansion-of-recognition",
+      "publication_date": "2026-09-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Occupational Safety and Health Administration",
+          "name": "Occupational Safety and Health Administration",
+          "id": 386,
+          "url": "https://www.federalregister.gov/agencies/occupational-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/386",
+          "parent_id": 271,
+          "slug": "occupational-safety-and-health-administration"
+        }
+      ],
+      "hash": "e385924e6820a8079dec08d0fe177700"
+    },
+    {
+      "title": "Proposed Extension of Information Collection: Refuse Piles and Impoundment Structures",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL), as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre- clearance consultation program for all information collections, to provide the public and Federal agencies with an opportunity to comment on proposed collections of information, in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Mine Safety and Health Administration (MSHA) is soliciting comments on the information collection titled \"Refuse Piles and Impoundment Structures.\"",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19266/proposed-extension-of-information-collection-refuse-piles-and-impoundment-structures",
+      "publication_date": "2026-09-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "b1dbcde3ae686e57889bc3a9e5d7ad56"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Qualification/Certification Program Request for MSHA Individual Identification Number (MIIN)",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Mine Safety & Health Administration (MSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19265/agency-information-collection-activities-submission-for-omb-review-comment-request",
+      "publication_date": "2026-09-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "28d9d73af24b43b21a81ce041d5ee9fa"
+    },
+    {
+      "title": "Agency Information Collection Activities; Comment Request; Information Collections: Disclosures to Workers Under the Migrant and Seasonal Agricultural Worker Protection Act",
+      "type": "Notice",
+      "abstract": "The Department of Labor (Department) is soliciting comments concerning a proposed extension of the information collection request (ICR) titled \"Disclosures to Workers Under the Migrant and Seasonal Agricultural Worker Protection Act.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA). The Department proposes to extend the approval of this existing information collection without change to the existing requirements. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. A copy of the proposed information request can be obtained by contacting the office listed below in the FOR FURTHER INFORMATION CONTACT section of this Notice.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19264/agency-information-collection-activities-comment-request-information-collections-disclosures-to",
+      "publication_date": "2026-09-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Wage and Hour Division",
+          "name": "Wage and Hour Division",
+          "id": 524,
+          "url": "https://www.federalregister.gov/agencies/wage-and-hour-division",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/524",
+          "parent_id": 271,
+          "slug": "wage-and-hour-division"
+        }
+      ],
+      "hash": "3b801591f8aef76e940a0b8e5f9d28ea"
+    },
+    {
+      "title": "Bayer U.S.-Crop Science: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for MON 89151 Lepidopteran-Protected Cotton (Gossypium hirsutum)",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from Bayer U.S.-Crop Science seeking a determination of nonregulated status for MON 89151 lepidopteran-protected cotton (Gossypium hirsutum) which has been developed using genetic engineering to express three insecticidal proteins to protect against feeding damage caused by target lepidopteran pests. We are making the petition and draft plant pest risk assessment available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19239/bayer-us-crop-science-availability-of-a-petition-for-a-determination-of-nonregulated-status-and",
+      "publication_date": "2026-09-21",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF AGRICULTURE",
@@ -36,33 +195,42 @@
           "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "fee3e7a523f3e060ad1e26845b1db657"
+      "hash": "4d895c4e291b4471ea85fa9f62a50059"
     },
     {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Requests To Approve Conformed Wage Classifications and Unconventional Fringe Benefit Plans Under the Davis-Bacon and Related Acts and Contract Work Hours and Safety Standards Act",
+      "title": "Bayer U.S.-Crop Science: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for Herbicide Resistant MON 96012 Cotton (Gossypium hirsutum)",
       "type": "Notice",
-      "abstract": "The Department of Labor (DOL) is submitting this Wage and Hour Division (WHD)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18506/agency-information-collection-activities-submission-for-omb-review-comment-request-requests-to",
-      "publication_date": "2026-09-10",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from Bayer U.S.-Crop Science seeking a determination of nonregulated status for herbicide resistant MON 96012 cotton (Gossypium hirsutum) which has been developed using genetic engineering to tolerate glyphosate, glufosinate, dicamba, triketone 4-hydroxyphenylpyruvate dioxygenase -inhibiting, and PPO- inhibiting herbicides. We are making the petition and draft plant pest risk assessment available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/21/2026-19237/bayer-us-crop-science-availability-of-a-petition-for-a-determination-of-nonregulated-status-and",
+      "publication_date": "2026-09-21",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
           "parent_id": null,
-          "slug": "labor-department"
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "3cd68c7e95ff0fe205a3cd53358fe097"
+      "hash": "6808bc6e06a5c80b443b464a421a6916"
     },
     {
-      "title": "Proposed Revision of Information Collection: Rehabilitation Plan and Award.",
+      "title": "Exemption Involving the Abiomed Retirement Savings Plan Located in Danvers, MA",
       "type": "Notice",
-      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of Workers' Compensation Programs (OWCP) is soliciting comments on the information collection for the OWCP-16, Rehabilitation Plan and Award.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18503/proposed-revision-of-information-collection-rehabilitation-plan-and-award",
-      "publication_date": "2026-09-10",
+      "abstract": "This exemption allows the Abiomed Retirement Savings Plan (the Plan) to acquire and hold certain \"contingent value rights\" and to receive payments in connection with that acquisition and holding. Absent an exemption, these transactions would violate the prohibited transaction provisions of the Employee Retirement Income Security Act of 1974 (ERISA) and/or the Internal Revenue Code of 1986 (the Code).",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19077/exemption-involving-the-abiomed-retirement-savings-plan-located-in-danvers-ma",
+      "publication_date": "2026-09-17",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -74,73 +242,51 @@
           "slug": "labor-department"
         },
         {
-          "raw_name": "Office of Workers' Compensation Programs",
-          "name": "Workers' Compensation Programs Office",
-          "id": 530,
-          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "raw_name": "Employee Benefits Security Administration",
+          "name": "Employee Benefits Security Administration",
+          "id": 131,
+          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
           "parent_id": 271,
-          "slug": "workers-compensation-programs-office"
+          "slug": "employee-benefits-security-administration"
         }
       ],
-      "hash": "b144e0e44da9749bfea4752235305575"
+      "hash": "12dc8e14fa26a282e2ebebf33962d1b4"
     },
     {
-      "title": "Proposed Information Collection; NEON Provider Organization",
+      "title": "Notice of Availability of a Pest Risk Analysis for the Importation of Fresh Coconut Fruit From Belize Into the United States",
       "type": "Notice",
-      "abstract": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the Office of Disability Employment Policy, Department of Labor, (ODEP) is soliciting comments on the information collection for the NEON Provider Organization Survey.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18502/proposed-information-collection-neon-provider-organization",
-      "publication_date": "2026-09-10",
+      "abstract": "We are advising the public that we have prepared a pest risk analysis that evaluates the risks associated with the importation of fresh coconut fruit from Belize into the United States. Based on the analysis, we have determined that the application of one or more designated phytosanitary measures will be sufficient to mitigate the risks of introducing or disseminating plant pests or noxious weeds via the importation of fresh coconut fruit from Belize. We are making the pest risk analysis available to the public for review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19044/notice-of-availability-of-a-pest-risk-analysis-for-the-importation-of-fresh-coconut-fruit-from",
+      "publication_date": "2026-09-17",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
           "parent_id": null,
-          "slug": "labor-department"
+          "slug": "agriculture-department"
         },
         {
-          "raw_name": "Office of Disability Employment Policy",
-          "name": "Disability Employment Policy Office",
-          "id": 115,
-          "url": "https://www.federalregister.gov/agencies/disability-employment-policy-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/115",
-          "parent_id": 271,
-          "slug": "disability-employment-policy-office"
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "7cf2fcc021a7bc0bb83c948d19fd2a38"
+      "hash": "8a18d3dfc2a9b631455f51e10bb73c1a"
     },
     {
-      "title": "Senior Executive Service; Appointment of Members to the Performance Review Board",
-      "type": "Notice",
-      "abstract": "Title 5 U.S.C. 4314(c)(4) provides that Notice of the Appointment of the individual to serve as a member of the Performance Review Board of the Senior Executive Service shall be published in the Federal Register.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18500/senior-executive-service-appointment-of-members-to-the-performance-review-board",
-      "publication_date": "2026-09-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of the Secretary"
-        }
-      ],
-      "hash": "0397fb7041a9a80a480f55db7d4bbeb7"
-    },
-    {
-      "title": "Agency Information Collection Activities; Comment Request; Migrant and Seasonal Farmworker Monitoring Report and Complaint/Apparent Violation Form",
-      "type": "Notice",
-      "abstract": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18499/agency-information-collection-activities-comment-request-migrant-and-seasonal-farmworker-monitoring",
-      "publication_date": "2026-09-10",
+      "title": "Federal-State Unemployment Compensation (UC) Program; Data Availability",
+      "type": "Rule",
+      "abstract": "The Department of Labor (DOL or the Department) is issuing this final rule to require the disclosure of confidential unemployment compensation (UC) information to Federal officials for purposes of UC program oversight and audits. This rule will ensure that Federal officials, including the Department's Office of Inspector General (DOL- OIG), are able to obtain the information needed from State UC agencies to ensure proper oversight of the UC programs and to hold State UC agencies accountable for identifying and addressing fraud in UC programs.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/16/2026-18978/federal-state-unemployment-compensation-uc-program-data-availability",
+      "publication_date": "2026-09-16",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -161,35 +307,35 @@
           "slug": "employment-and-training-administration"
         }
       ],
-      "hash": "fa1ce836709e1fb278836af2e7106dc2"
+      "hash": "052553319e1c1145cdd0fd88628d49c7"
     },
     {
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; OMB Control No. 1293-0018",
+      "title": "Notice of Availability of a Final Environmental Assessment and Finding of No Significant Impact for the Field Release of Aceria salsolae (Acari: Eriophyidae), a Mite for Biological Control of Russian Thistle (Salsola tragus), in the Contiguous United States",
       "type": "Notice",
-      "abstract": "The Department of Labor (DOL) Veterans' Employment and Training Service (VETS is soliciting comments on the information collection request (ICR) for OMB Control No. 1293-0018 Homeless Veterans' Reintegration Program Budget and Narrative, for which VETS proposes to revise the title to Homeless Veterans' Reintegration Program Applicant Forms. The Homeless Veterans' Reintegration Program (HVRP) is authorized under 38 U.S.C. 2021. HVRP funds over 150 discretionary grants that serve nearly 16,000 veterans experiencing homelessness, veterans at-risk of homelessness, and incarcerated veterans annually, and along with nearly 40 Stand Down events. This collection contains forms submitted by HVRP Funding Opportunity Announcement (FOA) applicants.",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18498/agency-information-collection-activities-submission-for-omb-review-comment-request-omb-control-no",
-      "publication_date": "2026-09-10",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has prepared a final environmental assessment and finding of no significant impact relative to permitting the release of the blister mite, Aceria salsolae (Acari: Eriophyidae), for the biological control of Russian thistle (Salsola tragus L.) within the contiguous United States. Based on our finding of no significant impact, we have determined that an environmental impact statement need not be prepared.",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18858/notice-of-availability-of-a-final-environmental-assessment-and-finding-of-no-significant-impact-for",
+      "publication_date": "2026-09-15",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
           "parent_id": null,
-          "slug": "labor-department"
+          "slug": "agriculture-department"
         },
         {
-          "raw_name": "Veterans' Employment and Training Service",
-          "name": "Veterans Employment and Training Service",
-          "id": 521,
-          "url": "https://www.federalregister.gov/agencies/veterans-employment-and-training-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/521",
-          "parent_id": 271,
-          "slug": "veterans-employment-and-training-service"
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "101a8be535f93a05e4a1f3170626d27c"
+      "hash": "c5f3156da5c8c931707ca978fb896edc"
     }
   ]
 }

@@ -1,40 +1,19 @@
 {
-  "run_date": "2026-09-21T23:58:02.015702",
-  "total_new_updates": 4,
+  "run_date": "2026-09-29T00:53:31.204052",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 4,
+      "new_count": 1,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Draft Guide to OT Security",
-          "link": "https://csrc.nist.gov/News/2026/draft-guide-to-ot-security",
+          "title": "NIST Threshold Call Preview Talks 3",
+          "link": "https://csrc.nist.gov/News/2026/nist-threshold-call-preview-talks-3",
           "published_date": null,
-          "scraped_date": "2026-09-21",
-          "hash": "5595772b7037b6ee0cb0599658dc1e26"
-        },
-        {
-          "title": "NIST O-RAN CSF Profile for Federal Agencies",
-          "link": "https://csrc.nist.gov/News/2026/nist-o-ran-csf-profile-for-federal-agencies",
-          "published_date": null,
-          "scraped_date": "2026-09-21",
-          "hash": "9502d2810e149426a7e57d9728c3b8e6"
-        },
-        {
-          "title": "Small Business Primer for SP 800-171Ar3",
-          "link": "https://csrc.nist.gov/News/2026/small-business-primer-for-sp-800-171ar3",
-          "published_date": null,
-          "scraped_date": "2026-09-21",
-          "hash": "5edc6b96113b83fa8b94bada091a0f4f"
-        },
-        {
-          "title": "Protecting Tokens and Assertions | NIST IR 8587",
-          "link": "https://csrc.nist.gov/News/2026/protecting-tokens-and-assertions-nist-ir-8587",
-          "published_date": null,
-          "scraped_date": "2026-09-21",
-          "hash": "6b239de118d50cb905a412aa8da2e89b"
+          "scraped_date": "2026-09-29",
+          "hash": "ca855bb82ef48df2c16126ea324d1e39"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-09-29T00:53:31.204052",
+  "run_date": "2026-10-06T01:42:01.688732",
   "total_new_updates": 1,
   "sources": [
     {
@@ -9,11 +9,11 @@
       "total_count": 15,
       "new_updates": [
         {
-          "title": "NIST Threshold Call Preview Talks 3",
-          "link": "https://csrc.nist.gov/News/2026/nist-threshold-call-preview-talks-3",
+          "title": "NCCoE Releases CSWP 36G Initial Public Draft",
+          "link": "https://csrc.nist.gov/News/2026/nccoe-releases-cswp-36g-initial-public-draft",
           "published_date": null,
-          "scraped_date": "2026-09-29",
-          "hash": "ca855bb82ef48df2c16126ea324d1e39"
+          "scraped_date": "2026-10-06",
+          "hash": "49e2497fa8a3dbb30ee566ba9f619e9a"
         }
       ]
     },

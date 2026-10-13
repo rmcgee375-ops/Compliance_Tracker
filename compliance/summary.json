@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-10-06T01:42:01.688732",
+  "run_date": "2026-10-13T02:29:00.722270",
   "total_new_updates": 1,
   "sources": [
     {
@@ -9,11 +9,11 @@
       "total_count": 15,
       "new_updates": [
         {
-          "title": "NCCoE Releases CSWP 36G Initial Public Draft",
-          "link": "https://csrc.nist.gov/News/2026/nccoe-releases-cswp-36g-initial-public-draft",
+          "title": "Draft Revision of SP 800-185 Available for Comment",
+          "link": "https://csrc.nist.gov/News/2026/draft-revision-of-sp-800-185-available-for-comment",
           "published_date": null,
-          "scraped_date": "2026-10-06",
-          "hash": "49e2497fa8a3dbb30ee566ba9f619e9a"
+          "scraped_date": "2026-10-13",
+          "hash": "1e014e120fecc45ef2784823bba810a4"
         }
       ]
     },

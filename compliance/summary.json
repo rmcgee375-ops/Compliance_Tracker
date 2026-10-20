@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-10-13T02:29:00.722270",
+  "run_date": "2026-10-20T00:10:51.277351",
   "total_new_updates": 1,
   "sources": [
     {
@@ -9,11 +9,11 @@
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Draft Revision of SP 800-185 Available for Comment",
-          "link": "https://csrc.nist.gov/News/2026/draft-revision-of-sp-800-185-available-for-comment",
+          "title": "NIST Hosts WPEC Virtual Workshop - Oct 26-28",
+          "link": "https://csrc.nist.gov/News/2026/nist-hosts-wpec-virtual-workshop-oct-26-28",
           "published_date": null,
-          "scraped_date": "2026-10-13",
-          "hash": "1e014e120fecc45ef2784823bba810a4"
+          "scraped_date": "2026-10-20",
+          "hash": "92a019ac3720ac58bebce0e5d889ab5e"
         }
       ]
     },

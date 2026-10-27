@@ -1,19 +1,26 @@
 {
-  "run_date": "2026-10-20T00:10:51.277351",
-  "total_new_updates": 1,
+  "run_date": "2026-10-27T00:17:35.876767",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 1,
+      "new_count": 2,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "NIST Hosts WPEC Virtual Workshop - Oct 26-28",
-          "link": "https://csrc.nist.gov/News/2026/nist-hosts-wpec-virtual-workshop-oct-26-28",
+          "title": "Governing and Managing ICT Risk Programs | Draft",
+          "link": "https://csrc.nist.gov/News/2026/governing-and-managing-ict-risk-programs-draft",
           "published_date": null,
-          "scraped_date": "2026-10-20",
-          "hash": "92a019ac3720ac58bebce0e5d889ab5e"
+          "scraped_date": "2026-10-27",
+          "hash": "b5f1c20e6c84c277618203715a8ff632"
+        },
+        {
+          "title": "NIST SP 800-100r1 ipd Released for Comments",
+          "link": "https://csrc.nist.gov/News/2026/nist-sp-800-100r1-ipd-released-for-comments",
+          "published_date": null,
+          "scraped_date": "2026-10-27",
+          "hash": "a11acb315d5da1d3eedb4a31aa0d8b6d"
         }
       ]
     },

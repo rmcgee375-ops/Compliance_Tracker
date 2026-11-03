@@ -1,26 +1,33 @@
 {
-  "run_date": "2026-10-27T00:17:35.876767",
-  "total_new_updates": 2,
+  "run_date": "2026-11-03T02:50:11.191828",
+  "total_new_updates": 3,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 2,
+      "new_count": 3,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Governing and Managing ICT Risk Programs | Draft",
-          "link": "https://csrc.nist.gov/News/2026/governing-and-managing-ict-risk-programs-draft",
+          "title": "Small Business Cybersecurity: Non-Employer Firms",
+          "link": "https://csrc.nist.gov/News/2026/small-biz-cybersecurity-non-employer-firms-final",
           "published_date": null,
-          "scraped_date": "2026-10-27",
-          "hash": "b5f1c20e6c84c277618203715a8ff632"
+          "scraped_date": "2026-11-03",
+          "hash": "659aee2e37553ef5ec2d1a30da40cb72"
         },
         {
-          "title": "NIST SP 800-100r1 ipd Released for Comments",
-          "link": "https://csrc.nist.gov/News/2026/nist-sp-800-100r1-ipd-released-for-comments",
+          "title": "NIST Releases IR 8621",
+          "link": "https://csrc.nist.gov/News/2026/nist-releases-ir-8621",
           "published_date": null,
-          "scraped_date": "2026-10-27",
-          "hash": "a11acb315d5da1d3eedb4a31aa0d8b6d"
+          "scraped_date": "2026-11-03",
+          "hash": "c435984bdc6dde2d09142898bee28ba2"
+        },
+        {
+          "title": "Transition to PQC Standards | NIST IR 8547",
+          "link": "https://csrc.nist.gov/News/2026/transition-to-pqc-standards-nist-ir-8547",
+          "published_date": null,
+          "scraped_date": "2026-11-03",
+          "hash": "d07f484af6f87aa3ad5b6e900f1f3687"
         }
       ]
     },

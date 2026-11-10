@@ -2,116 +2,116 @@
   "metadata": {
     "source": "https://csrc.nist.gov/news",
     "source_name": "NIST",
-    "last_checked": "2026-11-03T02:50:08.897503",
+    "last_checked": "2026-11-10T03:19:25.527793",
     "scraper_version": "1.2.0",
     "total_updates": 15,
-    "new_updates": 3
+    "new_updates": 2
   },
   "updates": [
+    {
+      "title": "Adversarial Machine Learning Taxonomy 2026 | Draft",
+      "link": "https://csrc.nist.gov/News/2026/adversarial-machine-learning-taxonomy-2026-draft",
+      "published_date": null,
+      "scraped_date": "2026-11-10",
+      "hash": "994267fa142ab4cda5188655726fad4c"
+    },
+    {
+      "title": "Key Derivation Using Pseudorandom Functions",
+      "link": "https://csrc.nist.gov/News/2026/key-derivation-using-pseudorandom-functions",
+      "published_date": null,
+      "scraped_date": "2026-11-10",
+      "hash": "32e9af4cf45a9650daf48741720add4d"
+    },
     {
       "title": "Small Business Cybersecurity: Non-Employer Firms",
       "link": "https://csrc.nist.gov/News/2026/small-biz-cybersecurity-non-employer-firms-final",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "659aee2e37553ef5ec2d1a30da40cb72"
     },
     {
       "title": "NIST Releases IR 8621",
       "link": "https://csrc.nist.gov/News/2026/nist-releases-ir-8621",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "c435984bdc6dde2d09142898bee28ba2"
     },
     {
       "title": "Transition to PQC Standards | NIST IR 8547",
       "link": "https://csrc.nist.gov/News/2026/transition-to-pqc-standards-nist-ir-8547",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "d07f484af6f87aa3ad5b6e900f1f3687"
     },
     {
       "title": "Governing and Managing ICT Risk Programs | Draft",
       "link": "https://csrc.nist.gov/News/2026/governing-and-managing-ict-risk-programs-draft",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "b5f1c20e6c84c277618203715a8ff632"
     },
     {
       "title": "NIST SP 800-100r1 ipd Released for Comments",
       "link": "https://csrc.nist.gov/News/2026/nist-sp-800-100r1-ipd-released-for-comments",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "a11acb315d5da1d3eedb4a31aa0d8b6d"
     },
     {
       "title": "NIST Hosts WPEC Virtual Workshop - Oct 26-28",
       "link": "https://csrc.nist.gov/News/2026/nist-hosts-wpec-virtual-workshop-oct-26-28",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "92a019ac3720ac58bebce0e5d889ab5e"
     },
     {
       "title": "Draft Revision of SP 800-185 Available for Comment",
       "link": "https://csrc.nist.gov/News/2026/draft-revision-of-sp-800-185-available-for-comment",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "1e014e120fecc45ef2784823bba810a4"
     },
     {
       "title": "NCCoE Releases CSWP 36G Initial Public Draft",
       "link": "https://csrc.nist.gov/News/2026/nccoe-releases-cswp-36g-initial-public-draft",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "49e2497fa8a3dbb30ee566ba9f619e9a"
     },
     {
       "title": "NIST Threshold Call Preview Talks 3",
       "link": "https://csrc.nist.gov/News/2026/nist-threshold-call-preview-talks-3",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "ca855bb82ef48df2c16126ea324d1e39"
     },
     {
       "title": "Draft Guide to OT Security",
       "link": "https://csrc.nist.gov/News/2026/draft-guide-to-ot-security",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "5595772b7037b6ee0cb0599658dc1e26"
     },
     {
       "title": "NIST O-RAN CSF Profile for Federal Agencies",
       "link": "https://csrc.nist.gov/News/2026/nist-o-ran-csf-profile-for-federal-agencies",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "9502d2810e149426a7e57d9728c3b8e6"
     },
     {
       "title": "Small Business Primer for SP 800-171Ar3",
       "link": "https://csrc.nist.gov/News/2026/small-business-primer-for-sp-800-171ar3",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "5edc6b96113b83fa8b94bada091a0f4f"
     },
     {
       "title": "Protecting Tokens and Assertions | NIST IR 8587",
       "link": "https://csrc.nist.gov/News/2026/protecting-tokens-and-assertions-nist-ir-8587",
       "published_date": null,
-      "scraped_date": "2026-11-03",
+      "scraped_date": "2026-11-10",
       "hash": "6b239de118d50cb905a412aa8da2e89b"
-    },
-    {
-      "title": "NCCoE Releases NIST IR 8536",
-      "link": "https://csrc.nist.gov/News/2026/nccoe-releases-nist-ir-8536",
-      "published_date": null,
-      "scraped_date": "2026-11-03",
-      "hash": "48e1b98496ed373cc269793ffe58c2b1"
-    },
-    {
-      "title": "NIST Releases SP 800-38Er1 for Comments",
-      "link": "https://csrc.nist.gov/News/2026/nist-releases-sp-800-38er1-for-comments",
-      "published_date": null,
-      "scraped_date": "2026-11-03",
-      "hash": "30adc0373ac014509b251e28513a27d1"
     }
   ]
 }

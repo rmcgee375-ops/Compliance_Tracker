@@ -1,33 +1,26 @@
 {
-  "run_date": "2026-11-03T02:50:11.191828",
-  "total_new_updates": 3,
+  "run_date": "2026-11-10T03:19:27.482092",
+  "total_new_updates": 2,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 3,
+      "new_count": 2,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Small Business Cybersecurity: Non-Employer Firms",
-          "link": "https://csrc.nist.gov/News/2026/small-biz-cybersecurity-non-employer-firms-final",
+          "title": "Adversarial Machine Learning Taxonomy 2026 | Draft",
+          "link": "https://csrc.nist.gov/News/2026/adversarial-machine-learning-taxonomy-2026-draft",
           "published_date": null,
-          "scraped_date": "2026-11-03",
-          "hash": "659aee2e37553ef5ec2d1a30da40cb72"
+          "scraped_date": "2026-11-10",
+          "hash": "994267fa142ab4cda5188655726fad4c"
         },
         {
-          "title": "NIST Releases IR 8621",
-          "link": "https://csrc.nist.gov/News/2026/nist-releases-ir-8621",
+          "title": "Key Derivation Using Pseudorandom Functions",
+          "link": "https://csrc.nist.gov/News/2026/key-derivation-using-pseudorandom-functions",
           "published_date": null,
-          "scraped_date": "2026-11-03",
-          "hash": "c435984bdc6dde2d09142898bee28ba2"
-        },
-        {
-          "title": "Transition to PQC Standards | NIST IR 8547",
-          "link": "https://csrc.nist.gov/News/2026/transition-to-pqc-standards-nist-ir-8547",
-          "published_date": null,
-          "scraped_date": "2026-11-03",
-          "hash": "d07f484af6f87aa3ad5b6e900f1f3687"
+          "scraped_date": "2026-11-10",
+          "hash": "32e9af4cf45a9650daf48741720add4d"
         }
       ]
     },

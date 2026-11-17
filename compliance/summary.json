@@ -1,26 +1,19 @@
 {
-  "run_date": "2026-11-10T03:19:27.482092",
-  "total_new_updates": 2,
+  "run_date": "2026-11-17T03:34:27.278684",
+  "total_new_updates": 1,
   "sources": [
     {
       "source": "NIST",
       "success": true,
-      "new_count": 2,
+      "new_count": 1,
       "total_count": 15,
       "new_updates": [
         {
-          "title": "Adversarial Machine Learning Taxonomy 2026 | Draft",
-          "link": "https://csrc.nist.gov/News/2026/adversarial-machine-learning-taxonomy-2026-draft",
+          "title": "NIST announces the publication of NIST IR 8616",
+          "link": "https://csrc.nist.gov/News/2026/nist-announces-the-publication-of-nist-ir-8616",
           "published_date": null,
-          "scraped_date": "2026-11-10",
-          "hash": "994267fa142ab4cda5188655726fad4c"
-        },
-        {
-          "title": "Key Derivation Using Pseudorandom Functions",
-          "link": "https://csrc.nist.gov/News/2026/key-derivation-using-pseudorandom-functions",
-          "published_date": null,
-          "scraped_date": "2026-11-10",
-          "hash": "32e9af4cf45a9650daf48741720add4d"
+          "scraped_date": "2026-11-17",
+          "hash": "ff2926d56642285135578ca756c14bc0"
         }
       ]
     },

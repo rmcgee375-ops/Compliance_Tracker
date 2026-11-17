@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "last_checked": "2026-11-10T03:19:27.902169",
+    "last_checked": "2026-11-17T03:34:27.619764",
     "agencies": [
       "labor-department",
       "animal-and-plant-health-inspection-service"
     ],
-    "total_updates": 3,
-    "new_updates": 3,
+    "total_updates": 17,
+    "new_updates": 17,
     "lookback_days": 7
   },
   "updates": [
     {
-      "title": "Pioneer Hi-Bred International, Inc.: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for Insect Resistant COR-\u00d8\u00d8121-4 Maize (Zea mays)",
+      "title": "Notice of Request for Approval of a New Information Collection; Highly Pathogenic Avian Influenza: Administration of Vaccine in Zoos",
       "type": "Notice",
-      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from Pioneer Hi-Bred International, Inc. seeking a determination of nonregulated status for COR-[Oslash][Oslash]121-4 maize (corn), which has been developed using genetic engineering to express the IPD083Cb protein for protection against certain susceptible lepidopteran pests and the phosphomannose isomerase protein that was used as a selectable marker. We are making the petition and draft plant pest risk assessment available for public review and comment.",
-      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22810/pioneer-hi-bred-international-inc-availability-of-a-petition-for-a-determination-of-nonregulated",
-      "publication_date": "2026-11-09",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request approval of a new information collection for implementation of vaccination for highly pathogenic avian influenza in zoos and animal sanctuaries.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23302/notice-of-request-for-approval-of-a-new-information-collection-highly-pathogenic-avian-influenza",
+      "publication_date": "2026-11-16",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF AGRICULTURE",
@@ -36,14 +36,90 @@
           "slug": "animal-and-plant-health-inspection-service"
         }
       ],
-      "hash": "042c3da42ed57892bed00f41fea61835"
+      "hash": "9411e6e6738722ed5c796cc5bf4307bd"
     },
     {
-      "title": "Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges",
-      "type": "Rule",
-      "abstract": "This action finalizes the Department of Labor's (DOL or Department) proposal to require electronic filing (e-filing) in proceedings before the Office of Administrative Law Judges (OALJ), published on January 11, 2021. The Department has reviewed the comments received in response to the proposal and is now implementing the rule as described in the proposed rule of January 11, 2021, with appropriate exceptions for good cause shown and self-represented parties.",
-      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22761/rules-of-practice-and-procedure-for-administrative-hearings-before-the-office-of-administrative-law",
-      "publication_date": "2026-11-09",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23298/agency-information-collection-activities-submission-for-omb-review-comment-request-claim",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "b3e69c0f1c91b7046a4ad88b39efe9aa"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23297/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "6239aa1b35d24d3ebe897c881fea02d6"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23296/agency-information-collection-activities-submission-for-omb-review-comment-request-administration-of",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "f6b051f415880c595cc1c099e502652b"
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23295/agency-information-collection-activities-submission-for-omb-review-comment-request-request-for",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "hash": "3cbed47e0f19f9d3b7b6ade7d20e23b7"
+    },
+    {
+      "title": "Proposed Revision of Information Collection; Certification of Medical Necessity",
+      "type": "Notice",
+      "abstract": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, \"Certificate of Medical Necessity\". This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23294/proposed-revision-of-information-collection-certification-of-medical-necessity",
+      "publication_date": "2026-11-16",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -55,17 +131,23 @@
           "slug": "labor-department"
         },
         {
-          "raw_name": "Office of the Secretary"
+          "raw_name": "Office of Workers' Compensation Programs",
+          "name": "Workers' Compensation Programs Office",
+          "id": 530,
+          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
+          "parent_id": 271,
+          "slug": "workers-compensation-programs-office"
         }
       ],
-      "hash": "1dcd039d1a8fdf87034a6e24f2c65750"
+      "hash": "dfbbfa8d4c1cf47e766fa378e60b25c5"
     },
     {
-      "title": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
-      "type": "Rule",
-      "abstract": "The Department of Labor (DOL or the Department) is issuing this final rule to remove the onerous and legally questionable affirmative action requirements that were previously imposed by the Department on Registered Apprenticeship program sponsors. This final rule also streamlines and simplifies nondiscrimination obligations for all program sponsors, while clarifying that sponsors are accountable for compliance with Federal and State nondiscrimination protections. It also makes conforming, technical changes to the Department's regulation that addresses Labor Standards for the Registration of Apprenticeship Programs.",
-      "html_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs",
-      "publication_date": "2026-11-06",
+      "title": "Agency Information Collection Activities; Comment Request; Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities",
+      "type": "Notice",
+      "abstract": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23293/agency-information-collection-activities-comment-request-quarterly-narrative-progress-report",
+      "publication_date": "2026-11-16",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF LABOR",
@@ -75,9 +157,298 @@
           "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
           "parent_id": null,
           "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
         }
       ],
-      "hash": "921b6a418a8e9597a7c08abe7d20c1f9"
+      "hash": "a6021c8328dc5fb0717b23e7c1b267c9"
+    },
+    {
+      "title": "Agency Information Collection Activities; Comment Request; Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report",
+      "type": "Notice",
+      "abstract": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23292/agency-information-collection-activities-comment-request-workforce-innovation-and-opportunity-act",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
+        }
+      ],
+      "hash": "0f3ba49fc1e69db4fca1e69a74898df6"
+    },
+    {
+      "title": "Horse Protection",
+      "type": "Proposed Rule",
+      "abstract": "On May 8, 2024, the Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture published in the Federal Register a final rule that amended the regulations promulgated under the Horse Protection Act (the May 2024 Horse Protection final rule). APHIS is proposing to remove the provisions of the May 2024 Horse Protection final rule that have been vacated by court order and proposing to withdraw the remaining non-vacated provisions of the May 2024 Horse Protection final rule to ensure that the regulations afford due process and better align with the Act. APHIS is also proposing to amend the regulations by revising, among other things, the certification requirements for training and licensing of designated qualified persons (DQPs); enhancing DQP inspection procedures and the process for appealing APHIS inspections before any possible disqualification by management; and clarifying that if a horse is determined to be sore, it is disqualified from participating in the class in which the inspection took place and not the entire event.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23086/horse-protection",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "c91f63c86d4d26380eee7c707d551584"
+    },
+    {
+      "title": "Mining of Pillars",
+      "type": "Rule",
+      "abstract": "MSHA is eliminating outdated requirements for the final mining of pillars from MSHA's regulations. These requirements are being removed because the practice of final mining of pillars with one mine opening is no longer used in the mining industry due to safety concerns.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23053/mining-of-pillars",
+      "publication_date": "2026-11-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "60604b759bd03ad4f6b7693969dbb944"
+    },
+    {
+      "title": "Electrical Equipment for Coal Seams Above the Water Table",
+      "type": "Rule",
+      "abstract": "MSHA is removing requirements for the use of permissible electric face equipment in coal seams above the water table. These requirements are being removed from MSHA's regulations because all coal mines are now considered gassy, regardless of location relative to the water table.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23052/electrical-equipment-for-coal-seams-above-the-water-table",
+      "publication_date": "2026-11-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "2012fa1a08216949dfe0b87d45a48bed"
+    },
+    {
+      "title": "Improving and Eliminating Regulations; Installation of Foam Generator Systems in Underground Coal Mines",
+      "type": "Rule",
+      "abstract": "MSHA is removing outdated requirements regarding the installation of foam generator systems located in underground coal mines. These requirements are being removed from MSHA's regulations because they are no longer applicable.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23051/improving-and-eliminating-regulations-installation-of-foam-generator-systems-in-underground-coal",
+      "publication_date": "2026-11-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "a022bbdd2278b7110cb4126727da3480"
+    },
+    {
+      "title": "Improving and Eliminating Regulations; Limit on Exposure to Diesel Particulate Matter in Underground Metal and Nonmetal Mines",
+      "type": "Rule",
+      "abstract": "MSHA is eliminating outdated requirements for diesel particulate matter (DPM) personal exposure limits for underground metal and nonmetal (MNM) mines. These requirements are being removed from MSHA's regulations because they contain outdated effective dates and exposure limits that are no longer applicable.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23050/improving-and-eliminating-regulations-limit-on-exposure-to-diesel-particulate-matter-in-underground",
+      "publication_date": "2026-11-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "67af81144636509b2c2e426c4fde897b"
+    },
+    {
+      "title": "Improving and Eliminating Regulations; Permissible Lamps in Underground Coal Mines",
+      "type": "Rule",
+      "abstract": "MSHA is removing duplicative requirements for electric cap lamps and other electric lamps in underground coal mines. This provision is being removed from MSHA's regulations because it is a duplicative provision and its removal will not reduce the protections afforded to miners.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23049/improving-and-eliminating-regulations-permissible-lamps-in-underground-coal-mines",
+      "publication_date": "2026-11-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "f103ada40281faf92f142f1a4ad9b243"
+    },
+    {
+      "title": "Respirable Crystalline Silica and Respiratory Protection",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule clarifies and modifies provisions of the respirable crystalline silica and respiratory protection standards that were established in MSHA's 2024 final rule titled \"Lowering Miners' Exposure to Respirable Crystalline Silica and Improving Respiratory Protection.\" The changes provide clarity and make improvements to the requirements for methods of compliance, exposure monitoring, respiratory protection, medical surveillance, and recordkeeping while maintaining strong protection of miners. The proposal also includes related conforming amendments.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23048/respirable-crystalline-silica-and-respiratory-protection",
+      "publication_date": "2026-11-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "hash": "747baad7b209bfbb2c99bad0fcaf006a"
+    },
+    {
+      "title": "Mozza Foods, Inc.: Availability of a Petition for a Determination of Nonregulated Status and Draft Plant Pest Risk Assessment for MF1786-1 Soybean (Glycine max) Expressing Casein Proteins",
+      "type": "Notice",
+      "abstract": "We are advising the public that the Animal and Plant Health Inspection Service has received a petition from Mozza Foods, Inc. seeking a determination of nonregulated status for MF1786-1 Soybean (Glycine max) which has been developed using genetic engineering to express the bovine alpha S1, beta and kappa casein proteins and the FAM20C kinase in its seeds, and to reduce the level of soybean glycinin proteins in seeds. We are making the petition and draft plant pest risk assessment available for public review and comment.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23015/mozza-foods-inc-availability-of-a-petition-for-a-determination-of-nonregulated-status-and-draft",
+      "publication_date": "2026-11-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "hash": "5cb0aff771bf9574bdf8d8c84ee2f734"
+    },
+    {
+      "title": "Unemployment Insurance Program National Minimum Weekly Work Search Requirements",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Labor (Department), through the Employment and Training Administration (ETA), is proposing to amend 20 CFR part 604 both to reflect a 2012 update in Federal law in which Congress, by amending section 303(a) of the Social Security Act (SSA), established a Federal work search requirement; and to establish a national minimum weekly work search requirement standard for the Federal-State unemployment compensation (UC) program. This proposed rule would mandate, among other things, that States require individuals claiming UC to complete at least five qualifying work search activities or, where applicable, meet State-adopted points-based system requirements amounting to five qualifying activities or satisfy equivalent labor force attachment criteria, each week for which UC is claimed; that individuals report their work search activities as part of their certification process prior to payment being issued; and that State law allow for certain qualifying work search activities beyond simply employer contacts. This action is necessary to reduce inconsistencies beyond those created by local labor markets in State- level requirements for individuals to actively seek work. The intended effect is to hold States accountable for administering a UC program that provides temporary wage replacement to eligible individuals while they are actively seeking work through a meaningful engagement with the labor market.",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22903/unemployment-insurance-program-national-minimum-weekly-work-search-requirements",
+      "publication_date": "2026-11-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
+        }
+      ],
+      "hash": "9c85dfecc92ebf5828dd546cc34a0571"
     }
   ]
 }
